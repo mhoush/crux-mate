@@ -1,0 +1,18 @@
+# Description: A shim to maintain compatibility between current desktop icon themes and the icon naming specification
+# URL: http://tango.freedesktop.org/
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: p5-xml-simple
+
+name=icon-naming-utils
+version=0.8.90
+release=1
+source=(http://tango.freedesktop.org/releases/$name-$version.tar.bz2)
+
+build() {
+	cd $name-$version
+	./configure --prefix=/usr \
+		--libexecdir=/usr/lib/$name \
+		--disable-nls
+	make
+	make DESTDIR=$PKG install
+}

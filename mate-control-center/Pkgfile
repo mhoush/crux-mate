@@ -1,0 +1,23 @@
+# Description: MATE Control Center
+# URL: http://www.mate-desktop.org/
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: mate-desktop libunique marco mate-menus dbus-glib mate-settings-daemon
+
+name=mate-control-center
+version=1.14.0
+release=1
+source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
+
+build() {
+	cd $name-$version
+
+	sed -i -e 's,update-desktop-database,true,' font-viewer/Makefile.in
+
+	./configure --prefix=/usr \
+		--disable-nls \
+		--disable-update-mimedb
+	make
+	make DESTDIR=$PKG install
+
+	rm -r $PKG/usr/share/locale
+}

@@ -1,0 +1,411 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/bin/
+-rwxr-xr-x	root/root	usr/bin/pluma
+drwxr-xr-x	root/root	usr/include/
+drwxr-xr-x	root/root	usr/include/pluma/
+-rw-r--r--	root/root	usr/include/pluma/pluma-app.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-commands.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-debug.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-document.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-encodings-combo-box.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-encodings.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-file-chooser-dialog.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-help.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-message-bus.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-message-type.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-message.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-notebook.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-panel.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-plugin.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-prefs-manager-app.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-prefs-manager.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-progress-message-area.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-status-combo-box.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-statusbar.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-tab.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-utils.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-view.h
+-rw-r--r--	root/root	usr/include/pluma/pluma-window.h
+drwxr-xr-x	root/root	usr/lib/
+drwxr-xr-x	root/root	usr/lib/pkgconfig/
+-rw-r--r--	root/root	usr/lib/pkgconfig/pluma.pc
+drwxr-xr-x	root/root	usr/lib/pluma/
+drwxr-xr-x	root/root	usr/lib/pluma/plugin-loaders/
+-rwxr-xr-x	root/root	usr/lib/pluma/plugin-loaders/libcloader.la
+-rwxr-xr-x	root/root	usr/lib/pluma/plugin-loaders/libcloader.so
+drwxr-xr-x	root/root	usr/lib/pluma/plugins/
+-rw-r--r--	root/root	usr/lib/pluma/plugins/changecase.pluma-plugin
+-rw-r--r--	root/root	usr/lib/pluma/plugins/docinfo.pluma-plugin
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools.pluma-plugin
+drwxr-xr-x	root/root	usr/lib/pluma/plugins/externaltools/
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/__init__.py
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/__init__.pyc
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/__init__.pyo
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/capture.py
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/capture.pyc
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/capture.pyo
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/filelookup.py
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/filelookup.pyc
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/filelookup.pyo
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/functions.py
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/functions.pyc
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/functions.pyo
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/library.py
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/library.pyc
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/library.pyo
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/linkparsing.py
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/linkparsing.pyc
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/linkparsing.pyo
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/manager.py
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/manager.pyc
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/manager.pyo
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/outputpanel.py
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/outputpanel.pyc
+-rw-r--r--	root/root	usr/lib/pluma/plugins/externaltools/outputpanel.pyo
+-rw-r--r--	root/root	usr/lib/pluma/plugins/filebrowser.pluma-plugin
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libchangecase.la
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libchangecase.so
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libdocinfo.la
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libdocinfo.so
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libfilebrowser.la
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libfilebrowser.so
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libmodelines.la
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libmodelines.so
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libsort.la
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libsort.so
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libspell.la
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libspell.so
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libtaglist.la
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libtaglist.so
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libtime.la
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libtime.so
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libtrailsave.la
+-rwxr-xr-x	root/root	usr/lib/pluma/plugins/libtrailsave.so
+-rw-r--r--	root/root	usr/lib/pluma/plugins/modelines.pluma-plugin
+-rw-r--r--	root/root	usr/lib/pluma/plugins/sort.pluma-plugin
+-rw-r--r--	root/root	usr/lib/pluma/plugins/spell.pluma-plugin
+-rw-r--r--	root/root	usr/lib/pluma/plugins/taglist.pluma-plugin
+-rw-r--r--	root/root	usr/lib/pluma/plugins/time.pluma-plugin
+-rw-r--r--	root/root	usr/lib/pluma/plugins/trailsave.pluma-plugin
+drwxr-xr-x	root/root	usr/lib/pluma/pluma/
+-rwxr-xr-x	root/root	usr/lib/pluma/pluma/pluma-bugreport.sh
+drwxr-xr-x	root/root	usr/share/
+drwxr-xr-x	root/root	usr/share/appdata/
+-rw-r--r--	root/root	usr/share/appdata/pluma.appdata.xml
+drwxr-xr-x	root/root	usr/share/applications/
+-rw-r--r--	root/root	usr/share/applications/pluma.desktop
+drwxr-xr-x	root/root	usr/share/glib-2.0/
+drwxr-xr-x	root/root	usr/share/glib-2.0/schemas/
+-rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.pluma.gschema.xml
+-rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.pluma.plugins.filebrowser.gschema.xml
+-rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.pluma.plugins.spell.gschema.xml
+-rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.pluma.plugins.time.gschema.xml
+drwxr-xr-x	root/root	usr/share/help/
+drwxr-xr-x	root/root	usr/share/help/C/
+drwxr-xr-x	root/root	usr/share/help/C/pluma/
+drwxr-xr-x	root/root	usr/share/help/C/pluma/figures/
+-rw-r--r--	root/root	usr/share/help/C/pluma/figures/pluma_format_bold.png
+-rw-r--r--	root/root	usr/share/help/C/pluma/figures/pluma_format_italic.png
+-rw-r--r--	root/root	usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+-rw-r--r--	root/root	usr/share/help/C/pluma/figures/pluma_format_underline.png
+-rw-r--r--	root/root	usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/C/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/C/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/C/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/ar/
+drwxr-xr-x	root/root	usr/share/help/ar/pluma/
+drwxr-xr-x	root/root	usr/share/help/ar/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/ar/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/ar/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/ar/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/ar/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/ar/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+lrwxrwxrwx	root/root	usr/share/help/ar/pluma/figures/pluma_window.png -> /usr/share/help/C/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/ar/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/ar/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/bg/
+drwxr-xr-x	root/root	usr/share/help/bg/pluma/
+drwxr-xr-x	root/root	usr/share/help/bg/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/bg/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/bg/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/bg/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/bg/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/bg/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/bg/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/bg/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/bg/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/ca/
+drwxr-xr-x	root/root	usr/share/help/ca/pluma/
+drwxr-xr-x	root/root	usr/share/help/ca/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/ca/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/ca/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/ca/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/ca/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/ca/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/ca/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/ca/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/ca/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/cs/
+drwxr-xr-x	root/root	usr/share/help/cs/pluma/
+drwxr-xr-x	root/root	usr/share/help/cs/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/cs/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/cs/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/cs/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/cs/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/cs/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/cs/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/cs/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/cs/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/da/
+drwxr-xr-x	root/root	usr/share/help/da/pluma/
+drwxr-xr-x	root/root	usr/share/help/da/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/da/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/da/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/da/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/da/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/da/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+lrwxrwxrwx	root/root	usr/share/help/da/pluma/figures/pluma_window.png -> /usr/share/help/C/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/da/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/da/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/de/
+drwxr-xr-x	root/root	usr/share/help/de/pluma/
+drwxr-xr-x	root/root	usr/share/help/de/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/de/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/de/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/de/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/de/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/de/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/de/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/de/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/de/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/el/
+drwxr-xr-x	root/root	usr/share/help/el/pluma/
+drwxr-xr-x	root/root	usr/share/help/el/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/el/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/el/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/el/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/el/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/el/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/el/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/el/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/el/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/es/
+drwxr-xr-x	root/root	usr/share/help/es/pluma/
+drwxr-xr-x	root/root	usr/share/help/es/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/es/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/es/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/es/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/es/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/es/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/es/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/es/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/es/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/fi/
+drwxr-xr-x	root/root	usr/share/help/fi/pluma/
+drwxr-xr-x	root/root	usr/share/help/fi/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/fi/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/fi/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/fi/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/fi/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/fi/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/fi/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/fi/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/fi/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/fr/
+drwxr-xr-x	root/root	usr/share/help/fr/pluma/
+drwxr-xr-x	root/root	usr/share/help/fr/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/fr/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/fr/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/fr/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/fr/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+-rw-r--r--	root/root	usr/share/help/fr/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/fr/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/fr/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/fr/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/hu/
+drwxr-xr-x	root/root	usr/share/help/hu/pluma/
+drwxr-xr-x	root/root	usr/share/help/hu/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/hu/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/hu/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/hu/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/hu/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/hu/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+lrwxrwxrwx	root/root	usr/share/help/hu/pluma/figures/pluma_window.png -> /usr/share/help/C/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/hu/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/hu/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/it/
+drwxr-xr-x	root/root	usr/share/help/it/pluma/
+drwxr-xr-x	root/root	usr/share/help/it/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/it/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/it/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/it/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/it/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/it/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/it/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/it/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/it/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/ja/
+drwxr-xr-x	root/root	usr/share/help/ja/pluma/
+drwxr-xr-x	root/root	usr/share/help/ja/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/ja/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/ja/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/ja/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/ja/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/ja/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/ja/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/ja/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/ja/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/ko/
+drwxr-xr-x	root/root	usr/share/help/ko/pluma/
+drwxr-xr-x	root/root	usr/share/help/ko/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/ko/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/ko/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/ko/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/ko/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/ko/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/ko/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/ko/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/ko/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/oc/
+drwxr-xr-x	root/root	usr/share/help/oc/pluma/
+drwxr-xr-x	root/root	usr/share/help/oc/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/oc/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/oc/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/oc/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/oc/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/oc/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+lrwxrwxrwx	root/root	usr/share/help/oc/pluma/figures/pluma_window.png -> /usr/share/help/C/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/oc/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/oc/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/pt_BR/
+drwxr-xr-x	root/root	usr/share/help/pt_BR/pluma/
+drwxr-xr-x	root/root	usr/share/help/pt_BR/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/pt_BR/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/pt_BR/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/pt_BR/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/pt_BR/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/pt_BR/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+lrwxrwxrwx	root/root	usr/share/help/pt_BR/pluma/figures/pluma_window.png -> /usr/share/help/C/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/pt_BR/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/pt_BR/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/ru/
+drwxr-xr-x	root/root	usr/share/help/ru/pluma/
+drwxr-xr-x	root/root	usr/share/help/ru/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/ru/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/ru/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/ru/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/ru/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/ru/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+lrwxrwxrwx	root/root	usr/share/help/ru/pluma/figures/pluma_window.png -> /usr/share/help/C/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/ru/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/ru/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/sv/
+drwxr-xr-x	root/root	usr/share/help/sv/pluma/
+drwxr-xr-x	root/root	usr/share/help/sv/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/sv/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/sv/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/sv/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/sv/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/sv/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/sv/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/sv/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/sv/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/th/
+drwxr-xr-x	root/root	usr/share/help/th/pluma/
+drwxr-xr-x	root/root	usr/share/help/th/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/th/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/th/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/th/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/th/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/th/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+lrwxrwxrwx	root/root	usr/share/help/th/pluma/figures/pluma_window.png -> /usr/share/help/C/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/th/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/th/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/uk/
+drwxr-xr-x	root/root	usr/share/help/uk/pluma/
+drwxr-xr-x	root/root	usr/share/help/uk/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/uk/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/uk/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/uk/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/uk/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/uk/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/uk/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/uk/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/uk/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/zh_CN/
+drwxr-xr-x	root/root	usr/share/help/zh_CN/pluma/
+drwxr-xr-x	root/root	usr/share/help/zh_CN/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/zh_CN/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/zh_CN/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/zh_CN/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/zh_HK/
+drwxr-xr-x	root/root	usr/share/help/zh_HK/pluma/
+drwxr-xr-x	root/root	usr/share/help/zh_HK/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/zh_HK/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/zh_HK/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/zh_HK/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/zh_HK/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/zh_HK/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/zh_HK/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/zh_HK/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/zh_HK/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/help/zh_TW/
+drwxr-xr-x	root/root	usr/share/help/zh_TW/pluma/
+drwxr-xr-x	root/root	usr/share/help/zh_TW/pluma/figures/
+lrwxrwxrwx	root/root	usr/share/help/zh_TW/pluma/figures/pluma_format_bold.png -> /usr/share/help/C/pluma/figures/pluma_format_bold.png
+lrwxrwxrwx	root/root	usr/share/help/zh_TW/pluma/figures/pluma_format_italic.png -> /usr/share/help/C/pluma/figures/pluma_format_italic.png
+lrwxrwxrwx	root/root	usr/share/help/zh_TW/pluma/figures/pluma_format_strikethrough.png -> /usr/share/help/C/pluma/figures/pluma_format_strikethrough.png
+lrwxrwxrwx	root/root	usr/share/help/zh_TW/pluma/figures/pluma_format_underline.png -> /usr/share/help/C/pluma/figures/pluma_format_underline.png
+lrwxrwxrwx	root/root	usr/share/help/zh_TW/pluma/figures/pluma_recent_files_menu_icon.png -> /usr/share/help/C/pluma/figures/pluma_recent_files_menu_icon.png
+-rw-r--r--	root/root	usr/share/help/zh_TW/pluma/figures/pluma_window.png
+-rw-r--r--	root/root	usr/share/help/zh_TW/pluma/index.docbook
+-rw-r--r--	root/root	usr/share/help/zh_TW/pluma/legal.xml
+drwxr-xr-x	root/root	usr/share/man/
+drwxr-xr-x	root/root	usr/share/man/man1/
+-rw-r--r--	root/root	usr/share/man/man1/pluma.1.gz
+drwxr-xr-x	root/root	usr/share/pluma/
+drwxr-xr-x	root/root	usr/share/pluma/icons/
+-rw-r--r--	root/root	usr/share/pluma/icons/pluma-plugin.png
+drwxr-xr-x	root/root	usr/share/pluma/plugins/
+drwxr-xr-x	root/root	usr/share/pluma/plugins/docinfo/
+-rw-r--r--	root/root	usr/share/pluma/plugins/docinfo/docinfo.ui
+drwxr-xr-x	root/root	usr/share/pluma/plugins/externaltools/
+drwxr-xr-x	root/root	usr/share/pluma/plugins/externaltools/tools/
+-rwxr-xr-x	root/root	usr/share/pluma/plugins/externaltools/tools/build
+-rwxr-xr-x	root/root	usr/share/pluma/plugins/externaltools/tools/open-terminal-here
+-rwxr-xr-x	root/root	usr/share/pluma/plugins/externaltools/tools/remove-trailing-spaces
+-rwxr-xr-x	root/root	usr/share/pluma/plugins/externaltools/tools/run-command
+-rwxr-xr-x	root/root	usr/share/pluma/plugins/externaltools/tools/search-recursive
+-rwxr-xr-x	root/root	usr/share/pluma/plugins/externaltools/tools/switch-c
+drwxr-xr-x	root/root	usr/share/pluma/plugins/externaltools/ui/
+-rw-r--r--	root/root	usr/share/pluma/plugins/externaltools/ui/outputpanel.ui
+-rw-r--r--	root/root	usr/share/pluma/plugins/externaltools/ui/tools.ui
+drwxr-xr-x	root/root	usr/share/pluma/plugins/filebrowser/
+-rw-r--r--	root/root	usr/share/pluma/plugins/filebrowser/pluma-file-browser-widget-ui.xml
+drwxr-xr-x	root/root	usr/share/pluma/plugins/modelines/
+-rw-r--r--	root/root	usr/share/pluma/plugins/modelines/language-mappings
+drwxr-xr-x	root/root	usr/share/pluma/plugins/sort/
+-rw-r--r--	root/root	usr/share/pluma/plugins/sort/sort.ui
+drwxr-xr-x	root/root	usr/share/pluma/plugins/spell/
+-rw-r--r--	root/root	usr/share/pluma/plugins/spell/languages-dialog.ui
+-rw-r--r--	root/root	usr/share/pluma/plugins/spell/pluma-spell-setup-dialog.ui
+-rw-r--r--	root/root	usr/share/pluma/plugins/spell/spell-checker.ui
+drwxr-xr-x	root/root	usr/share/pluma/plugins/taglist/
+-rw-r--r--	root/root	usr/share/pluma/plugins/taglist/HTML.tags.gz
+-rw-r--r--	root/root	usr/share/pluma/plugins/taglist/Latex.tags.gz
+-rw-r--r--	root/root	usr/share/pluma/plugins/taglist/XSLT.tags.gz
+-rw-r--r--	root/root	usr/share/pluma/plugins/taglist/XUL.tags.gz
+drwxr-xr-x	root/root	usr/share/pluma/plugins/time/
+-rw-r--r--	root/root	usr/share/pluma/plugins/time/pluma-time-dialog.ui
+-rw-r--r--	root/root	usr/share/pluma/plugins/time/pluma-time-setup-dialog.ui
+drwxr-xr-x	root/root	usr/share/pluma/ui/
+-rw-r--r--	root/root	usr/share/pluma/ui/pluma-encodings-dialog.ui
+-rw-r--r--	root/root	usr/share/pluma/ui/pluma-preferences-dialog.ui
+-rw-r--r--	root/root	usr/share/pluma/ui/pluma-print-preferences.ui
+-rw-r--r--	root/root	usr/share/pluma/ui/pluma-search-dialog.ui
+-rw-r--r--	root/root	usr/share/pluma/ui/pluma-ui.xml

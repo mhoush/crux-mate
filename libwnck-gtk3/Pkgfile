@@ -1,0 +1,26 @@
+# Description: Window Navigator Construction Kit library
+# URL: https://developer.gnome.org/libwnck/
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: gtk3
+
+name=libwnck-gtk3
+version=3.14.1
+release=1
+source=(http://download.gnome.org/sources/libwnck/${version:0:4}/libwnck-$version.tar.xz)
+
+build() {
+  cd libwnck-$version
+
+  rm po/*.po
+  sed -i configure \
+      -e 's/USE_NLS=yes/USE_NLS=no/' \
+      -e 's/ENABLE_NLS 1/ENABLE_NLS 0/'
+
+  ./configure --prefix=/usr \
+	--program-suffix=-3
+
+  make
+  make DESTDIR=$PKG install
+
+  rm -rf $PKG/usr/share
+}

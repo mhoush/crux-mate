@@ -1,0 +1,19 @@
+# Description: A portable C library that extends GTK+ with features typical of a source code editor
+# URL: https://wiki.gnome.org/Projects/GtkSourceView
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: gtk
+
+name=gtksourceview
+version=2.10.5
+release=1
+source=(http://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.bz2)
+
+build() {
+	cd $name-$version
+	./configure --prefix=/usr \
+		--disable-nls
+	make
+	make DESTDIR=$PKG install
+
+	rm -r $PKG/usr/share/{gtk-doc,locale}
+}

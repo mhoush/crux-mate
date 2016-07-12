@@ -1,0 +1,20 @@
+# Description: A fork of gnome-settings-daemon for MATE
+# URL: http://www.mate-desktop.org/
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: dconf mate-desktop libnotify libmatekbd libxklavier dbus mate-polkit nss dbus-glib
+
+name=mate-settings-daemon
+version=1.14.0
+release=1
+source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
+
+build() {
+	cd $name-$version
+	./configure --prefix=/usr \
+		--libexecdir=/usr/lib/$name \
+		--disable-nls
+	make
+	make DESTDIR=$PKG install
+
+	rm -r $PKG/usr/share/locale
+}

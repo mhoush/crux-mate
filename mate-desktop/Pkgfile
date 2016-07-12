@@ -1,0 +1,19 @@
+# Description: A library with common API for MATE modules
+# URL: http://www.mate-desktop.org/
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: dconf startup-notification gtk desktop-file-utils
+
+name=mate-desktop
+version=1.14.1
+release=1
+source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
+
+build() {
+	cd $name-$version
+	./configure --prefix=/usr \
+		--disable-nls
+	make
+	make DESTDIR=$PKG install
+
+	rm -r $PKG/usr/share/{gtk-doc,locale}
+}

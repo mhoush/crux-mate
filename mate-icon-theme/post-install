@@ -1,0 +1,6 @@
+#!/bin/sh
+
+/usr/bin/gtk-update-icon-cache -ft /usr/share/icons/mate
+/usr/bin/gtk-update-icon-cache -ft /usr/share/icons/menta
+
+# EOF

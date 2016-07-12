@@ -1,0 +1,17 @@
+
+README for librsvg
+
+
+NOTES
+
+	Version 2.39.0 is the last one with support for GTK+2:
+        http://ftp.acc.umu.se/pub/GNOME/sources/librsvg/2.40/librsvg-2.40.0.news
+
+
+POST-INSTALL
+
+	To register SVG as a loadable module for gdk-pixbuf you must run:
+
+	# gdk-pixbuf-query-loaders --update-cache
+
+	To do that also you can execute the post-install script.

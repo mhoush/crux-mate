@@ -1,0 +1,19 @@
+# Description: A library to get system-specific data such as CPU and memory usage and information about running processes
+# URL: https://developer.gnome.org/libgtop/stable/
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: gobject-introspection
+
+name=libgtop
+version=2.34.0
+release=1
+source=(http://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.xz)
+
+build() {
+	cd $name-$version
+	./configure --prefix=/usr \
+		--disable-nls
+	make
+	make DESTDIR=$PKG install
+
+	rm -r $PKG/usr/share/{gtk-doc,info,locale}
+}

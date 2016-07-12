@@ -1,0 +1,18 @@
+# Description: A file archiver for MATE
+# URL: http://www.mate-desktop.org/
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: caja itstool
+
+name=engrampa
+version=1.14.1
+release=1
+source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
+
+build() {
+	cd $name-$version
+	./configure --prefix=/usr \
+		--libexecdir=/usr/lib/$name \
+		--disable-nls
+	make
+	make DESTDIR=$PKG install
+}

@@ -1,0 +1,20 @@
+# Description: An authentication agent for policykit that integrates with MATE
+# URL: http://www.mate-desktop.org/
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: polkit gtk
+
+name=mate-polkit
+version=1.14.0
+release=1
+source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
+
+build() {
+	cd $name-$version
+	./configure --prefix=/usr \
+		--libexecdir=/usr/lib/$name \
+		--disable-nls
+	make
+	make DESTDIR=$PKG install
+
+	rm -r $PKG/usr/share/locale
+}

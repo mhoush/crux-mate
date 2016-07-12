@@ -1,0 +1,20 @@
+# Description: Library for storing and retrieving passwords and other secrets.
+# URL: https://wiki.gnome.org/Projects/Libsecret
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: glib gobject-introspection docbook-xsl libgcrypt
+
+name=libsecret
+version=0.18.4
+release=1
+source=(http://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.xz)
+
+build() {
+	cd $name-$version
+	./configure --prefix=/usr \
+		--disable-nls \
+		--disable-dependency-tracking
+	make
+	make DESTDIR=$PKG install
+
+	rm -r $PKG/usr/share/{gtk-doc,locale}
+}

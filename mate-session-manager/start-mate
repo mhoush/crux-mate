@@ -1,0 +1,39 @@
+#!/bin/sh
+
+#
+# /usr/bin/start-mate: Start mate-session with proper XDG and ConsoleKit invocation
+#
+
+
+# XDG_DATA_DIRS (default to /usr/share)
+if test "x${XDG_DATA_DIRS}" = "x"
+then
+	XDG_DATA_DIRS="/usr/share"
+else
+	XDG_DATA_DIRS="/usr/share:${XDG_DATA_DIRS}"
+fi
+
+export XDG_DATA_DIRS
+
+# XDG_CONFIG_DIRS (default to /usr/etc/xdg)
+if test "x${XDG_CONFIG_DIRS}" = "x"
+then
+	XDG_CONFIG_DIRS="/usr/etc/xdg"
+else
+	XDG_CONFIG_DIRS="/usr/etc/xdg:${XDG_CONFIG_DIRS}"
+fi
+
+export XDG_CONFIG_DIRS
+
+echo "XDG_DATA_DIRS:   ${XDG_DATA_DIRS}"
+echo "XDG_CONFIG_DIRS: ${XDG_CONFIG_DIRS}"
+
+if test -x /usr/bin/ck-launch-session
+then
+	CKLS="/usr/bin/ck-launch-session"
+else
+	CKLS=""
+fi
+
+# Launch MATE session
+${CKLS} /usr/bin/mate-session

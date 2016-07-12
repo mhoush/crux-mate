@@ -1,0 +1,19 @@
+# Description: A low-level configuration and settings management system
+# URL: https://wiki.gnome.org/Projects/dconf
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: docbook-xsl
+
+name=dconf
+version=0.26.0
+release=1
+source=(http://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.xz)
+
+build() {
+	cd $name-$version
+	./configure --prefix=/usr \
+		--libexecdir=/usr/lib/$name
+	make
+	make DESTDIR=$PKG install
+
+	rm -r $PKG/usr/share/gtk-doc
+}

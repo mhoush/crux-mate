@@ -1,0 +1,9 @@
+#!/bin/sh
+
+/usr/bin/glib-compile-schemas /usr/share/glib-2.0/schemas
+
+/usr/bin/gtk-update-icon-cache -ft /usr/share/icons/hicolor
+
+/usr/bin/update-desktop-database
+
+# EOF

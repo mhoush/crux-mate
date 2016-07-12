@@ -1,0 +1,17 @@
+# Description: Menu editor for MATE using the freedesktop.org menu specification
+# URL: http://www.mate-desktop.org/
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: mate-menus pygobject-gtk3 gtk desktop-file-utils
+
+name=mozo
+version=1.14.0
+release=1
+source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
+
+build() {
+	cd $name-$version
+	./configure --prefix=/usr \
+		--disable-nls
+	make
+	make DESTDIR=$PKG install
+}

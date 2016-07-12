@@ -1,0 +1,10 @@
+#!/bin/sh
+
+if [ -z "`getent group polkit`" ]; then
+	/usr/sbin/groupadd --system polkit
+fi
+
+if [ -z "`getent passwd polkit`" ]; then
+	/usr/sbin/useradd -r -g polkit -d /var/empty -s /bin/false -c "polkit" polkit
+	/usr/bin/passwd -l polkit
+fi

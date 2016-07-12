@@ -1,0 +1,20 @@
+# Description: A framework for defining and tracking users, login sessions, and seats
+# URL: http://www.freedesktop.org/wiki/Software/ConsoleKit/
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: polkit dbus-glib xorg-libx11
+
+name=consolekit
+version=0.4.6
+release=1
+source=(http://www.freedesktop.org/software/ConsoleKit/dist/ConsoleKit-$version.tar.xz \
+	revert-4f8822.diff)
+
+build() {
+	cd ConsoleKit-$version
+	patch -p1 -i $SRC/revert-4f8822.diff
+	./configure --prefix=/usr \
+		--localstatedir=/var \
+		--libexecdir=/usr/lib/$name
+	make
+	make DESTDIR=$PKG install
+}

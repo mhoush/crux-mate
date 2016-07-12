@@ -1,0 +1,273 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/bin/
+-rwxr-xr-x	root/root	usr/bin/mate-system-monitor
+drwxr-xr-x	root/root	usr/share/
+drwxr-xr-x	root/root	usr/share/appdata/
+-rw-r--r--	root/root	usr/share/appdata/mate-system-monitor.appdata.xml
+drwxr-xr-x	root/root	usr/share/applications/
+-rw-r--r--	root/root	usr/share/applications/mate-system-monitor.desktop
+drwxr-xr-x	root/root	usr/share/glib-2.0/
+drwxr-xr-x	root/root	usr/share/glib-2.0/schemas/
+-rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.system-monitor.enums.xml
+-rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.system-monitor.gschema.xml
+drwxr-xr-x	root/root	usr/share/help/
+drwxr-xr-x	root/root	usr/share/help/C/
+drwxr-xr-x	root/root	usr/share/help/C/mate-system-monitor/
+drwxr-xr-x	root/root	usr/share/help/C/mate-system-monitor/figures/
+-rw-r--r--	root/root	usr/share/help/C/mate-system-monitor/figures/addColumn.png
+-rw-r--r--	root/root	usr/share/help/C/mate-system-monitor/figures/changePriority.png
+-rw-r--r--	root/root	usr/share/help/C/mate-system-monitor/figures/colorPanel.png
+-rw-r--r--	root/root	usr/share/help/C/mate-system-monitor/figures/columnContextMenu.png
+-rw-r--r--	root/root	usr/share/help/C/mate-system-monitor/figures/mate-system-monitor_window.png
+-rw-r--r--	root/root	usr/share/help/C/mate-system-monitor/figures/memoryMaps.png
+-rw-r--r--	root/root	usr/share/help/C/mate-system-monitor/figures/moreInfo.png
+-rw-r--r--	root/root	usr/share/help/C/mate-system-monitor/figures/processListing.png
+-rw-r--r--	root/root	usr/share/help/C/mate-system-monitor/figures/sortButton.png
+-rw-r--r--	root/root	usr/share/help/C/mate-system-monitor/figures/sortMenu.png
+-rw-r--r--	root/root	usr/share/help/C/mate-system-monitor/figures/sortMenu2.png
+-rw-r--r--	root/root	usr/share/help/C/mate-system-monitor/figures/systemMonitor.png
+-rw-r--r--	root/root	usr/share/help/C/mate-system-monitor/figures/viewMenu.png
+-rw-r--r--	root/root	usr/share/help/C/mate-system-monitor/index.docbook
+-rw-r--r--	root/root	usr/share/help/C/mate-system-monitor/legal.xml
+drwxr-xr-x	root/root	usr/share/help/ar/
+drwxr-xr-x	root/root	usr/share/help/ar/mate-system-monitor/
+drwxr-xr-x	root/root	usr/share/help/ar/mate-system-monitor/figures/
+lrwxrwxrwx	root/root	usr/share/help/ar/mate-system-monitor/figures/addColumn.png -> /usr/share/help/C/mate-system-monitor/figures/addColumn.png
+lrwxrwxrwx	root/root	usr/share/help/ar/mate-system-monitor/figures/changePriority.png -> /usr/share/help/C/mate-system-monitor/figures/changePriority.png
+lrwxrwxrwx	root/root	usr/share/help/ar/mate-system-monitor/figures/colorPanel.png -> /usr/share/help/C/mate-system-monitor/figures/colorPanel.png
+lrwxrwxrwx	root/root	usr/share/help/ar/mate-system-monitor/figures/columnContextMenu.png -> /usr/share/help/C/mate-system-monitor/figures/columnContextMenu.png
+-rw-r--r--	root/root	usr/share/help/ar/mate-system-monitor/figures/mate-system-monitor_window.png
+lrwxrwxrwx	root/root	usr/share/help/ar/mate-system-monitor/figures/memoryMaps.png -> /usr/share/help/C/mate-system-monitor/figures/memoryMaps.png
+lrwxrwxrwx	root/root	usr/share/help/ar/mate-system-monitor/figures/moreInfo.png -> /usr/share/help/C/mate-system-monitor/figures/moreInfo.png
+lrwxrwxrwx	root/root	usr/share/help/ar/mate-system-monitor/figures/processListing.png -> /usr/share/help/C/mate-system-monitor/figures/processListing.png
+lrwxrwxrwx	root/root	usr/share/help/ar/mate-system-monitor/figures/sortButton.png -> /usr/share/help/C/mate-system-monitor/figures/sortButton.png
+lrwxrwxrwx	root/root	usr/share/help/ar/mate-system-monitor/figures/sortMenu.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu.png
+lrwxrwxrwx	root/root	usr/share/help/ar/mate-system-monitor/figures/sortMenu2.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu2.png
+lrwxrwxrwx	root/root	usr/share/help/ar/mate-system-monitor/figures/systemMonitor.png -> /usr/share/help/C/mate-system-monitor/figures/systemMonitor.png
+lrwxrwxrwx	root/root	usr/share/help/ar/mate-system-monitor/figures/viewMenu.png -> /usr/share/help/C/mate-system-monitor/figures/viewMenu.png
+-rw-r--r--	root/root	usr/share/help/ar/mate-system-monitor/index.docbook
+-rw-r--r--	root/root	usr/share/help/ar/mate-system-monitor/legal.xml
+drwxr-xr-x	root/root	usr/share/help/bg/
+drwxr-xr-x	root/root	usr/share/help/bg/mate-system-monitor/
+drwxr-xr-x	root/root	usr/share/help/bg/mate-system-monitor/figures/
+-rw-r--r--	root/root	usr/share/help/bg/mate-system-monitor/figures/addColumn.png
+-rw-r--r--	root/root	usr/share/help/bg/mate-system-monitor/figures/changePriority.png
+-rw-r--r--	root/root	usr/share/help/bg/mate-system-monitor/figures/colorPanel.png
+-rw-r--r--	root/root	usr/share/help/bg/mate-system-monitor/figures/columnContextMenu.png
+-rw-r--r--	root/root	usr/share/help/bg/mate-system-monitor/figures/mate-system-monitor_window.png
+-rw-r--r--	root/root	usr/share/help/bg/mate-system-monitor/figures/memoryMaps.png
+-rw-r--r--	root/root	usr/share/help/bg/mate-system-monitor/figures/moreInfo.png
+-rw-r--r--	root/root	usr/share/help/bg/mate-system-monitor/figures/processListing.png
+-rw-r--r--	root/root	usr/share/help/bg/mate-system-monitor/figures/sortButton.png
+-rw-r--r--	root/root	usr/share/help/bg/mate-system-monitor/figures/sortMenu.png
+-rw-r--r--	root/root	usr/share/help/bg/mate-system-monitor/figures/sortMenu2.png
+-rw-r--r--	root/root	usr/share/help/bg/mate-system-monitor/figures/systemMonitor.png
+-rw-r--r--	root/root	usr/share/help/bg/mate-system-monitor/figures/viewMenu.png
+-rw-r--r--	root/root	usr/share/help/bg/mate-system-monitor/index.docbook
+-rw-r--r--	root/root	usr/share/help/bg/mate-system-monitor/legal.xml
+drwxr-xr-x	root/root	usr/share/help/ca/
+drwxr-xr-x	root/root	usr/share/help/ca/mate-system-monitor/
+drwxr-xr-x	root/root	usr/share/help/ca/mate-system-monitor/figures/
+lrwxrwxrwx	root/root	usr/share/help/ca/mate-system-monitor/figures/addColumn.png -> /usr/share/help/C/mate-system-monitor/figures/addColumn.png
+lrwxrwxrwx	root/root	usr/share/help/ca/mate-system-monitor/figures/changePriority.png -> /usr/share/help/C/mate-system-monitor/figures/changePriority.png
+lrwxrwxrwx	root/root	usr/share/help/ca/mate-system-monitor/figures/colorPanel.png -> /usr/share/help/C/mate-system-monitor/figures/colorPanel.png
+lrwxrwxrwx	root/root	usr/share/help/ca/mate-system-monitor/figures/columnContextMenu.png -> /usr/share/help/C/mate-system-monitor/figures/columnContextMenu.png
+-rw-r--r--	root/root	usr/share/help/ca/mate-system-monitor/figures/mate-system-monitor_window.png
+lrwxrwxrwx	root/root	usr/share/help/ca/mate-system-monitor/figures/memoryMaps.png -> /usr/share/help/C/mate-system-monitor/figures/memoryMaps.png
+lrwxrwxrwx	root/root	usr/share/help/ca/mate-system-monitor/figures/moreInfo.png -> /usr/share/help/C/mate-system-monitor/figures/moreInfo.png
+lrwxrwxrwx	root/root	usr/share/help/ca/mate-system-monitor/figures/processListing.png -> /usr/share/help/C/mate-system-monitor/figures/processListing.png
+lrwxrwxrwx	root/root	usr/share/help/ca/mate-system-monitor/figures/sortButton.png -> /usr/share/help/C/mate-system-monitor/figures/sortButton.png
+lrwxrwxrwx	root/root	usr/share/help/ca/mate-system-monitor/figures/sortMenu.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu.png
+lrwxrwxrwx	root/root	usr/share/help/ca/mate-system-monitor/figures/sortMenu2.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu2.png
+lrwxrwxrwx	root/root	usr/share/help/ca/mate-system-monitor/figures/systemMonitor.png -> /usr/share/help/C/mate-system-monitor/figures/systemMonitor.png
+lrwxrwxrwx	root/root	usr/share/help/ca/mate-system-monitor/figures/viewMenu.png -> /usr/share/help/C/mate-system-monitor/figures/viewMenu.png
+-rw-r--r--	root/root	usr/share/help/ca/mate-system-monitor/index.docbook
+-rw-r--r--	root/root	usr/share/help/ca/mate-system-monitor/legal.xml
+drwxr-xr-x	root/root	usr/share/help/cs/
+drwxr-xr-x	root/root	usr/share/help/cs/mate-system-monitor/
+drwxr-xr-x	root/root	usr/share/help/cs/mate-system-monitor/figures/
+lrwxrwxrwx	root/root	usr/share/help/cs/mate-system-monitor/figures/addColumn.png -> /usr/share/help/C/mate-system-monitor/figures/addColumn.png
+lrwxrwxrwx	root/root	usr/share/help/cs/mate-system-monitor/figures/changePriority.png -> /usr/share/help/C/mate-system-monitor/figures/changePriority.png
+lrwxrwxrwx	root/root	usr/share/help/cs/mate-system-monitor/figures/colorPanel.png -> /usr/share/help/C/mate-system-monitor/figures/colorPanel.png
+lrwxrwxrwx	root/root	usr/share/help/cs/mate-system-monitor/figures/columnContextMenu.png -> /usr/share/help/C/mate-system-monitor/figures/columnContextMenu.png
+-rw-r--r--	root/root	usr/share/help/cs/mate-system-monitor/figures/mate-system-monitor_window.png
+lrwxrwxrwx	root/root	usr/share/help/cs/mate-system-monitor/figures/memoryMaps.png -> /usr/share/help/C/mate-system-monitor/figures/memoryMaps.png
+lrwxrwxrwx	root/root	usr/share/help/cs/mate-system-monitor/figures/moreInfo.png -> /usr/share/help/C/mate-system-monitor/figures/moreInfo.png
+lrwxrwxrwx	root/root	usr/share/help/cs/mate-system-monitor/figures/processListing.png -> /usr/share/help/C/mate-system-monitor/figures/processListing.png
+lrwxrwxrwx	root/root	usr/share/help/cs/mate-system-monitor/figures/sortButton.png -> /usr/share/help/C/mate-system-monitor/figures/sortButton.png
+lrwxrwxrwx	root/root	usr/share/help/cs/mate-system-monitor/figures/sortMenu.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu.png
+lrwxrwxrwx	root/root	usr/share/help/cs/mate-system-monitor/figures/sortMenu2.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu2.png
+lrwxrwxrwx	root/root	usr/share/help/cs/mate-system-monitor/figures/systemMonitor.png -> /usr/share/help/C/mate-system-monitor/figures/systemMonitor.png
+lrwxrwxrwx	root/root	usr/share/help/cs/mate-system-monitor/figures/viewMenu.png -> /usr/share/help/C/mate-system-monitor/figures/viewMenu.png
+-rw-r--r--	root/root	usr/share/help/cs/mate-system-monitor/index.docbook
+-rw-r--r--	root/root	usr/share/help/cs/mate-system-monitor/legal.xml
+drwxr-xr-x	root/root	usr/share/help/da/
+drwxr-xr-x	root/root	usr/share/help/da/mate-system-monitor/
+drwxr-xr-x	root/root	usr/share/help/da/mate-system-monitor/figures/
+lrwxrwxrwx	root/root	usr/share/help/da/mate-system-monitor/figures/addColumn.png -> /usr/share/help/C/mate-system-monitor/figures/addColumn.png
+lrwxrwxrwx	root/root	usr/share/help/da/mate-system-monitor/figures/changePriority.png -> /usr/share/help/C/mate-system-monitor/figures/changePriority.png
+lrwxrwxrwx	root/root	usr/share/help/da/mate-system-monitor/figures/colorPanel.png -> /usr/share/help/C/mate-system-monitor/figures/colorPanel.png
+lrwxrwxrwx	root/root	usr/share/help/da/mate-system-monitor/figures/columnContextMenu.png -> /usr/share/help/C/mate-system-monitor/figures/columnContextMenu.png
+lrwxrwxrwx	root/root	usr/share/help/da/mate-system-monitor/figures/mate-system-monitor_window.png -> /usr/share/help/C/mate-system-monitor/figures/mate-system-monitor_window.png
+lrwxrwxrwx	root/root	usr/share/help/da/mate-system-monitor/figures/memoryMaps.png -> /usr/share/help/C/mate-system-monitor/figures/memoryMaps.png
+lrwxrwxrwx	root/root	usr/share/help/da/mate-system-monitor/figures/moreInfo.png -> /usr/share/help/C/mate-system-monitor/figures/moreInfo.png
+lrwxrwxrwx	root/root	usr/share/help/da/mate-system-monitor/figures/processListing.png -> /usr/share/help/C/mate-system-monitor/figures/processListing.png
+lrwxrwxrwx	root/root	usr/share/help/da/mate-system-monitor/figures/sortButton.png -> /usr/share/help/C/mate-system-monitor/figures/sortButton.png
+lrwxrwxrwx	root/root	usr/share/help/da/mate-system-monitor/figures/sortMenu.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu.png
+lrwxrwxrwx	root/root	usr/share/help/da/mate-system-monitor/figures/sortMenu2.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu2.png
+lrwxrwxrwx	root/root	usr/share/help/da/mate-system-monitor/figures/systemMonitor.png -> /usr/share/help/C/mate-system-monitor/figures/systemMonitor.png
+lrwxrwxrwx	root/root	usr/share/help/da/mate-system-monitor/figures/viewMenu.png -> /usr/share/help/C/mate-system-monitor/figures/viewMenu.png
+-rw-r--r--	root/root	usr/share/help/da/mate-system-monitor/index.docbook
+-rw-r--r--	root/root	usr/share/help/da/mate-system-monitor/legal.xml
+drwxr-xr-x	root/root	usr/share/help/de/
+drwxr-xr-x	root/root	usr/share/help/de/mate-system-monitor/
+drwxr-xr-x	root/root	usr/share/help/de/mate-system-monitor/figures/
+lrwxrwxrwx	root/root	usr/share/help/de/mate-system-monitor/figures/addColumn.png -> /usr/share/help/C/mate-system-monitor/figures/addColumn.png
+lrwxrwxrwx	root/root	usr/share/help/de/mate-system-monitor/figures/changePriority.png -> /usr/share/help/C/mate-system-monitor/figures/changePriority.png
+lrwxrwxrwx	root/root	usr/share/help/de/mate-system-monitor/figures/colorPanel.png -> /usr/share/help/C/mate-system-monitor/figures/colorPanel.png
+lrwxrwxrwx	root/root	usr/share/help/de/mate-system-monitor/figures/columnContextMenu.png -> /usr/share/help/C/mate-system-monitor/figures/columnContextMenu.png
+-rw-r--r--	root/root	usr/share/help/de/mate-system-monitor/figures/mate-system-monitor_window.png
+lrwxrwxrwx	root/root	usr/share/help/de/mate-system-monitor/figures/memoryMaps.png -> /usr/share/help/C/mate-system-monitor/figures/memoryMaps.png
+lrwxrwxrwx	root/root	usr/share/help/de/mate-system-monitor/figures/moreInfo.png -> /usr/share/help/C/mate-system-monitor/figures/moreInfo.png
+lrwxrwxrwx	root/root	usr/share/help/de/mate-system-monitor/figures/processListing.png -> /usr/share/help/C/mate-system-monitor/figures/processListing.png
+lrwxrwxrwx	root/root	usr/share/help/de/mate-system-monitor/figures/sortButton.png -> /usr/share/help/C/mate-system-monitor/figures/sortButton.png
+lrwxrwxrwx	root/root	usr/share/help/de/mate-system-monitor/figures/sortMenu.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu.png
+lrwxrwxrwx	root/root	usr/share/help/de/mate-system-monitor/figures/sortMenu2.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu2.png
+lrwxrwxrwx	root/root	usr/share/help/de/mate-system-monitor/figures/systemMonitor.png -> /usr/share/help/C/mate-system-monitor/figures/systemMonitor.png
+lrwxrwxrwx	root/root	usr/share/help/de/mate-system-monitor/figures/viewMenu.png -> /usr/share/help/C/mate-system-monitor/figures/viewMenu.png
+-rw-r--r--	root/root	usr/share/help/de/mate-system-monitor/index.docbook
+-rw-r--r--	root/root	usr/share/help/de/mate-system-monitor/legal.xml
+drwxr-xr-x	root/root	usr/share/help/el/
+drwxr-xr-x	root/root	usr/share/help/el/mate-system-monitor/
+drwxr-xr-x	root/root	usr/share/help/el/mate-system-monitor/figures/
+lrwxrwxrwx	root/root	usr/share/help/el/mate-system-monitor/figures/addColumn.png -> /usr/share/help/C/mate-system-monitor/figures/addColumn.png
+lrwxrwxrwx	root/root	usr/share/help/el/mate-system-monitor/figures/changePriority.png -> /usr/share/help/C/mate-system-monitor/figures/changePriority.png
+lrwxrwxrwx	root/root	usr/share/help/el/mate-system-monitor/figures/colorPanel.png -> /usr/share/help/C/mate-system-monitor/figures/colorPanel.png
+lrwxrwxrwx	root/root	usr/share/help/el/mate-system-monitor/figures/columnContextMenu.png -> /usr/share/help/C/mate-system-monitor/figures/columnContextMenu.png
+lrwxrwxrwx	root/root	usr/share/help/el/mate-system-monitor/figures/mate-system-monitor_window.png -> /usr/share/help/C/mate-system-monitor/figures/mate-system-monitor_window.png
+lrwxrwxrwx	root/root	usr/share/help/el/mate-system-monitor/figures/memoryMaps.png -> /usr/share/help/C/mate-system-monitor/figures/memoryMaps.png
+lrwxrwxrwx	root/root	usr/share/help/el/mate-system-monitor/figures/moreInfo.png -> /usr/share/help/C/mate-system-monitor/figures/moreInfo.png
+lrwxrwxrwx	root/root	usr/share/help/el/mate-system-monitor/figures/processListing.png -> /usr/share/help/C/mate-system-monitor/figures/processListing.png
+lrwxrwxrwx	root/root	usr/share/help/el/mate-system-monitor/figures/sortButton.png -> /usr/share/help/C/mate-system-monitor/figures/sortButton.png
+lrwxrwxrwx	root/root	usr/share/help/el/mate-system-monitor/figures/sortMenu.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu.png
+lrwxrwxrwx	root/root	usr/share/help/el/mate-system-monitor/figures/sortMenu2.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu2.png
+lrwxrwxrwx	root/root	usr/share/help/el/mate-system-monitor/figures/systemMonitor.png -> /usr/share/help/C/mate-system-monitor/figures/systemMonitor.png
+lrwxrwxrwx	root/root	usr/share/help/el/mate-system-monitor/figures/viewMenu.png -> /usr/share/help/C/mate-system-monitor/figures/viewMenu.png
+-rw-r--r--	root/root	usr/share/help/el/mate-system-monitor/index.docbook
+-rw-r--r--	root/root	usr/share/help/el/mate-system-monitor/legal.xml
+drwxr-xr-x	root/root	usr/share/help/es/
+drwxr-xr-x	root/root	usr/share/help/es/mate-system-monitor/
+drwxr-xr-x	root/root	usr/share/help/es/mate-system-monitor/figures/
+lrwxrwxrwx	root/root	usr/share/help/es/mate-system-monitor/figures/addColumn.png -> /usr/share/help/C/mate-system-monitor/figures/addColumn.png
+lrwxrwxrwx	root/root	usr/share/help/es/mate-system-monitor/figures/changePriority.png -> /usr/share/help/C/mate-system-monitor/figures/changePriority.png
+lrwxrwxrwx	root/root	usr/share/help/es/mate-system-monitor/figures/colorPanel.png -> /usr/share/help/C/mate-system-monitor/figures/colorPanel.png
+lrwxrwxrwx	root/root	usr/share/help/es/mate-system-monitor/figures/columnContextMenu.png -> /usr/share/help/C/mate-system-monitor/figures/columnContextMenu.png
+-rw-r--r--	root/root	usr/share/help/es/mate-system-monitor/figures/mate-system-monitor_window.png
+lrwxrwxrwx	root/root	usr/share/help/es/mate-system-monitor/figures/memoryMaps.png -> /usr/share/help/C/mate-system-monitor/figures/memoryMaps.png
+lrwxrwxrwx	root/root	usr/share/help/es/mate-system-monitor/figures/moreInfo.png -> /usr/share/help/C/mate-system-monitor/figures/moreInfo.png
+lrwxrwxrwx	root/root	usr/share/help/es/mate-system-monitor/figures/processListing.png -> /usr/share/help/C/mate-system-monitor/figures/processListing.png
+lrwxrwxrwx	root/root	usr/share/help/es/mate-system-monitor/figures/sortButton.png -> /usr/share/help/C/mate-system-monitor/figures/sortButton.png
+lrwxrwxrwx	root/root	usr/share/help/es/mate-system-monitor/figures/sortMenu.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu.png
+lrwxrwxrwx	root/root	usr/share/help/es/mate-system-monitor/figures/sortMenu2.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu2.png
+lrwxrwxrwx	root/root	usr/share/help/es/mate-system-monitor/figures/systemMonitor.png -> /usr/share/help/C/mate-system-monitor/figures/systemMonitor.png
+lrwxrwxrwx	root/root	usr/share/help/es/mate-system-monitor/figures/viewMenu.png -> /usr/share/help/C/mate-system-monitor/figures/viewMenu.png
+-rw-r--r--	root/root	usr/share/help/es/mate-system-monitor/index.docbook
+-rw-r--r--	root/root	usr/share/help/es/mate-system-monitor/legal.xml
+drwxr-xr-x	root/root	usr/share/help/fr/
+drwxr-xr-x	root/root	usr/share/help/fr/mate-system-monitor/
+drwxr-xr-x	root/root	usr/share/help/fr/mate-system-monitor/figures/
+lrwxrwxrwx	root/root	usr/share/help/fr/mate-system-monitor/figures/addColumn.png -> /usr/share/help/C/mate-system-monitor/figures/addColumn.png
+lrwxrwxrwx	root/root	usr/share/help/fr/mate-system-monitor/figures/changePriority.png -> /usr/share/help/C/mate-system-monitor/figures/changePriority.png
+lrwxrwxrwx	root/root	usr/share/help/fr/mate-system-monitor/figures/colorPanel.png -> /usr/share/help/C/mate-system-monitor/figures/colorPanel.png
+lrwxrwxrwx	root/root	usr/share/help/fr/mate-system-monitor/figures/columnContextMenu.png -> /usr/share/help/C/mate-system-monitor/figures/columnContextMenu.png
+-rw-r--r--	root/root	usr/share/help/fr/mate-system-monitor/figures/mate-system-monitor_window.png
+lrwxrwxrwx	root/root	usr/share/help/fr/mate-system-monitor/figures/memoryMaps.png -> /usr/share/help/C/mate-system-monitor/figures/memoryMaps.png
+lrwxrwxrwx	root/root	usr/share/help/fr/mate-system-monitor/figures/moreInfo.png -> /usr/share/help/C/mate-system-monitor/figures/moreInfo.png
+lrwxrwxrwx	root/root	usr/share/help/fr/mate-system-monitor/figures/processListing.png -> /usr/share/help/C/mate-system-monitor/figures/processListing.png
+lrwxrwxrwx	root/root	usr/share/help/fr/mate-system-monitor/figures/sortButton.png -> /usr/share/help/C/mate-system-monitor/figures/sortButton.png
+lrwxrwxrwx	root/root	usr/share/help/fr/mate-system-monitor/figures/sortMenu.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu.png
+lrwxrwxrwx	root/root	usr/share/help/fr/mate-system-monitor/figures/sortMenu2.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu2.png
+lrwxrwxrwx	root/root	usr/share/help/fr/mate-system-monitor/figures/systemMonitor.png -> /usr/share/help/C/mate-system-monitor/figures/systemMonitor.png
+lrwxrwxrwx	root/root	usr/share/help/fr/mate-system-monitor/figures/viewMenu.png -> /usr/share/help/C/mate-system-monitor/figures/viewMenu.png
+-rw-r--r--	root/root	usr/share/help/fr/mate-system-monitor/index.docbook
+-rw-r--r--	root/root	usr/share/help/fr/mate-system-monitor/legal.xml
+drwxr-xr-x	root/root	usr/share/help/oc/
+drwxr-xr-x	root/root	usr/share/help/oc/mate-system-monitor/
+drwxr-xr-x	root/root	usr/share/help/oc/mate-system-monitor/figures/
+lrwxrwxrwx	root/root	usr/share/help/oc/mate-system-monitor/figures/addColumn.png -> /usr/share/help/C/mate-system-monitor/figures/addColumn.png
+lrwxrwxrwx	root/root	usr/share/help/oc/mate-system-monitor/figures/changePriority.png -> /usr/share/help/C/mate-system-monitor/figures/changePriority.png
+lrwxrwxrwx	root/root	usr/share/help/oc/mate-system-monitor/figures/colorPanel.png -> /usr/share/help/C/mate-system-monitor/figures/colorPanel.png
+lrwxrwxrwx	root/root	usr/share/help/oc/mate-system-monitor/figures/columnContextMenu.png -> /usr/share/help/C/mate-system-monitor/figures/columnContextMenu.png
+lrwxrwxrwx	root/root	usr/share/help/oc/mate-system-monitor/figures/mate-system-monitor_window.png -> /usr/share/help/C/mate-system-monitor/figures/mate-system-monitor_window.png
+lrwxrwxrwx	root/root	usr/share/help/oc/mate-system-monitor/figures/memoryMaps.png -> /usr/share/help/C/mate-system-monitor/figures/memoryMaps.png
+lrwxrwxrwx	root/root	usr/share/help/oc/mate-system-monitor/figures/moreInfo.png -> /usr/share/help/C/mate-system-monitor/figures/moreInfo.png
+lrwxrwxrwx	root/root	usr/share/help/oc/mate-system-monitor/figures/processListing.png -> /usr/share/help/C/mate-system-monitor/figures/processListing.png
+lrwxrwxrwx	root/root	usr/share/help/oc/mate-system-monitor/figures/sortButton.png -> /usr/share/help/C/mate-system-monitor/figures/sortButton.png
+lrwxrwxrwx	root/root	usr/share/help/oc/mate-system-monitor/figures/sortMenu.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu.png
+lrwxrwxrwx	root/root	usr/share/help/oc/mate-system-monitor/figures/sortMenu2.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu2.png
+lrwxrwxrwx	root/root	usr/share/help/oc/mate-system-monitor/figures/systemMonitor.png -> /usr/share/help/C/mate-system-monitor/figures/systemMonitor.png
+lrwxrwxrwx	root/root	usr/share/help/oc/mate-system-monitor/figures/viewMenu.png -> /usr/share/help/C/mate-system-monitor/figures/viewMenu.png
+-rw-r--r--	root/root	usr/share/help/oc/mate-system-monitor/index.docbook
+-rw-r--r--	root/root	usr/share/help/oc/mate-system-monitor/legal.xml
+drwxr-xr-x	root/root	usr/share/help/pa/
+drwxr-xr-x	root/root	usr/share/help/pa/mate-system-monitor/
+drwxr-xr-x	root/root	usr/share/help/pa/mate-system-monitor/figures/
+lrwxrwxrwx	root/root	usr/share/help/pa/mate-system-monitor/figures/addColumn.png -> /usr/share/help/C/mate-system-monitor/figures/addColumn.png
+lrwxrwxrwx	root/root	usr/share/help/pa/mate-system-monitor/figures/changePriority.png -> /usr/share/help/C/mate-system-monitor/figures/changePriority.png
+lrwxrwxrwx	root/root	usr/share/help/pa/mate-system-monitor/figures/colorPanel.png -> /usr/share/help/C/mate-system-monitor/figures/colorPanel.png
+lrwxrwxrwx	root/root	usr/share/help/pa/mate-system-monitor/figures/columnContextMenu.png -> /usr/share/help/C/mate-system-monitor/figures/columnContextMenu.png
+lrwxrwxrwx	root/root	usr/share/help/pa/mate-system-monitor/figures/mate-system-monitor_window.png -> /usr/share/help/C/mate-system-monitor/figures/mate-system-monitor_window.png
+lrwxrwxrwx	root/root	usr/share/help/pa/mate-system-monitor/figures/memoryMaps.png -> /usr/share/help/C/mate-system-monitor/figures/memoryMaps.png
+lrwxrwxrwx	root/root	usr/share/help/pa/mate-system-monitor/figures/moreInfo.png -> /usr/share/help/C/mate-system-monitor/figures/moreInfo.png
+lrwxrwxrwx	root/root	usr/share/help/pa/mate-system-monitor/figures/processListing.png -> /usr/share/help/C/mate-system-monitor/figures/processListing.png
+lrwxrwxrwx	root/root	usr/share/help/pa/mate-system-monitor/figures/sortButton.png -> /usr/share/help/C/mate-system-monitor/figures/sortButton.png
+lrwxrwxrwx	root/root	usr/share/help/pa/mate-system-monitor/figures/sortMenu.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu.png
+lrwxrwxrwx	root/root	usr/share/help/pa/mate-system-monitor/figures/sortMenu2.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu2.png
+lrwxrwxrwx	root/root	usr/share/help/pa/mate-system-monitor/figures/systemMonitor.png -> /usr/share/help/C/mate-system-monitor/figures/systemMonitor.png
+lrwxrwxrwx	root/root	usr/share/help/pa/mate-system-monitor/figures/viewMenu.png -> /usr/share/help/C/mate-system-monitor/figures/viewMenu.png
+-rw-r--r--	root/root	usr/share/help/pa/mate-system-monitor/index.docbook
+-rw-r--r--	root/root	usr/share/help/pa/mate-system-monitor/legal.xml
+drwxr-xr-x	root/root	usr/share/help/sv/
+drwxr-xr-x	root/root	usr/share/help/sv/mate-system-monitor/
+drwxr-xr-x	root/root	usr/share/help/sv/mate-system-monitor/figures/
+lrwxrwxrwx	root/root	usr/share/help/sv/mate-system-monitor/figures/addColumn.png -> /usr/share/help/C/mate-system-monitor/figures/addColumn.png
+lrwxrwxrwx	root/root	usr/share/help/sv/mate-system-monitor/figures/changePriority.png -> /usr/share/help/C/mate-system-monitor/figures/changePriority.png
+lrwxrwxrwx	root/root	usr/share/help/sv/mate-system-monitor/figures/colorPanel.png -> /usr/share/help/C/mate-system-monitor/figures/colorPanel.png
+lrwxrwxrwx	root/root	usr/share/help/sv/mate-system-monitor/figures/columnContextMenu.png -> /usr/share/help/C/mate-system-monitor/figures/columnContextMenu.png
+-rw-r--r--	root/root	usr/share/help/sv/mate-system-monitor/figures/mate-system-monitor_window.png
+lrwxrwxrwx	root/root	usr/share/help/sv/mate-system-monitor/figures/memoryMaps.png -> /usr/share/help/C/mate-system-monitor/figures/memoryMaps.png
+lrwxrwxrwx	root/root	usr/share/help/sv/mate-system-monitor/figures/moreInfo.png -> /usr/share/help/C/mate-system-monitor/figures/moreInfo.png
+lrwxrwxrwx	root/root	usr/share/help/sv/mate-system-monitor/figures/processListing.png -> /usr/share/help/C/mate-system-monitor/figures/processListing.png
+lrwxrwxrwx	root/root	usr/share/help/sv/mate-system-monitor/figures/sortButton.png -> /usr/share/help/C/mate-system-monitor/figures/sortButton.png
+lrwxrwxrwx	root/root	usr/share/help/sv/mate-system-monitor/figures/sortMenu.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu.png
+lrwxrwxrwx	root/root	usr/share/help/sv/mate-system-monitor/figures/sortMenu2.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu2.png
+lrwxrwxrwx	root/root	usr/share/help/sv/mate-system-monitor/figures/systemMonitor.png -> /usr/share/help/C/mate-system-monitor/figures/systemMonitor.png
+lrwxrwxrwx	root/root	usr/share/help/sv/mate-system-monitor/figures/viewMenu.png -> /usr/share/help/C/mate-system-monitor/figures/viewMenu.png
+-rw-r--r--	root/root	usr/share/help/sv/mate-system-monitor/index.docbook
+-rw-r--r--	root/root	usr/share/help/sv/mate-system-monitor/legal.xml
+drwxr-xr-x	root/root	usr/share/help/zh_CN/
+drwxr-xr-x	root/root	usr/share/help/zh_CN/mate-system-monitor/
+drwxr-xr-x	root/root	usr/share/help/zh_CN/mate-system-monitor/figures/
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/mate-system-monitor/figures/addColumn.png -> /usr/share/help/C/mate-system-monitor/figures/addColumn.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/mate-system-monitor/figures/changePriority.png -> /usr/share/help/C/mate-system-monitor/figures/changePriority.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/mate-system-monitor/figures/colorPanel.png -> /usr/share/help/C/mate-system-monitor/figures/colorPanel.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/mate-system-monitor/figures/columnContextMenu.png -> /usr/share/help/C/mate-system-monitor/figures/columnContextMenu.png
+-rw-r--r--	root/root	usr/share/help/zh_CN/mate-system-monitor/figures/mate-system-monitor_window.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/mate-system-monitor/figures/memoryMaps.png -> /usr/share/help/C/mate-system-monitor/figures/memoryMaps.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/mate-system-monitor/figures/moreInfo.png -> /usr/share/help/C/mate-system-monitor/figures/moreInfo.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/mate-system-monitor/figures/processListing.png -> /usr/share/help/C/mate-system-monitor/figures/processListing.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/mate-system-monitor/figures/sortButton.png -> /usr/share/help/C/mate-system-monitor/figures/sortButton.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/mate-system-monitor/figures/sortMenu.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/mate-system-monitor/figures/sortMenu2.png -> /usr/share/help/C/mate-system-monitor/figures/sortMenu2.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/mate-system-monitor/figures/systemMonitor.png -> /usr/share/help/C/mate-system-monitor/figures/systemMonitor.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/mate-system-monitor/figures/viewMenu.png -> /usr/share/help/C/mate-system-monitor/figures/viewMenu.png
+-rw-r--r--	root/root	usr/share/help/zh_CN/mate-system-monitor/index.docbook
+-rw-r--r--	root/root	usr/share/help/zh_CN/mate-system-monitor/legal.xml
+drwxr-xr-x	root/root	usr/share/man/
+drwxr-xr-x	root/root	usr/share/man/man1/
+-rw-r--r--	root/root	usr/share/man/man1/mate-system-monitor.1.gz
+drwxr-xr-x	root/root	usr/share/pixmaps/
+drwxr-xr-x	root/root	usr/share/pixmaps/mate-system-monitor/
+-rw-r--r--	root/root	usr/share/pixmaps/mate-system-monitor/download.svg
+-rw-r--r--	root/root	usr/share/pixmaps/mate-system-monitor/side.png
+-rw-r--r--	root/root	usr/share/pixmaps/mate-system-monitor/upload.svg
