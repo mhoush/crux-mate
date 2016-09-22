@@ -1,6 +1,7 @@
 # Description: Backgrounds for MATE
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: intltool
 
 name=mate-backgrounds
 version=1.14.0
