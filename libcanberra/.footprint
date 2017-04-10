@@ -25,6 +25,8 @@ drwxr-xr-x	root/root	usr/lib/libcanberra-0.30/
 -rwxr-xr-x	root/root	usr/lib/libcanberra-0.30/libcanberra-multi.so
 -rwxr-xr-x	root/root	usr/lib/libcanberra-0.30/libcanberra-null.la
 -rwxr-xr-x	root/root	usr/lib/libcanberra-0.30/libcanberra-null.so
+-rwxr-xr-x	root/root	usr/lib/libcanberra-0.30/libcanberra-oss.la
+-rwxr-xr-x	root/root	usr/lib/libcanberra-0.30/libcanberra-oss.so
 -rwxr-xr-x	root/root	usr/lib/libcanberra-gtk.la
 lrwxrwxrwx	root/root	usr/lib/libcanberra-gtk.so -> libcanberra-gtk.so.0.1.9
 lrwxrwxrwx	root/root	usr/lib/libcanberra-gtk.so.0 -> libcanberra-gtk.so.0.1.9

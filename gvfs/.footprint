@@ -31,8 +31,9 @@ drwxr-xr-x	root/root	usr/lib/gio/modules/
 -rwxr-xr-x	root/root	usr/lib/gio/modules/libgvfsdbus.la
 -rwxr-xr-x	root/root	usr/lib/gio/modules/libgvfsdbus.so
 drwxr-xr-x	root/root	usr/lib/gvfs/
--rwxr-xr-x	root/root	usr/lib/gvfs/gvfs-udisks2-volume-monitor
+-rwxr-xr-x	root/root	usr/lib/gvfs/gvfs-gphoto2-volume-monitor
 -rwxr-xr-x	root/root	usr/lib/gvfs/gvfsd
+-rwxr-xr-x	root/root	usr/lib/gvfs/gvfsd-admin
 -rwxr-xr-x	root/root	usr/lib/gvfs/gvfsd-afp
 -rwxr-xr-x	root/root	usr/lib/gvfs/gvfsd-afp-browse
 -rwxr-xr-x	root/root	usr/lib/gvfs/gvfsd-archive
@@ -40,7 +41,7 @@ drwxr-xr-x	root/root	usr/lib/gvfs/
 -rwxr-xr-x	root/root	usr/lib/gvfs/gvfsd-computer
 -rwxr-xr-x	root/root	usr/lib/gvfs/gvfsd-dav
 -rwxr-xr-x	root/root	usr/lib/gvfs/gvfsd-ftp
--rwxr-xr-x	root/root	usr/lib/gvfs/gvfsd-fuse
+-rwxr-xr-x	root/root	usr/lib/gvfs/gvfsd-gphoto2
 -rwxr-xr-x	root/root	usr/lib/gvfs/gvfsd-http
 -rwxr-xr-x	root/root	usr/lib/gvfs/gvfsd-localtest
 -rwxr-xr-x	root/root	usr/lib/gvfs/gvfsd-metadata
@@ -58,17 +59,37 @@ drwxr-xr-x	root/root	usr/share/
 drwxr-xr-x	root/root	usr/share/GConf/
 drwxr-xr-x	root/root	usr/share/GConf/gsettings/
 -rw-r--r--	root/root	usr/share/GConf/gsettings/gvfs-smb.convert
+drwxr-xr-x	root/root	usr/share/bash-completion/
+drwxr-xr-x	root/root	usr/share/bash-completion/completions/
+-rw-r--r--	root/root	usr/share/bash-completion/completions/gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-copy -> gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-info -> gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-less -> gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-ls -> gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-mkdir -> gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-monitor-dir -> gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-monitor-file -> gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-mount -> gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-move -> gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-open -> gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-rename -> gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-rm -> gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-save -> gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-set-attribute -> gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-trash -> gvfs-cat
+lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-tree -> gvfs-cat
 drwxr-xr-x	root/root	usr/share/dbus-1/
 drwxr-xr-x	root/root	usr/share/dbus-1/services/
 -rw-r--r--	root/root	usr/share/dbus-1/services/org.gtk.vfs.Daemon.service
+-rw-r--r--	root/root	usr/share/dbus-1/services/org.gtk.vfs.GPhoto2VolumeMonitor.service
 -rw-r--r--	root/root	usr/share/dbus-1/services/org.gtk.vfs.Metadata.service
--rw-r--r--	root/root	usr/share/dbus-1/services/org.gtk.vfs.UDisks2VolumeMonitor.service
 drwxr-xr-x	root/root	usr/share/glib-2.0/
 drwxr-xr-x	root/root	usr/share/glib-2.0/schemas/
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.gnome.system.gvfs.enums.xml
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.gnome.system.smb.gschema.xml
 drwxr-xr-x	root/root	usr/share/gvfs/
 drwxr-xr-x	root/root	usr/share/gvfs/mounts/
+-rw-r--r--	root/root	usr/share/gvfs/mounts/admin.mount
 -rw-r--r--	root/root	usr/share/gvfs/mounts/afp-browse.mount
 -rw-r--r--	root/root	usr/share/gvfs/mounts/afp.mount
 -rw-r--r--	root/root	usr/share/gvfs/mounts/archive.mount
@@ -77,6 +98,7 @@ drwxr-xr-x	root/root	usr/share/gvfs/mounts/
 -rw-r--r--	root/root	usr/share/gvfs/mounts/dav.mount
 -rw-r--r--	root/root	usr/share/gvfs/mounts/ftp.mount
 -rw-r--r--	root/root	usr/share/gvfs/mounts/ftps.mount
+-rw-r--r--	root/root	usr/share/gvfs/mounts/gphoto2.mount
 -rw-r--r--	root/root	usr/share/gvfs/mounts/http.mount
 -rw-r--r--	root/root	usr/share/gvfs/mounts/localtest.mount
 -rw-r--r--	root/root	usr/share/gvfs/mounts/network.mount
@@ -86,7 +108,7 @@ drwxr-xr-x	root/root	usr/share/gvfs/mounts/
 -rw-r--r--	root/root	usr/share/gvfs/mounts/smb.mount
 -rw-r--r--	root/root	usr/share/gvfs/mounts/trash.mount
 drwxr-xr-x	root/root	usr/share/gvfs/remote-volume-monitors/
--rw-r--r--	root/root	usr/share/gvfs/remote-volume-monitors/udisks2.monitor
+-rw-r--r--	root/root	usr/share/gvfs/remote-volume-monitors/gphoto2.monitor
 drwxr-xr-x	root/root	usr/share/man/
 drwxr-xr-x	root/root	usr/share/man/man1/
 -rw-r--r--	root/root	usr/share/man/man1/gvfs-cat.1.gz
@@ -112,3 +134,8 @@ drwxr-xr-x	root/root	usr/share/man/man1/
 -rw-r--r--	root/root	usr/share/man/man1/gvfsd.1.gz
 drwxr-xr-x	root/root	usr/share/man/man7/
 -rw-r--r--	root/root	usr/share/man/man7/gvfs.7.gz
+drwxr-xr-x	root/root	usr/share/polkit-1/
+drwxr-xr-x	root/root	usr/share/polkit-1/actions/
+-rw-r--r--	root/root	usr/share/polkit-1/actions/org.gtk.vfs.file-operations.policy
+drwxr-xr-x	root/root	usr/share/polkit-1/rules.d/
+-rw-r--r--	root/root	usr/share/polkit-1/rules.d/org.gtk.vfs.file-operations.rules

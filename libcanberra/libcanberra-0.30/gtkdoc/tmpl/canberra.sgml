@@ -1,0 +1,498 @@
+<!-- ##### SECTION Title ##### -->
+canberra
+
+<!-- ##### SECTION Short_Description ##### -->
+
+
+<!-- ##### SECTION Long_Description ##### -->
+<para>
+
+</para>
+
+<!-- ##### SECTION See_Also ##### -->
+<para>
+
+</para>
+
+<!-- ##### SECTION Stability_Level ##### -->
+
+
+<!-- ##### SECTION Image ##### -->
+
+
+<!-- ##### MACRO CA_PROP_MEDIA_NAME ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_MEDIA_TITLE ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_MEDIA_ARTIST ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_MEDIA_LANGUAGE ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_MEDIA_FILENAME ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_MEDIA_ICON ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_MEDIA_ICON_NAME ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_MEDIA_ROLE ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_EVENT_ID ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_EVENT_DESCRIPTION ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_EVENT_MOUSE_X ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_EVENT_MOUSE_Y ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_EVENT_MOUSE_HPOS ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_EVENT_MOUSE_VPOS ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_EVENT_MOUSE_BUTTON ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_WINDOW_NAME ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_WINDOW_ID ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_WINDOW_ICON ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_WINDOW_ICON_NAME ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_WINDOW_X11_DISPLAY ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_WINDOW_X11_SCREEN ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_WINDOW_X11_MONITOR ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_WINDOW_X11_XID ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_APPLICATION_NAME ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_APPLICATION_ID ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_APPLICATION_VERSION ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_APPLICATION_ICON ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_APPLICATION_ICON_NAME ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_APPLICATION_LANGUAGE ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_APPLICATION_PROCESS_ID ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_APPLICATION_PROCESS_BINARY ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_APPLICATION_PROCESS_USER ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_APPLICATION_PROCESS_HOST ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_CANBERRA_CACHE_CONTROL ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_CANBERRA_VOLUME ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_CANBERRA_XDG_THEME_NAME ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### MACRO CA_PROP_CANBERRA_XDG_THEME_OUTPUT_PROFILE ##### -->
+<para>
+
+</para>
+
+
+
+<!-- ##### TYPEDEF ca_context ##### -->
+<para>
+
+</para>
+
+
+<!-- ##### USER_FUNCTION ca_finish_callback_t ##### -->
+<para>
+
+</para>
+
+@c: 
+@id: 
+@error_code: 
+@userdata: 
+
+
+<!-- ##### FUNCTION ca_context_create ##### -->
+<para>
+
+</para>
+
+@c: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_context_destroy ##### -->
+<para>
+
+</para>
+
+@c: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_context_open ##### -->
+<para>
+
+</para>
+
+@c: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_context_set_driver ##### -->
+<para>
+
+</para>
+
+@c: 
+@driver: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_context_change_device ##### -->
+<para>
+
+</para>
+
+@c: 
+@device: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_context_change_props ##### -->
+<para>
+
+</para>
+
+@c: 
+@...: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_context_change_props_full ##### -->
+<para>
+
+</para>
+
+@c: 
+@p: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_context_play ##### -->
+<para>
+
+</para>
+
+@c: 
+@id: 
+@...: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_context_play_full ##### -->
+<para>
+
+</para>
+
+@c: 
+@id: 
+@p: 
+@cb: 
+@userdata: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_context_cancel ##### -->
+<para>
+
+</para>
+
+@c: 
+@id: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_context_cache ##### -->
+<para>
+
+</para>
+
+@c: 
+@...: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_context_cache_full ##### -->
+<para>
+
+</para>
+
+@c: 
+@p: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_context_playing ##### -->
+<para>
+
+</para>
+
+@c: 
+@id: 
+@playing: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_strerror ##### -->
+<para>
+
+</para>
+
+@code: 
+@Returns: 
+
+
+<!-- ##### TYPEDEF ca_proplist ##### -->
+<para>
+
+</para>
+
+
+<!-- ##### FUNCTION ca_proplist_create ##### -->
+<para>
+
+</para>
+
+@p: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_proplist_destroy ##### -->
+<para>
+
+</para>
+
+@p: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_proplist_sets ##### -->
+<para>
+
+</para>
+
+@p: 
+@key: 
+@value: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_proplist_setf ##### -->
+<para>
+
+</para>
+
+@p: 
+@key: 
+@format: 
+@...: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_proplist_set ##### -->
+<para>
+
+</para>
+
+@p: 
+@key: 
+@data: 
+@nbytes: 
+@Returns: 
+
+

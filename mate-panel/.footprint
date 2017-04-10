@@ -412,8 +412,6 @@ drwxr-xr-x	root/root	usr/share/mate-panel/pixmaps/
 -rw-r--r--	root/root	usr/share/mate-panel/pixmaps/clock-map.png
 -rw-r--r--	root/root	usr/share/mate-panel/pixmaps/fishanim.png
 -rw-r--r--	root/root	usr/share/mate-panel/pixmaps/footguy.png
--rw-r--r--	root/root	usr/share/mate-panel/pixmaps/mate-gegl2-2.png
--rw-r--r--	root/root	usr/share/mate-panel/pixmaps/mate-gegl2.png
 -rw-r--r--	root/root	usr/share/mate-panel/pixmaps/monkey.png
 -rw-r--r--	root/root	usr/share/mate-panel/pixmaps/oldwanda.png
 -rw-r--r--	root/root	usr/share/mate-panel/pixmaps/wanda.png

@@ -4,16 +4,18 @@
 # Depends on: gtk3 util-linux xorg-libxdamage itstool
 
 name=zenity
-version=3.20.0
+version=3.24.0
 release=1
 source=(http://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.xz)
 
 build() {
-	export CFLAGS="${CFLAGS} -Wno-error=implicit-function-declaration"
-	cd $name-$version
-	./configure --prefix=/usr \
-		--disable-nls \
-		--enable-libnotify
-	make
-	make DESTDIR=$PKG install
+  export CFLAGS="${CFLAGS} -Wno-error=implicit-function-declaration"
+  cd $name-$version
+  ./configure --prefix=/usr \
+    --disable-nls \
+    --enable-libnotify
+  make
+  make DESTDIR=$PKG install
 }
+
+# vim: set ts=2 et:

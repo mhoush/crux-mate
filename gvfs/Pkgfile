@@ -1,23 +1,20 @@
 # Description: A userspace virtual filesystem designed to work with the I/O abstractions of gio (glib)
 # URL: http://projects.gnome.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: e2fsprogs eudev fuse glibc gtk3 libarchive libsecret libsoup lzo samba xorg-libxdamage docbook-xsl udisks2 gcr
+# Depends on: glib gcr samba libgcrypt polkit docbook-xsl libgphoto2
 
 name=gvfs
-version=1.28.2
+version=1.30.3
 release=1
-source=(http://download.gnome.org/sources/$name/${version%.*}/$name-$version.tar.xz)
+source=(http://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.xz)
 
 build() {
-    cd $name-$version
-    ./configure --prefix=/usr \
-        --libexecdir=/usr/lib/$name \
-        --disable-avahi \
-        --disable-bash-completion \
-        --disable-gphoto2 \
-        --disable-nls
-    make
-    make DESTDIR=$PKG install
-
-    rm -r $PKG/usr/share/locale
+  cd $name-$version
+  ./configure --prefix=/usr \
+    --libexecdir=/usr/lib/$name \
+    --disable-nls
+  make
+  make DESTDIR=$PKG install
 }
+
+# vim: set ts=2 et:

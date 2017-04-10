@@ -9,11 +9,12 @@ release=1
 source=(http://download.gnome.org/sources/$name/$version/$name-$version.tar.xz)
 
 build() {
-	cd $name-$version
-	./configure --prefix=/usr \
-		--disable-static
-	make
-	make DESTDIR=$PKG install
-
-	rm -rf $PKG/usr/share
+  cd $name-$version
+  sed -i -e '/^SUBDIRS/s/ doc//' Makefile.in
+  ./configure --prefix=/usr \
+    --disable-static
+  make
+  make DESTDIR=$PKG install
 }
+
+# vim: set ts=2 et:

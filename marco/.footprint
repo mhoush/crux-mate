@@ -17,9 +17,9 @@ drwxr-xr-x	root/root	usr/include/marco-1/marco-private/
 drwxr-xr-x	root/root	usr/lib/
 -rw-r--r--	root/root	usr/lib/libmarco-private.a
 -rwxr-xr-x	root/root	usr/lib/libmarco-private.la
-lrwxrwxrwx	root/root	usr/lib/libmarco-private.so -> libmarco-private.so.0.0.0
-lrwxrwxrwx	root/root	usr/lib/libmarco-private.so.0 -> libmarco-private.so.0.0.0
--rwxr-xr-x	root/root	usr/lib/libmarco-private.so.0.0.0
+lrwxrwxrwx	root/root	usr/lib/libmarco-private.so -> libmarco-private.so.1.0.0
+lrwxrwxrwx	root/root	usr/lib/libmarco-private.so.1 -> libmarco-private.so.1.0.0
+-rwxr-xr-x	root/root	usr/lib/libmarco-private.so.1.0.0
 drwxr-xr-x	root/root	usr/lib/pkgconfig/
 -rw-r--r--	root/root	usr/lib/pkgconfig/libmarco-private.pc
 drwxr-xr-x	root/root	usr/share/

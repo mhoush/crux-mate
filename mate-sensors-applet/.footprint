@@ -45,9 +45,6 @@ drwxr-xr-x	root/root	usr/lib/mate-sensors-applet/plugins/
 -rw-r--r--	root/root	usr/lib/mate-sensors-applet/plugins/libsonypi.a
 -rwxr-xr-x	root/root	usr/lib/mate-sensors-applet/plugins/libsonypi.la
 -rwxr-xr-x	root/root	usr/lib/mate-sensors-applet/plugins/libsonypi.so
--rw-r--r--	root/root	usr/lib/mate-sensors-applet/plugins/libudisks.a
--rwxr-xr-x	root/root	usr/lib/mate-sensors-applet/plugins/libudisks.la
--rwxr-xr-x	root/root	usr/lib/mate-sensors-applet/plugins/libudisks.so
 drwxr-xr-x	root/root	usr/share/
 drwxr-xr-x	root/root	usr/share/dbus-1/
 drwxr-xr-x	root/root	usr/share/dbus-1/services/

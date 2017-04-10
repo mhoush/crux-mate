@@ -1,0 +1,6 @@
+#!/bin/sh
+
+/usr/bin/gtk-update-icon-cache -f -t /usr/share/icons/ContrastHigh
+/usr/bin/gtk-update-icon-cache -f -t /usr/share/icons/mate
+
+# EOF

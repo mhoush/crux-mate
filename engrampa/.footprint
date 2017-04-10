@@ -36,16 +36,6 @@ drwxr-xr-x	root/root	usr/share/engrampa/icons/hicolor/24x24/actions/
 -rw-r--r--	root/root	usr/share/engrampa/icons/hicolor/24x24/actions/add-folder-to-archive.png
 -rw-r--r--	root/root	usr/share/engrampa/icons/hicolor/24x24/actions/extract-archive.png
 -rw-r--r--	root/root	usr/share/engrampa/packages.match
-drwxr-xr-x	root/root	usr/share/engrampa/ui/
--rw-r--r--	root/root	usr/share/engrampa/ui/add-options.ui
--rw-r--r--	root/root	usr/share/engrampa/ui/batch-add-files.ui
--rw-r--r--	root/root	usr/share/engrampa/ui/batch-password.ui
--rw-r--r--	root/root	usr/share/engrampa/ui/delete.ui
--rw-r--r--	root/root	usr/share/engrampa/ui/new.ui
--rw-r--r--	root/root	usr/share/engrampa/ui/open-with.ui
--rw-r--r--	root/root	usr/share/engrampa/ui/password.ui
--rw-r--r--	root/root	usr/share/engrampa/ui/properties.ui
--rw-r--r--	root/root	usr/share/engrampa/ui/update.ui
 drwxr-xr-x	root/root	usr/share/glib-2.0/
 drwxr-xr-x	root/root	usr/share/glib-2.0/schemas/
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.engrampa.gschema.xml
@@ -63,11 +53,11 @@ drwxr-xr-x	root/root	usr/share/help/C/engrampa/figures/
 drwxr-xr-x	root/root	usr/share/help/bg/
 drwxr-xr-x	root/root	usr/share/help/bg/engrampa/
 drwxr-xr-x	root/root	usr/share/help/bg/engrampa/figures/
-lrwxrwxrwx	root/root	usr/share/help/bg/engrampa/figures/engrampa_home.png -> /usr/share/help/C/engrampa/figures/engrampa_home.png
+lrwxrwxrwx	root/root	usr/share/help/bg/engrampa/figures/engrampa_home.png -> ../../../C/engrampa/figures/engrampa_home.png
 -rw-r--r--	root/root	usr/share/help/bg/engrampa/figures/engrampa_leftarrow.png
 -rw-r--r--	root/root	usr/share/help/bg/engrampa/figures/engrampa_main_window.png
-lrwxrwxrwx	root/root	usr/share/help/bg/engrampa/figures/engrampa_rightarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_rightarrow.png
-lrwxrwxrwx	root/root	usr/share/help/bg/engrampa/figures/engrampa_uparrow.png -> /usr/share/help/C/engrampa/figures/engrampa_uparrow.png
+lrwxrwxrwx	root/root	usr/share/help/bg/engrampa/figures/engrampa_rightarrow.png -> ../../../C/engrampa/figures/engrampa_rightarrow.png
+lrwxrwxrwx	root/root	usr/share/help/bg/engrampa/figures/engrampa_uparrow.png -> ../../../C/engrampa/figures/engrampa_uparrow.png
 -rw-r--r--	root/root	usr/share/help/bg/engrampa/index.docbook
 -rw-r--r--	root/root	usr/share/help/bg/engrampa/legal.xml
 drwxr-xr-x	root/root	usr/share/help/ca/
@@ -103,51 +93,51 @@ drwxr-xr-x	root/root	usr/share/help/de/engrampa/figures/
 drwxr-xr-x	root/root	usr/share/help/el/
 drwxr-xr-x	root/root	usr/share/help/el/engrampa/
 drwxr-xr-x	root/root	usr/share/help/el/engrampa/figures/
-lrwxrwxrwx	root/root	usr/share/help/el/engrampa/figures/engrampa_home.png -> /usr/share/help/C/engrampa/figures/engrampa_home.png
-lrwxrwxrwx	root/root	usr/share/help/el/engrampa/figures/engrampa_leftarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_leftarrow.png
+lrwxrwxrwx	root/root	usr/share/help/el/engrampa/figures/engrampa_home.png -> ../../../C/engrampa/figures/engrampa_home.png
+lrwxrwxrwx	root/root	usr/share/help/el/engrampa/figures/engrampa_leftarrow.png -> ../../../C/engrampa/figures/engrampa_leftarrow.png
 -rw-r--r--	root/root	usr/share/help/el/engrampa/figures/engrampa_main_window.png
-lrwxrwxrwx	root/root	usr/share/help/el/engrampa/figures/engrampa_rightarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_rightarrow.png
-lrwxrwxrwx	root/root	usr/share/help/el/engrampa/figures/engrampa_uparrow.png -> /usr/share/help/C/engrampa/figures/engrampa_uparrow.png
+lrwxrwxrwx	root/root	usr/share/help/el/engrampa/figures/engrampa_rightarrow.png -> ../../../C/engrampa/figures/engrampa_rightarrow.png
+lrwxrwxrwx	root/root	usr/share/help/el/engrampa/figures/engrampa_uparrow.png -> ../../../C/engrampa/figures/engrampa_uparrow.png
 -rw-r--r--	root/root	usr/share/help/el/engrampa/index.docbook
 -rw-r--r--	root/root	usr/share/help/el/engrampa/legal.xml
 drwxr-xr-x	root/root	usr/share/help/en_GB/
 drwxr-xr-x	root/root	usr/share/help/en_GB/engrampa/
 drwxr-xr-x	root/root	usr/share/help/en_GB/engrampa/figures/
-lrwxrwxrwx	root/root	usr/share/help/en_GB/engrampa/figures/engrampa_home.png -> /usr/share/help/C/engrampa/figures/engrampa_home.png
-lrwxrwxrwx	root/root	usr/share/help/en_GB/engrampa/figures/engrampa_leftarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_leftarrow.png
-lrwxrwxrwx	root/root	usr/share/help/en_GB/engrampa/figures/engrampa_main_window.png -> /usr/share/help/C/engrampa/figures/engrampa_main_window.png
-lrwxrwxrwx	root/root	usr/share/help/en_GB/engrampa/figures/engrampa_rightarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_rightarrow.png
-lrwxrwxrwx	root/root	usr/share/help/en_GB/engrampa/figures/engrampa_uparrow.png -> /usr/share/help/C/engrampa/figures/engrampa_uparrow.png
+lrwxrwxrwx	root/root	usr/share/help/en_GB/engrampa/figures/engrampa_home.png -> ../../../C/engrampa/figures/engrampa_home.png
+lrwxrwxrwx	root/root	usr/share/help/en_GB/engrampa/figures/engrampa_leftarrow.png -> ../../../C/engrampa/figures/engrampa_leftarrow.png
+lrwxrwxrwx	root/root	usr/share/help/en_GB/engrampa/figures/engrampa_main_window.png -> ../../../C/engrampa/figures/engrampa_main_window.png
+lrwxrwxrwx	root/root	usr/share/help/en_GB/engrampa/figures/engrampa_rightarrow.png -> ../../../C/engrampa/figures/engrampa_rightarrow.png
+lrwxrwxrwx	root/root	usr/share/help/en_GB/engrampa/figures/engrampa_uparrow.png -> ../../../C/engrampa/figures/engrampa_uparrow.png
 -rw-r--r--	root/root	usr/share/help/en_GB/engrampa/index.docbook
 -rw-r--r--	root/root	usr/share/help/en_GB/engrampa/legal.xml
 drwxr-xr-x	root/root	usr/share/help/es/
 drwxr-xr-x	root/root	usr/share/help/es/engrampa/
 drwxr-xr-x	root/root	usr/share/help/es/engrampa/figures/
-lrwxrwxrwx	root/root	usr/share/help/es/engrampa/figures/engrampa_home.png -> /usr/share/help/C/engrampa/figures/engrampa_home.png
+lrwxrwxrwx	root/root	usr/share/help/es/engrampa/figures/engrampa_home.png -> ../../../C/engrampa/figures/engrampa_home.png
 -rw-r--r--	root/root	usr/share/help/es/engrampa/figures/engrampa_leftarrow.png
 -rw-r--r--	root/root	usr/share/help/es/engrampa/figures/engrampa_main_window.png
-lrwxrwxrwx	root/root	usr/share/help/es/engrampa/figures/engrampa_rightarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_rightarrow.png
-lrwxrwxrwx	root/root	usr/share/help/es/engrampa/figures/engrampa_uparrow.png -> /usr/share/help/C/engrampa/figures/engrampa_uparrow.png
+lrwxrwxrwx	root/root	usr/share/help/es/engrampa/figures/engrampa_rightarrow.png -> ../../../C/engrampa/figures/engrampa_rightarrow.png
+lrwxrwxrwx	root/root	usr/share/help/es/engrampa/figures/engrampa_uparrow.png -> ../../../C/engrampa/figures/engrampa_uparrow.png
 -rw-r--r--	root/root	usr/share/help/es/engrampa/index.docbook
 -rw-r--r--	root/root	usr/share/help/es/engrampa/legal.xml
 drwxr-xr-x	root/root	usr/share/help/fi/
 drwxr-xr-x	root/root	usr/share/help/fi/engrampa/
 drwxr-xr-x	root/root	usr/share/help/fi/engrampa/figures/
-lrwxrwxrwx	root/root	usr/share/help/fi/engrampa/figures/engrampa_home.png -> /usr/share/help/C/engrampa/figures/engrampa_home.png
+lrwxrwxrwx	root/root	usr/share/help/fi/engrampa/figures/engrampa_home.png -> ../../../C/engrampa/figures/engrampa_home.png
 -rw-r--r--	root/root	usr/share/help/fi/engrampa/figures/engrampa_leftarrow.png
 -rw-r--r--	root/root	usr/share/help/fi/engrampa/figures/engrampa_main_window.png
-lrwxrwxrwx	root/root	usr/share/help/fi/engrampa/figures/engrampa_rightarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_rightarrow.png
-lrwxrwxrwx	root/root	usr/share/help/fi/engrampa/figures/engrampa_uparrow.png -> /usr/share/help/C/engrampa/figures/engrampa_uparrow.png
+lrwxrwxrwx	root/root	usr/share/help/fi/engrampa/figures/engrampa_rightarrow.png -> ../../../C/engrampa/figures/engrampa_rightarrow.png
+lrwxrwxrwx	root/root	usr/share/help/fi/engrampa/figures/engrampa_uparrow.png -> ../../../C/engrampa/figures/engrampa_uparrow.png
 -rw-r--r--	root/root	usr/share/help/fi/engrampa/index.docbook
 -rw-r--r--	root/root	usr/share/help/fi/engrampa/legal.xml
 drwxr-xr-x	root/root	usr/share/help/fr/
 drwxr-xr-x	root/root	usr/share/help/fr/engrampa/
 drwxr-xr-x	root/root	usr/share/help/fr/engrampa/figures/
-lrwxrwxrwx	root/root	usr/share/help/fr/engrampa/figures/engrampa_home.png -> /usr/share/help/C/engrampa/figures/engrampa_home.png
+lrwxrwxrwx	root/root	usr/share/help/fr/engrampa/figures/engrampa_home.png -> ../../../C/engrampa/figures/engrampa_home.png
 -rw-r--r--	root/root	usr/share/help/fr/engrampa/figures/engrampa_leftarrow.png
 -rw-r--r--	root/root	usr/share/help/fr/engrampa/figures/engrampa_main_window.png
-lrwxrwxrwx	root/root	usr/share/help/fr/engrampa/figures/engrampa_rightarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_rightarrow.png
-lrwxrwxrwx	root/root	usr/share/help/fr/engrampa/figures/engrampa_uparrow.png -> /usr/share/help/C/engrampa/figures/engrampa_uparrow.png
+lrwxrwxrwx	root/root	usr/share/help/fr/engrampa/figures/engrampa_rightarrow.png -> ../../../C/engrampa/figures/engrampa_rightarrow.png
+lrwxrwxrwx	root/root	usr/share/help/fr/engrampa/figures/engrampa_uparrow.png -> ../../../C/engrampa/figures/engrampa_uparrow.png
 -rw-r--r--	root/root	usr/share/help/fr/engrampa/index.docbook
 -rw-r--r--	root/root	usr/share/help/fr/engrampa/legal.xml
 drwxr-xr-x	root/root	usr/share/help/it/
@@ -173,41 +163,41 @@ drwxr-xr-x	root/root	usr/share/help/ja/engrampa/figures/
 drwxr-xr-x	root/root	usr/share/help/nl/
 drwxr-xr-x	root/root	usr/share/help/nl/engrampa/
 drwxr-xr-x	root/root	usr/share/help/nl/engrampa/figures/
-lrwxrwxrwx	root/root	usr/share/help/nl/engrampa/figures/engrampa_home.png -> /usr/share/help/C/engrampa/figures/engrampa_home.png
-lrwxrwxrwx	root/root	usr/share/help/nl/engrampa/figures/engrampa_leftarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_leftarrow.png
-lrwxrwxrwx	root/root	usr/share/help/nl/engrampa/figures/engrampa_main_window.png -> /usr/share/help/C/engrampa/figures/engrampa_main_window.png
-lrwxrwxrwx	root/root	usr/share/help/nl/engrampa/figures/engrampa_rightarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_rightarrow.png
-lrwxrwxrwx	root/root	usr/share/help/nl/engrampa/figures/engrampa_uparrow.png -> /usr/share/help/C/engrampa/figures/engrampa_uparrow.png
+lrwxrwxrwx	root/root	usr/share/help/nl/engrampa/figures/engrampa_home.png -> ../../../C/engrampa/figures/engrampa_home.png
+lrwxrwxrwx	root/root	usr/share/help/nl/engrampa/figures/engrampa_leftarrow.png -> ../../../C/engrampa/figures/engrampa_leftarrow.png
+lrwxrwxrwx	root/root	usr/share/help/nl/engrampa/figures/engrampa_main_window.png -> ../../../C/engrampa/figures/engrampa_main_window.png
+lrwxrwxrwx	root/root	usr/share/help/nl/engrampa/figures/engrampa_rightarrow.png -> ../../../C/engrampa/figures/engrampa_rightarrow.png
+lrwxrwxrwx	root/root	usr/share/help/nl/engrampa/figures/engrampa_uparrow.png -> ../../../C/engrampa/figures/engrampa_uparrow.png
 -rw-r--r--	root/root	usr/share/help/nl/engrampa/index.docbook
 -rw-r--r--	root/root	usr/share/help/nl/engrampa/legal.xml
 drwxr-xr-x	root/root	usr/share/help/oc/
 drwxr-xr-x	root/root	usr/share/help/oc/engrampa/
 drwxr-xr-x	root/root	usr/share/help/oc/engrampa/figures/
-lrwxrwxrwx	root/root	usr/share/help/oc/engrampa/figures/engrampa_home.png -> /usr/share/help/C/engrampa/figures/engrampa_home.png
-lrwxrwxrwx	root/root	usr/share/help/oc/engrampa/figures/engrampa_leftarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_leftarrow.png
-lrwxrwxrwx	root/root	usr/share/help/oc/engrampa/figures/engrampa_main_window.png -> /usr/share/help/C/engrampa/figures/engrampa_main_window.png
-lrwxrwxrwx	root/root	usr/share/help/oc/engrampa/figures/engrampa_rightarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_rightarrow.png
-lrwxrwxrwx	root/root	usr/share/help/oc/engrampa/figures/engrampa_uparrow.png -> /usr/share/help/C/engrampa/figures/engrampa_uparrow.png
+lrwxrwxrwx	root/root	usr/share/help/oc/engrampa/figures/engrampa_home.png -> ../../../C/engrampa/figures/engrampa_home.png
+lrwxrwxrwx	root/root	usr/share/help/oc/engrampa/figures/engrampa_leftarrow.png -> ../../../C/engrampa/figures/engrampa_leftarrow.png
+lrwxrwxrwx	root/root	usr/share/help/oc/engrampa/figures/engrampa_main_window.png -> ../../../C/engrampa/figures/engrampa_main_window.png
+lrwxrwxrwx	root/root	usr/share/help/oc/engrampa/figures/engrampa_rightarrow.png -> ../../../C/engrampa/figures/engrampa_rightarrow.png
+lrwxrwxrwx	root/root	usr/share/help/oc/engrampa/figures/engrampa_uparrow.png -> ../../../C/engrampa/figures/engrampa_uparrow.png
 -rw-r--r--	root/root	usr/share/help/oc/engrampa/index.docbook
 -rw-r--r--	root/root	usr/share/help/oc/engrampa/legal.xml
 drwxr-xr-x	root/root	usr/share/help/ru/
 drwxr-xr-x	root/root	usr/share/help/ru/engrampa/
 drwxr-xr-x	root/root	usr/share/help/ru/engrampa/figures/
-lrwxrwxrwx	root/root	usr/share/help/ru/engrampa/figures/engrampa_home.png -> /usr/share/help/C/engrampa/figures/engrampa_home.png
-lrwxrwxrwx	root/root	usr/share/help/ru/engrampa/figures/engrampa_leftarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_leftarrow.png
-lrwxrwxrwx	root/root	usr/share/help/ru/engrampa/figures/engrampa_main_window.png -> /usr/share/help/C/engrampa/figures/engrampa_main_window.png
-lrwxrwxrwx	root/root	usr/share/help/ru/engrampa/figures/engrampa_rightarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_rightarrow.png
-lrwxrwxrwx	root/root	usr/share/help/ru/engrampa/figures/engrampa_uparrow.png -> /usr/share/help/C/engrampa/figures/engrampa_uparrow.png
+lrwxrwxrwx	root/root	usr/share/help/ru/engrampa/figures/engrampa_home.png -> ../../../C/engrampa/figures/engrampa_home.png
+lrwxrwxrwx	root/root	usr/share/help/ru/engrampa/figures/engrampa_leftarrow.png -> ../../../C/engrampa/figures/engrampa_leftarrow.png
+lrwxrwxrwx	root/root	usr/share/help/ru/engrampa/figures/engrampa_main_window.png -> ../../../C/engrampa/figures/engrampa_main_window.png
+lrwxrwxrwx	root/root	usr/share/help/ru/engrampa/figures/engrampa_rightarrow.png -> ../../../C/engrampa/figures/engrampa_rightarrow.png
+lrwxrwxrwx	root/root	usr/share/help/ru/engrampa/figures/engrampa_uparrow.png -> ../../../C/engrampa/figures/engrampa_uparrow.png
 -rw-r--r--	root/root	usr/share/help/ru/engrampa/index.docbook
 -rw-r--r--	root/root	usr/share/help/ru/engrampa/legal.xml
 drwxr-xr-x	root/root	usr/share/help/sv/
 drwxr-xr-x	root/root	usr/share/help/sv/engrampa/
 drwxr-xr-x	root/root	usr/share/help/sv/engrampa/figures/
-lrwxrwxrwx	root/root	usr/share/help/sv/engrampa/figures/engrampa_home.png -> /usr/share/help/C/engrampa/figures/engrampa_home.png
+lrwxrwxrwx	root/root	usr/share/help/sv/engrampa/figures/engrampa_home.png -> ../../../C/engrampa/figures/engrampa_home.png
 -rw-r--r--	root/root	usr/share/help/sv/engrampa/figures/engrampa_leftarrow.png
 -rw-r--r--	root/root	usr/share/help/sv/engrampa/figures/engrampa_main_window.png
-lrwxrwxrwx	root/root	usr/share/help/sv/engrampa/figures/engrampa_rightarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_rightarrow.png
-lrwxrwxrwx	root/root	usr/share/help/sv/engrampa/figures/engrampa_uparrow.png -> /usr/share/help/C/engrampa/figures/engrampa_uparrow.png
+lrwxrwxrwx	root/root	usr/share/help/sv/engrampa/figures/engrampa_rightarrow.png -> ../../../C/engrampa/figures/engrampa_rightarrow.png
+lrwxrwxrwx	root/root	usr/share/help/sv/engrampa/figures/engrampa_uparrow.png -> ../../../C/engrampa/figures/engrampa_uparrow.png
 -rw-r--r--	root/root	usr/share/help/sv/engrampa/index.docbook
 -rw-r--r--	root/root	usr/share/help/sv/engrampa/legal.xml
 drwxr-xr-x	root/root	usr/share/help/uk/
@@ -223,21 +213,21 @@ drwxr-xr-x	root/root	usr/share/help/uk/engrampa/figures/
 drwxr-xr-x	root/root	usr/share/help/vi/
 drwxr-xr-x	root/root	usr/share/help/vi/engrampa/
 drwxr-xr-x	root/root	usr/share/help/vi/engrampa/figures/
-lrwxrwxrwx	root/root	usr/share/help/vi/engrampa/figures/engrampa_home.png -> /usr/share/help/C/engrampa/figures/engrampa_home.png
-lrwxrwxrwx	root/root	usr/share/help/vi/engrampa/figures/engrampa_leftarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_leftarrow.png
-lrwxrwxrwx	root/root	usr/share/help/vi/engrampa/figures/engrampa_main_window.png -> /usr/share/help/C/engrampa/figures/engrampa_main_window.png
-lrwxrwxrwx	root/root	usr/share/help/vi/engrampa/figures/engrampa_rightarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_rightarrow.png
-lrwxrwxrwx	root/root	usr/share/help/vi/engrampa/figures/engrampa_uparrow.png -> /usr/share/help/C/engrampa/figures/engrampa_uparrow.png
+lrwxrwxrwx	root/root	usr/share/help/vi/engrampa/figures/engrampa_home.png -> ../../../C/engrampa/figures/engrampa_home.png
+lrwxrwxrwx	root/root	usr/share/help/vi/engrampa/figures/engrampa_leftarrow.png -> ../../../C/engrampa/figures/engrampa_leftarrow.png
+lrwxrwxrwx	root/root	usr/share/help/vi/engrampa/figures/engrampa_main_window.png -> ../../../C/engrampa/figures/engrampa_main_window.png
+lrwxrwxrwx	root/root	usr/share/help/vi/engrampa/figures/engrampa_rightarrow.png -> ../../../C/engrampa/figures/engrampa_rightarrow.png
+lrwxrwxrwx	root/root	usr/share/help/vi/engrampa/figures/engrampa_uparrow.png -> ../../../C/engrampa/figures/engrampa_uparrow.png
 -rw-r--r--	root/root	usr/share/help/vi/engrampa/index.docbook
 -rw-r--r--	root/root	usr/share/help/vi/engrampa/legal.xml
 drwxr-xr-x	root/root	usr/share/help/zh_CN/
 drwxr-xr-x	root/root	usr/share/help/zh_CN/engrampa/
 drwxr-xr-x	root/root	usr/share/help/zh_CN/engrampa/figures/
-lrwxrwxrwx	root/root	usr/share/help/zh_CN/engrampa/figures/engrampa_home.png -> /usr/share/help/C/engrampa/figures/engrampa_home.png
-lrwxrwxrwx	root/root	usr/share/help/zh_CN/engrampa/figures/engrampa_leftarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_leftarrow.png
-lrwxrwxrwx	root/root	usr/share/help/zh_CN/engrampa/figures/engrampa_main_window.png -> /usr/share/help/C/engrampa/figures/engrampa_main_window.png
-lrwxrwxrwx	root/root	usr/share/help/zh_CN/engrampa/figures/engrampa_rightarrow.png -> /usr/share/help/C/engrampa/figures/engrampa_rightarrow.png
-lrwxrwxrwx	root/root	usr/share/help/zh_CN/engrampa/figures/engrampa_uparrow.png -> /usr/share/help/C/engrampa/figures/engrampa_uparrow.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/engrampa/figures/engrampa_home.png -> ../../../C/engrampa/figures/engrampa_home.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/engrampa/figures/engrampa_leftarrow.png -> ../../../C/engrampa/figures/engrampa_leftarrow.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/engrampa/figures/engrampa_main_window.png -> ../../../C/engrampa/figures/engrampa_main_window.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/engrampa/figures/engrampa_rightarrow.png -> ../../../C/engrampa/figures/engrampa_rightarrow.png
+lrwxrwxrwx	root/root	usr/share/help/zh_CN/engrampa/figures/engrampa_uparrow.png -> ../../../C/engrampa/figures/engrampa_uparrow.png
 -rw-r--r--	root/root	usr/share/help/zh_CN/engrampa/index.docbook
 -rw-r--r--	root/root	usr/share/help/zh_CN/engrampa/legal.xml
 drwxr-xr-x	root/root	usr/share/icons/

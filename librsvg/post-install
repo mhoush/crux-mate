@@ -1,5 +1,5 @@
 #!/bin/sh
 
-/usr/bin/gdk-pixbuf-query-loaders --update-cache
+gdk-pixbuf-query-loaders --update-cache
 
 # End of file

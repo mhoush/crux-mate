@@ -9,10 +9,12 @@ release=1
 source=(http://download.gnome.org/sources/gtkmm/${version:0:4}/gtkmm-$version.tar.xz)
 
 build() {
-	cd gtkmm-$version
-	./configure --prefix=/usr
-	make
-	make DESTDIR=$PKG install
+  cd gtkmm-$version
+  ./configure --prefix=/usr
+  make
+  make DESTDIR=$PKG install
 
-	rm -r $PKG/usr/share/doc
+  rm -r $PKG/usr/share/doc
 }
+
+# vim: set ts=2 et:

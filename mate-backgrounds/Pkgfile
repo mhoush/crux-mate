@@ -4,14 +4,16 @@
 # Depends on: intltool
 
 name=mate-backgrounds
-version=1.14.0
+version=1.18.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
-	cd $name-$version
-	./configure --prefix=/usr \
-		--disable-nls
-	make
-	make DESTDIR=$PKG install
+  cd $name-$version
+  ./configure --prefix=/usr \
+    --disable-nls
+  make
+  make DESTDIR=$PKG install
 }
+
+# vim: set ts=2 et:

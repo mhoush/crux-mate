@@ -9,10 +9,12 @@ release=1
 source=(http://tango.freedesktop.org/releases/$name-$version.tar.bz2)
 
 build() {
-	cd $name-$version
-	./configure --prefix=/usr \
-		--libexecdir=/usr/lib/$name \
-		--disable-nls
-	make
-	make DESTDIR=$PKG install
+  cd $name-$version
+  ./configure --prefix=/usr \
+    --libexecdir=/usr/lib/$name \
+    --disable-nls
+  make
+  make DESTDIR=$PKG install
 }
+
+# vim: set ts=2 et:

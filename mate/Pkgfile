@@ -1,15 +1,17 @@
-# Description: MATE desktop meta port
+# Description: MATE Desktop meta-port
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: atril caja engrampa eom marco mate-applets mate-backgrounds mate-control-center mate-desktop mate-icon-theme mate-icon-theme-faenza mate-indicator-applet mate-media mate-menus mate-notification-daemon mate-panel mate-polkit mate-power-manager mate-screensaver mate-session-manager mate-settings-daemon mate-system-monitor mate-terminal mozo pluma
+# Depends on: atril caja engrampa eom marco mate-applets mate-backgrounds mate-calc mate-control-center mate-desktop mate-icon-theme mate-icon-theme-faenza mate-indicator-applet mate-media mate-menus mate-notification-daemon mate-panel mate-power-manager mate-screensaver mate-session-manager mate-settings-daemon mate-system-monitor mate-terminal mate-themes mate-utils mozo pluma
 # Optional: mate-sensors-applet
 
 name=mate
-version=1.14
+version=1.18
 release=1
 source=()
 
 build() {
-	install -d -m 0755 $PKG/etc
-	echo "MATE ${version}" > $PKG/etc/mate_version
+  install -d -m 0755 $PKG/etc
+  echo "MATE $version" > $PKG/etc/mate_version
 }
+
+# vim: set ts=2 et:

@@ -1,7 +1,7 @@
 # Description: A set of symbols and convenience functions for indicators
 # URL: https://launchpad.net/libindicator
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: gtk
+# Depends on: gtk3
 
 name=libindicator
 version=12.10.1
@@ -9,10 +9,13 @@ release=1
 source=(https://launchpad.net/$name/12.10/12.10.1/+download/$name-$version.tar.gz)
 
 build() {
-	cd $name-$version
-	./configure --prefix=/usr \
-		--libexecdir=/usr/lib/$name \
-		--with-gtk=2
-	make
-	make DESTDIR=$PKG install
+  cd $name-$version
+  export CFLAGS="${CFLAGS} -Wno-error=deprecated-declarations"
+  ./configure --prefix=/usr \
+    --libexecdir=/usr/lib/$name \
+    --with-gtk=3
+  make
+  make DESTDIR=$PKG install
 }
+
+# vim: set ts=2 et:

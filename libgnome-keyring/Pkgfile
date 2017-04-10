@@ -9,11 +9,13 @@ release=1
 source=(http://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.xz)
 
 build() {
-	cd $name-$version
-	./configure --prefix=/usr \
-		--disable-nls
-	make
-	make DESTDIR=$PKG install
+  cd $name-$version
+  ./configure --prefix=/usr \
+    --disable-nls
+  make
+  make DESTDIR=$PKG install
 
-	rm -r $PKG/usr/share/{gtk-doc,locale}
+  rm -r $PKG/usr/share/{gtk-doc,locale}
 }
+
+# vim: set ts=2 et:

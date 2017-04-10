@@ -1,23 +1,23 @@
-# Description: MATE Control Center
+# Description: MATE control center
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: mate-desktop libunique marco mate-menus dbus-glib mate-settings-daemon
+# Depends on: mate-settings-daemon shared-mime-info itstool mate-menus marco xorg-libxcursor glib mate-desktop pango librsvg
 
 name=mate-control-center
-version=1.14.0
+version=1.18.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
-	cd $name-$version
-
-	sed -i -e 's,update-desktop-database,true,' font-viewer/Makefile.in
-
-	./configure --prefix=/usr \
-		--disable-nls \
-		--disable-update-mimedb
-	make
-	make DESTDIR=$PKG install
-
-	rm -r $PKG/usr/share/locale
+  cd $name-$version
+  sed -i -e 's,USE_NLS=yes,USE_NLS=no,g' \
+    -e 's,ENABLE_NLS 1,ENABLE_NLS 0,g' configure
+  ./configure --prefix=/usr \
+    --disable-nls \
+    --disable-update-mimedb
+  make
+  make DESTDIR=$PKG install
+  rm $PKG/usr/share/applications/mimeinfo.cache
 }
+
+# vim: set ts=2 et:

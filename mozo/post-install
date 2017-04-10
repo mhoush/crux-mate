@@ -1,6 +1,6 @@
 #!/bin/sh
 
-/usr/bin/gtk-update-icon-cache -ft /usr/share/icons/hicolor
+/usr/bin/gtk-update-icon-cache -f -t /usr/share/icons/hicolor
 
 /usr/bin/update-desktop-database
 

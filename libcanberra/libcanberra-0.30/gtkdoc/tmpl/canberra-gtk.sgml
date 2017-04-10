@@ -1,0 +1,82 @@
+<!-- ##### SECTION Title ##### -->
+canberra-gtk
+
+<!-- ##### SECTION Short_Description ##### -->
+
+
+<!-- ##### SECTION Long_Description ##### -->
+<para>
+
+</para>
+
+<!-- ##### SECTION See_Also ##### -->
+<para>
+
+</para>
+
+<!-- ##### SECTION Stability_Level ##### -->
+
+
+<!-- ##### SECTION Image ##### -->
+
+
+<!-- ##### FUNCTION ca_gtk_context_get ##### -->
+<para>
+
+</para>
+
+@void: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_gtk_proplist_set_for_widget ##### -->
+<para>
+
+</para>
+
+@p: 
+@w: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_gtk_play_for_widget ##### -->
+<para>
+
+</para>
+
+@w: 
+@id: 
+@...: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_gtk_proplist_set_for_event ##### -->
+<para>
+
+</para>
+
+@p: 
+@e: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_gtk_play_for_event ##### -->
+<para>
+
+</para>
+
+@e: 
+@id: 
+@...: 
+@Returns: 
+
+
+<!-- ##### FUNCTION ca_gtk_widget_disable_sounds ##### -->
+<para>
+
+</para>
+
+@w: 
+@enable: 
+
+

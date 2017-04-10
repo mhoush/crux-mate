@@ -1,0 +1,20 @@
+# Description: A gobject-based plugin engine
+# URL: https://wiki.gnome.org/Projects/Libpeas
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: intltool gtk3 gtk
+
+name=libpeas
+version=1.20.0
+release=1
+source=(http://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.xz)
+
+build() {
+  cd $name-$version
+  sed -i -e '/^SUBDIRS/s/ docs//' Makefile.in
+  ./configure --prefix=/usr \
+    --disable-nls
+  make
+  make DESTDIR=$PKG install
+}
+
+# vim: set ts=2 et:

@@ -1,17 +1,19 @@
 # Description: A fork of libgnomekbd
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: glib libxklavier gtk
+# Depends on: intltool glib gtk3 libxklavier
 
 name=libmatekbd
-version=1.14.1
+version=1.18.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
-	cd $name-$version
-	./configure --prefix=/usr \
-		--disable-nls
-	make
-	make DESTDIR=$PKG install
+  cd $name-$version
+  ./configure --prefix=/usr \
+    --disable-nls
+  make
+  make DESTDIR=$PKG install
 }
+
+# vim: set ts=2 et:

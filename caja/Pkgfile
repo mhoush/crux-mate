@@ -1,21 +1,21 @@
 # Description: The file manager for MATE
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: glib mate-desktop gtk libunique desktop-file-utils gvfs
+# Depends on: glib libnotify mate-desktop shared-mime-info desktop-file-utils gvfs
 
 name=caja
-version=1.14.1
+version=1.18.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
-	cd $name-$version
-	./configure --prefix=/usr \
-		--libexecdir=/usr/lib/$name \
-		--disable-nls \
-		--disable-update-mimedb
-	make
-	make DESTDIR=$PKG install
-
-	rm -r $PKG/usr/share/gtk-doc
+  cd $name-$version
+  sed -i -e '418d' Makefile.in
+  ./configure --prefix=/usr \
+    --disable-nls \
+    --disable-update-mimedb
+  make
+  make DESTDIR=$PKG install
 }
+
+# vim: set ts=2 et:

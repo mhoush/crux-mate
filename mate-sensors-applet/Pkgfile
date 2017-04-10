@@ -1,18 +1,20 @@
 # Description: Display readings from hardware sensors in the MATE panel
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: mate-panel udisks2
+# Depends on: lm_sensors intltool glib gtk3 mate-panel
 
 name=mate-sensors-applet
-version=1.14.0
+version=1.18.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
-	cd $name-$version
-	./configure --prefix=/usr \
-		--libexecdir=/usr/lib/$name \
-		--disable-nls
-	make
-	make DESTDIR=$PKG install
+  cd $name-$version
+  ./configure --prefix=/usr \
+    --libexecdir=/usr/lib/$name \
+    --disable-nls
+  make
+  make DESTDIR=$PKG install
 }
+
+# vim: set ts=2 et:

@@ -1,10 +1,7 @@
 #!/bin/sh
 
-if [ -z "`getent group polkit`" ]; then
-	/usr/sbin/groupadd --system polkit
-fi
+getent group polkitd || /usr/sbin/groupadd -g 83 polkitd
 
-if [ -z "`getent passwd polkit`" ]; then
-	/usr/sbin/useradd -r -g polkit -d /var/empty -s /bin/false -c "polkit" polkit
-	/usr/bin/passwd -l polkit
-fi
+getent passwd polkitd || /usr/sbin/useradd -g polkitd -u 83 -d /var/empty -s /bin/false -c "PolicyKit User" polkitd
+
+/usr/bin/passwd -l polkitd

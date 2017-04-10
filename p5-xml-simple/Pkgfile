@@ -8,12 +8,14 @@ release=1
 source=(https://cpan.metacpan.org/authors/id/G/GR/GRANTM/XML-Simple-$version.tar.gz)
 
 build() {
-	cd XML-Simple-$version
-	perl Makefile.PL build
-	make
-	make DESTDIR=$PKG install
+  cd XML-Simple-$version
+  perl Makefile.PL build
+  make
+  make DESTDIR=$PKG install
 
-	find $PKG -name "perllocal.pod" -delete
-	find $PKG -name ".packlist" -delete
-	find $PKG -empty -delete
+  find $PKG -name "perllocal.pod" -delete
+  find $PKG -name ".packlist" -delete
+  find $PKG -empty -delete
 }
+
+# vim: set ts=2 et:

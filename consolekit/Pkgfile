@@ -7,14 +7,16 @@ name=consolekit
 version=0.4.6
 release=1
 source=(http://www.freedesktop.org/software/ConsoleKit/dist/ConsoleKit-$version.tar.xz \
-	revert-4f8822.diff)
+  revert-4f8822.diff)
 
 build() {
-	cd ConsoleKit-$version
-	patch -p1 -i $SRC/revert-4f8822.diff
-	./configure --prefix=/usr \
-		--localstatedir=/var \
-		--libexecdir=/usr/lib/$name
-	make
-	make DESTDIR=$PKG install
+  cd ConsoleKit-$version
+  patch -p1 -i $SRC/revert-4f8822.diff
+  ./configure --prefix=/usr \
+    --localstatedir=/var \
+    --libexecdir=/usr/lib/$name
+  make
+  make DESTDIR=$PKG install
 }
+
+# vim: set ts=2 et:

@@ -1,20 +1,23 @@
 # Description: A document viewer for MATE
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: caja libsecret poppler-glib itstool desktop-file-utils
+# Depends on: caja libsecret p5-xml-parser poppler-glib itstool desktop-file-utils
 
 name=atril
-version=1.14.1
+version=1.18.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
-	cd $name-$version
-	./configure --prefix=/usr \
-		--libexecdir=/usr/lib/$name \
-		--disable-nls
-	make
-	make DESTDIR=$PKG install
-
-	rm -r $PKG/usr/share/{gtk-doc,locale}
+  cd $name-$version
+  sed -i -e 's,USE_NLS=yes,USE_NLS=no,g' \
+    -e 's,ENABLE_NLS 1,ENABLE_NLS 0,g' configure
+  ./configure --prefix=/usr \
+    --libexecdir=/usr/lib/$name \
+    --disable-nls
+  make
+  make DESTDIR=$PKG install
+  rm -r $PKG/usr/share/gtk-doc
 }
+
+# vim: set ts=2 et:
