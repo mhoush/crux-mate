@@ -4,19 +4,21 @@
 # Depends on: libatasmart libgudev polkit
 
 name=udisks2
-version=2.1.7
+version=2.1.8
 release=1
 source=(http://udisks.freedesktop.org/releases/udisks-$version.tar.bz2)
 
 build() {
-	cd udisks-$version
-	sed -i -e '/^SUBDIRS =/ s/ doc//' Makefile.in
-	./configure --prefix=/usr \
-		--libexecdir=/usr/lib/$name \
-		--enable-fhs-media \
-		--disable-nls
-	make
-	make DESTDIR=$PKG install
-	rm -r $PKG/usr/share/locale
-	install -d -m 0755 $PKG/media
+  cd udisks-$version
+  sed -i -e '/^SUBDIRS =/ s/ doc//' Makefile.in
+  ./configure --prefix=/usr \
+    --libexecdir=/usr/lib/$name \
+    --enable-fhs-media \
+    --disable-nls
+  make
+  make DESTDIR=$PKG install
+  rm -r $PKG/usr/share/locale
+  install -d -m 0755 $PKG/media
 }
+
+# vim: set ts=2 et:
