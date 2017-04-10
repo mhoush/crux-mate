@@ -19,7 +19,6 @@ d:atril
 d:zenity
 d:mate-indicator-applet
 d:mate-notification-daemon
-d:libsecret
 d:dconf
 d:libwnck-gtk3
 d:engrampa
@@ -141,9 +140,6 @@ f:840d6824924e40c8262d4dc149a049c0:mate-notification-daemon/Pkgfile
 f:3674695a61284e2e01974158d40879d0:mate-notification-daemon/post-install
 f:6afda19172cf3f0c53d2d38c0d046b12:mate-notification-daemon/.md5sum
 f:d0715c40b7c3db5782ad41a9d1002120:mate-notification-daemon/.footprint
-f:3ad01a6c1d6c6ac5d4f62b88e7405ca2:libsecret/Pkgfile
-f:ccf839f2fef4ca0321cda3d8baf6325a:libsecret/.md5sum
-f:746a58826947e466d1e5bc5840fc769b:libsecret/.footprint
 f:fcd93ee79aed8a60c5c32916298a4921:dconf/Pkgfile
 f:84ba726a5a45d792387f712b240ba231:dconf/.md5sum
 f:536ed126aee72b82eece6087d526ed81:dconf/.footprint
