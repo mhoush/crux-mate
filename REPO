@@ -26,7 +26,6 @@ d:engrampa
 d:mate-themes
 d:librsvg
 d:mate-panel
-d:gtksourceview
 d:mate-screensaver
 d:libpeas
 d:mate-sensors-applet
@@ -168,9 +167,6 @@ f:e2905b2283e8fab815aa06b7a730a0b7:mate-panel/Pkgfile
 f:3674695a61284e2e01974158d40879d0:mate-panel/post-install
 f:62d69d2def5dbabc3cbf319bbab56755:mate-panel/.md5sum
 f:60f03f3fbe056f7d5f2b5d908747867f:mate-panel/.footprint
-f:0f07f35f925676c98a2a296e035e2f60:gtksourceview/Pkgfile
-f:f3192a9830906f24367b61a978ed6467:gtksourceview/.md5sum
-f:0f06a3fdb838343fb3246a4579e2af5f:gtksourceview/.footprint
 f:8d1cd8b3ea4b98830fc8bae5c26e9b2d:mate-screensaver/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:mate-screensaver/post-install
 f:4846cd241dc9c0e791b34c7bfc6fa701:mate-screensaver/.md5sum
