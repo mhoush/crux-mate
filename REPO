@@ -20,7 +20,6 @@ d:zenity
 d:mate-indicator-applet
 d:mate-notification-daemon
 d:dconf
-d:libwnck-gtk3
 d:engrampa
 d:mate-themes
 d:librsvg
@@ -143,9 +142,6 @@ f:d0715c40b7c3db5782ad41a9d1002120:mate-notification-daemon/.footprint
 f:fcd93ee79aed8a60c5c32916298a4921:dconf/Pkgfile
 f:84ba726a5a45d792387f712b240ba231:dconf/.md5sum
 f:536ed126aee72b82eece6087d526ed81:dconf/.footprint
-f:eb833334c9a2b876627ba749a38183d5:libwnck-gtk3/Pkgfile
-f:4cfa2ea1fb82136562b4d96927d6a3b4:libwnck-gtk3/.md5sum
-f:977e8a3156916d4ad843c4452aff61ea:libwnck-gtk3/.footprint
 f:f5af4e6a9c3c5797690a3a0e560c10bb:engrampa/Pkgfile
 f:3674695a61284e2e01974158d40879d0:engrampa/post-install
 f:f9140baa6fb638f5b19252b2cd6e1cbb:engrampa/.md5sum
