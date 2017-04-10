@@ -60,10 +60,10 @@ d:mate-power-manager
 d:libgudev
 d:mozo
 d:icon-naming-utils
-f:177b75db02c256d577ac50856a11040a:gvfs/Pkgfile
+f:dff297288ecca63491a86dff494acbad:gvfs/Pkgfile
 f:627ed74e27650ad8b5f860f26a174def:gvfs/post-install
 f:594e294ee12d1937d4f93d4b5426d176:gvfs/.md5sum
-f:70645e2da15a8c8989a35e9ccd193f16:gvfs/.footprint
+f:1b001b3b6148a3ee3ebf271710bf8de5:gvfs/.footprint
 f:f04345e0f372cb4d8272d6e5c082e7c9:mate-common/Pkgfile
 f:16327cebb48c2043b901ab733620d74b:mate-common/.md5sum
 f:80e269a981197c365e1b342d5a34e615:mate-common/.footprint
