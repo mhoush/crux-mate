@@ -26,6 +26,14 @@ Install MATE ports:
 prt-get depinst mate --install-scripts
 ```
 
+**NOTE:** There are a few ports outside of the MATE ports tree that will likely have footprint mismatches during the MATE build. These mismatches are usually due to extra libraries or software installed that the ports detect and can generally be installed manually with pkgadd:
+
+```
+cyrus-sasl
+libsecret
+samba
+```
+
 After the installation completes, add dbus to the 'SERVICES' array in /etc/rc.conf:
 
 ```
