@@ -1,23 +1,20 @@
 # Description: The MATE panel
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: mate-menus libmateweather gobject-introspection mate-desktop dbus-glib libwnck-gtk3 librsvg itstool
+# Depends on: dbus-glib mate-menus libwnck-gtk3 librsvg libmateweather mate-desktop itstool
 
 name=mate-panel
-version=1.18.0
+version=1.20.2
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
   cd $name-$version
-  sed -i -e '424d' Makefile.in
-  sed -i -e 's,USE_NLS=yes,USE_NLS=no,g' \
-    -e 's,ENABLE_NLS 1,ENABLE_NLS 0,g' configure
   ./configure --prefix=/usr \
     --libexecdir=/usr/lib/$name \
     --disable-nls
   make
   make DESTDIR=$PKG install
-}
 
-# vim: set ts=2 et:
+  rm -r $PKG/usr/share/{gtk-doc,locale}
+}

@@ -1,12 +1,12 @@
 # Description: Allows display of dialog boxes from the command line and shell scripts
 # URL: https://wiki.gnome.org/action/show/Projects/Zenity
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: gtk3 util-linux xorg-libxdamage itstool
+# Depends on: gnome-common gtk3 itstool
 
 name=zenity
-version=3.24.0
+version=3.28.1
 release=1
-source=(http://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.xz)
+source=(https://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.xz)
 
 build() {
   export CFLAGS="${CFLAGS} -Wno-error=implicit-function-declaration"
@@ -17,5 +17,3 @@ build() {
   make
   make DESTDIR=$PKG install
 }
-
-# vim: set ts=2 et:

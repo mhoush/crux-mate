@@ -1,21 +1,24 @@
 # Description: An API for simple XML files
-# URL: http://search.cpan.org/~grantm/XML-Simple-2.22/
+# URL: https://metacpan.org/release/XML-Simple
 # Maintainer: Matt Housh, jaeger at crux dot ninja
 
 name=p5-xml-simple
-version=2.22
+version=2.25
 release=1
-source=(https://cpan.metacpan.org/authors/id/G/GR/GRANTM/XML-Simple-$version.tar.gz)
+source=(http://search.cpan.org/CPAN/authors/id/G/GR/GRANTM/XML-Simple-$version.tar.gz)
 
 build() {
-  cd XML-Simple-$version
-  perl Makefile.PL build
-  make
-  make DESTDIR=$PKG install
+	cd XML-Simple-$version
 
-  find $PKG -name "perllocal.pod" -delete
-  find $PKG -name ".packlist" -delete
-  find $PKG -empty -delete
+	perl Makefile.PL
+	make OPTIMIZE="$CFLAGS"
+	make install DESTDIR=$PKG
+
+	find $PKG -type f \( \
+		-name '.packlist' -o \
+		-name '*.bs' -o \
+		-name 'autosplit.ix' -o \
+		-name 'perllocal.pod' \) -delete
+
+	find $PKG -depth -empty -delete
 }
-
-# vim: set ts=2 et:

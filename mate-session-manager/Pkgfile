@@ -1,24 +1,23 @@
 # Description: MATE session manager and configuration program
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: gtk3 dbus-glib gtk desktop-file-utils consolekit
+# Depends on: dbus-glib gtk3 consolekit gtk desktop-file-utils
 
 name=mate-session-manager
-version=1.18.0
+version=1.20.1
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz \
   start-mate)
 
 build() {
   cd $name-$version
-  sed -i -e 's,USE_NLS=yes,USE_NLS=no,g' \
-    -e 's,ENABLE_NLS 1,ENABLE_NLS 0,g' configure
   ./configure --prefix=/usr \
     --disable-nls
   make
   make DESTDIR=$PKG install
 
-  install -o root -g root -m 0755 $SRC/start-mate $PKG/usr/bin/start-mate
-}
+  rm -r $PKG/usr/share/locale
 
-# vim: set ts=2 et:
+  install -o root -g root -m 0755 $SRC/start-mate \
+    $PKG/usr/bin/start-mate
+}

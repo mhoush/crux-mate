@@ -24,13 +24,13 @@ drwxr-xr-x	root/root	usr/lib/girepository-1.0/
 -rw-r--r--	root/root	usr/lib/girepository-1.0/Peas-1.0.typelib
 -rw-r--r--	root/root	usr/lib/girepository-1.0/PeasGtk-1.0.typelib
 -rwxr-xr-x	root/root	usr/lib/libpeas-1.0.la
-lrwxrwxrwx	root/root	usr/lib/libpeas-1.0.so -> libpeas-1.0.so.0.2000.0
-lrwxrwxrwx	root/root	usr/lib/libpeas-1.0.so.0 -> libpeas-1.0.so.0.2000.0
--rwxr-xr-x	root/root	usr/lib/libpeas-1.0.so.0.2000.0
+lrwxrwxrwx	root/root	usr/lib/libpeas-1.0.so -> libpeas-1.0.so.0.2200.0
+lrwxrwxrwx	root/root	usr/lib/libpeas-1.0.so.0 -> libpeas-1.0.so.0.2200.0
+-rwxr-xr-x	root/root	usr/lib/libpeas-1.0.so.0.2200.0
 -rwxr-xr-x	root/root	usr/lib/libpeas-gtk-1.0.la
-lrwxrwxrwx	root/root	usr/lib/libpeas-gtk-1.0.so -> libpeas-gtk-1.0.so.0.2000.0
-lrwxrwxrwx	root/root	usr/lib/libpeas-gtk-1.0.so.0 -> libpeas-gtk-1.0.so.0.2000.0
--rwxr-xr-x	root/root	usr/lib/libpeas-gtk-1.0.so.0.2000.0
+lrwxrwxrwx	root/root	usr/lib/libpeas-gtk-1.0.so -> libpeas-gtk-1.0.so.0.2200.0
+lrwxrwxrwx	root/root	usr/lib/libpeas-gtk-1.0.so.0 -> libpeas-gtk-1.0.so.0.2200.0
+-rwxr-xr-x	root/root	usr/lib/libpeas-gtk-1.0.so.0.2200.0
 drwxr-xr-x	root/root	usr/lib/peas-demo/
 drwxr-xr-x	root/root	usr/lib/peas-demo/plugins/
 drwxr-xr-x	root/root	usr/lib/peas-demo/plugins/helloworld/

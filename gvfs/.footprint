@@ -60,25 +60,6 @@ drwxr-xr-x	root/root	usr/share/
 drwxr-xr-x	root/root	usr/share/GConf/
 drwxr-xr-x	root/root	usr/share/GConf/gsettings/
 -rw-r--r--	root/root	usr/share/GConf/gsettings/gvfs-smb.convert
-drwxr-xr-x	root/root	usr/share/bash-completion/
-drwxr-xr-x	root/root	usr/share/bash-completion/completions/
--rw-r--r--	root/root	usr/share/bash-completion/completions/gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-copy -> gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-info -> gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-less -> gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-ls -> gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-mkdir -> gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-monitor-dir -> gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-monitor-file -> gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-mount -> gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-move -> gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-open -> gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-rename -> gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-rm -> gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-save -> gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-set-attribute -> gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-trash -> gvfs-cat
-lrwxrwxrwx	root/root	usr/share/bash-completion/completions/gvfs-tree -> gvfs-cat
 drwxr-xr-x	root/root	usr/share/dbus-1/
 drwxr-xr-x	root/root	usr/share/dbus-1/services/
 -rw-r--r--	root/root	usr/share/dbus-1/services/org.gtk.vfs.Daemon.service

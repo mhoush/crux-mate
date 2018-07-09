@@ -3,24 +3,7 @@ drwxr-xr-x	root/root	usr/etc/
 drwxr-xr-x	root/root	usr/etc/xdg/
 drwxr-xr-x	root/root	usr/etc/xdg/autostart/
 -rw-r--r--	root/root	usr/etc/xdg/autostart/polkit-mate-authentication-agent-1.desktop
-drwxr-xr-x	root/root	usr/include/
-drwxr-xr-x	root/root	usr/include/polkit-gtk-mate-1/
-drwxr-xr-x	root/root	usr/include/polkit-gtk-mate-1/polkitgtkmate/
--rw-r--r--	root/root	usr/include/polkit-gtk-mate-1/polkitgtkmate/polkitgtkmate.h
--rw-r--r--	root/root	usr/include/polkit-gtk-mate-1/polkitgtkmate/polkitgtkmatetypes.h
--rw-r--r--	root/root	usr/include/polkit-gtk-mate-1/polkitgtkmate/polkitlockbutton.h
 drwxr-xr-x	root/root	usr/lib/
-drwxr-xr-x	root/root	usr/lib/girepository-1.0/
--rw-r--r--	root/root	usr/lib/girepository-1.0/PolkitGtkMate-1.0.typelib
--rw-r--r--	root/root	usr/lib/libpolkit-gtk-mate-1.a
--rwxr-xr-x	root/root	usr/lib/libpolkit-gtk-mate-1.la
-lrwxrwxrwx	root/root	usr/lib/libpolkit-gtk-mate-1.so -> libpolkit-gtk-mate-1.so.0.0.0
-lrwxrwxrwx	root/root	usr/lib/libpolkit-gtk-mate-1.so.0 -> libpolkit-gtk-mate-1.so.0.0.0
--rwxr-xr-x	root/root	usr/lib/libpolkit-gtk-mate-1.so.0.0.0
 drwxr-xr-x	root/root	usr/lib/mate-polkit/
 -rwxr-xr-x	root/root	usr/lib/mate-polkit/polkit-mate-authentication-agent-1
-drwxr-xr-x	root/root	usr/lib/pkgconfig/
--rw-r--r--	root/root	usr/lib/pkgconfig/polkit-gtk-mate-1.pc
 drwxr-xr-x	root/root	usr/share/
-drwxr-xr-x	root/root	usr/share/gir-1.0/
--rw-r--r--	root/root	usr/share/gir-1.0/PolkitGtkMate-1.0.gir

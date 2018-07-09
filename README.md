@@ -1,6 +1,6 @@
 # [MATE Desktop Environment](http://www.mate-desktop.org/) ports collection for [CRUX](https://crux.nu/) Linux #
 
-## The current release is MATE 1.18 for CRUX 3.3 (as of 09 Apr 2017) ##
+## The current release is MATE 1.20 for CRUX 3.4 (as of 09 Jul 2018) ##
 
 ## Quickstart ##
 
@@ -31,14 +31,19 @@ prt-get depinst mate --install-scripts
 ```
 cyrus-sasl
 libsecret
+libxklavier
 samba
 ```
+
+There might be others, this list is just an example.
 
 After the installation completes, add dbus to the 'SERVICES' array in /etc/rc.conf:
 
 ```
 SERVICES=(net crond dbus)
 ```
+
+Ensure the dbus service is running or reboot.
 
 If using startx configure your .xinitrc like so:
 

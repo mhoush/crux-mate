@@ -103,6 +103,7 @@ drwxr-xr-x	root/root	usr/share/glib-2.0/schemas/
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.SettingsDaemon.plugins.background.gschema.xml
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.SettingsDaemon.plugins.clipboard.gschema.xml
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.SettingsDaemon.plugins.datetime.gschema.xml
+-rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.SettingsDaemon.plugins.gschema.xml
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.SettingsDaemon.plugins.housekeeping.gschema.xml
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.SettingsDaemon.plugins.keybindings.gschema.xml
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.SettingsDaemon.plugins.keyboard.gschema.xml

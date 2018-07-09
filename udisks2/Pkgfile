@@ -1,23 +1,22 @@
 # Description: D-Bus interfaces and tools for querying and manipulating storage devices
 # URL: http://www.freedesktop.org/wiki/Software/udisks/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: libatasmart libgudev polkit
+# Depends on: libatasmart libgudev polkit libblockdev docbook-xsl
 
 name=udisks2
-version=2.1.8
+version=2.7.6
 release=1
-source=(http://udisks.freedesktop.org/releases/udisks-$version.tar.bz2)
+source=(https://github.com/storaged-project/udisks/releases/download/udisks-2.7.6/udisks-2.7.6.tar.bz2)
 
 build() {
   cd udisks-$version
-  sed -i -e '/^SUBDIRS =/ s/ doc//' Makefile.in
   ./configure --prefix=/usr \
     --libexecdir=/usr/lib/$name \
     --enable-fhs-media \
     --disable-nls
   make
   make DESTDIR=$PKG install
-  rm -r $PKG/usr/share/locale
+  rm -r $PKG/usr/share/{gtk-doc,locale}
   install -d -m 0755 $PKG/media
 }
 

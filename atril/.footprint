@@ -40,6 +40,7 @@ drwxr-xr-x	root/root	usr/include/atril/1.5.0/libdocument/
 -rw-r--r--	root/root	usr/include/atril/1.5.0/libdocument/ev-link-action.h
 -rw-r--r--	root/root	usr/include/atril/1.5.0/libdocument/ev-link-dest.h
 -rw-r--r--	root/root	usr/include/atril/1.5.0/libdocument/ev-link.h
+-rw-r--r--	root/root	usr/include/atril/1.5.0/libdocument/ev-macros.h
 -rw-r--r--	root/root	usr/include/atril/1.5.0/libdocument/ev-mapping-list.h
 -rw-r--r--	root/root	usr/include/atril/1.5.0/libdocument/ev-page.h
 -rw-r--r--	root/root	usr/include/atril/1.5.0/libdocument/ev-render-context.h
@@ -97,9 +98,6 @@ drwxr-xr-x	root/root	usr/share/appdata/
 drwxr-xr-x	root/root	usr/share/applications/
 -rw-r--r--	root/root	usr/share/applications/atril.desktop
 drwxr-xr-x	root/root	usr/share/atril/
--rw-r--r--	root/root	usr/share/atril/atril-previewer-ui.xml
--rw-r--r--	root/root	usr/share/atril/atril-toolbar.xml
--rw-r--r--	root/root	usr/share/atril/atril-ui.xml
 -rw-r--r--	root/root	usr/share/atril/hand-open.png
 drwxr-xr-x	root/root	usr/share/atril/icons/
 drwxr-xr-x	root/root	usr/share/atril/icons/hicolor/

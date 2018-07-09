@@ -1,15 +1,17 @@
 # Description: A userspace virtual filesystem designed to work with the I/O abstractions of gio (glib)
 # URL: http://projects.gnome.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: glib gcr samba libgcrypt polkit docbook-xsl libgphoto2 udisks2
+# Depends on: glib gcr samba libgcrypt polkit docbook-xsl libgphoto2 udisks2 meson ninja libsoup
 
 name=gvfs
-version=1.30.3
-release=2
+version=1.36.0
+release=1
 source=(http://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.xz)
 
 build() {
   cd $name-$version
+  sed -i -e '/gtkdocize/d' autogen.sh
+  NOCONFIGURE=1 ./autogen.sh
   ./configure --prefix=/usr \
     --libexecdir=/usr/lib/$name \
     --enable-udisks2 \

@@ -1,0 +1,18 @@
+# Description: Ayatana Indicator Display Objects
+# URL: https://github.com/AyatanaIndicators/ayatana-ido
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: mate-common gtk3 vala
+
+name=ayatana-ido
+version=0.4.2
+release=1
+source=(https://github.com/AyatanaIndicators/$name/archive/$version/$name-$version.tar.gz)
+
+build() {
+	cd $name-$version
+	sed -i -e '/^GTK_DOC_CHECK/d' configure.ac
+	NOCONFIGURE=1 ./autogen.sh
+	CONFIG_SHELL=/bin/bash ./configure --prefix=/usr
+	make
+	make DESTDIR=$PKG install
+}

@@ -1,21 +1,18 @@
 # Description: A low-level configuration and settings management system
 # URL: http://wiki.gnome.org/Projects/dconf
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: libxslt glib
+# Depends on: meson ninja vala
 
 name=dconf
-version=0.26.0
+version=0.28.0
 release=1
-source=(http://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.xz)
+source=(https://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.xz)
 
 build() {
   cd $name-$version
-  sed -i -e '/^SUBDIRS/s/ docs//' Makefile.in
-  ./configure --prefix=/usr \
-    --libexecdir=/usr/lib/$name \
-    --disable-nls
-  make
-  make DESTDIR=$PKG install
+  meson builddir \
+    --prefix=/usr \
+    --libexecdir=/usr/lib/$name
+  ninja -C builddir
+  DESTDIR=$PKG ninja -C builddir install
 }
-
-# vim: set ts=2 et:

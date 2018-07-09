@@ -1,0 +1,18 @@
+# Description: Ayatana Indicators shared library
+# URL: https://github.com/AyatanaIndicators/libayatana-indicator
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: ayatana-ido
+
+name=libayatana-indicator
+version=0.6.2
+release=1
+source=(https://github.com/AyatanaIndicators/$name/archive/$version/$name-$version.tar.gz)
+
+build() {
+	cd $name-$version
+	autoreconf -vfi
+	./configure --prefix=/usr \
+		--libexecdir=/usr/lib/$name
+	make
+	make DESTDIR=$PKG install
+}

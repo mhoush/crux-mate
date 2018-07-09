@@ -24,8 +24,6 @@ drwxr-xr-x	root/root	usr/include/libmate-slab/
 -rw-r--r--	root/root	usr/include/libmate-slab/app-shell.h
 -rw-r--r--	root/root	usr/include/libmate-slab/application-tile.h
 -rw-r--r--	root/root	usr/include/libmate-slab/bookmark-agent.h
--rw-r--r--	root/root	usr/include/libmate-slab/directory-tile.h
--rw-r--r--	root/root	usr/include/libmate-slab/document-tile.h
 -rw-r--r--	root/root	usr/include/libmate-slab/double-click-detector.h
 -rw-r--r--	root/root	usr/include/libmate-slab/libslab-utils.h
 -rw-r--r--	root/root	usr/include/libmate-slab/mate-utils.h
@@ -34,13 +32,10 @@ drwxr-xr-x	root/root	usr/include/libmate-slab/
 -rw-r--r--	root/root	usr/include/libmate-slab/nld-marshal.h
 -rw-r--r--	root/root	usr/include/libmate-slab/search-bar.h
 -rw-r--r--	root/root	usr/include/libmate-slab/search-context-picker.h
--rw-r--r--	root/root	usr/include/libmate-slab/search-entry-watermark.h
--rw-r--r--	root/root	usr/include/libmate-slab/search-entry.h
 -rw-r--r--	root/root	usr/include/libmate-slab/shell-window.h
 -rw-r--r--	root/root	usr/include/libmate-slab/slab-mate-util.h
 -rw-r--r--	root/root	usr/include/libmate-slab/slab-section.h
 -rw-r--r--	root/root	usr/include/libmate-slab/slab.h
--rw-r--r--	root/root	usr/include/libmate-slab/system-tile.h
 -rw-r--r--	root/root	usr/include/libmate-slab/tile.h
 drwxr-xr-x	root/root	usr/include/mate-window-settings-2.0/
 -rw-r--r--	root/root	usr/include/mate-window-settings-2.0/mate-window-manager.h

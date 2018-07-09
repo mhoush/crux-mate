@@ -1,22 +1,19 @@
 # Description: Mixer library for MATE
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: glib alsa-lib intltool
+# Depends on: alsa-lib
 
 name=libmatemixer
-version=1.18.0
+version=1.20.1
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
   cd $name-$version
-  sed -i -e '394d' Makefile.in
-  sed -i -e 's,USE_NLS=yes,USE_NLS=no,g' \
-    -e 's,ENABLE_NLS 1,ENABLE_NLS 0,g' configure
   ./configure --prefix=/usr \
     --disable-nls
   make
   make DESTDIR=$PKG install
-}
 
-# vim: set ts=2 et:
+  rm -r $PKG/usr/share/{gtk-doc,locale}
+}

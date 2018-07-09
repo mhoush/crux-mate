@@ -2,7 +2,7 @@
 
 /usr/bin/glib-compile-schemas /usr/share/glib-2.0/schemas
 
-/usr/bin/gtk-update-icon-cache -f -t /usr/share/icons/hicolor
-/usr/bin/gtk-update-icon-cache -f -t /usr/share/icons/mate
+/usr/bin/gtk-update-icon-cache -f /usr/share/icons/hicolor
+/usr/bin/gtk-update-icon-cache -f /usr/share/icons/mate
 
 # EOF

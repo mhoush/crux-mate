@@ -23446,4 +23446,5 @@ lrwxrwxrwx	root/root	usr/share/icons/matefaenzadark/stock/24/stock_person-panel.
 lrwxrwxrwx	root/root	usr/share/icons/matefaenzadark/stock/24/stock_person.png -> ./avatar-default.png
 -rw-rw-r--	root/root	usr/share/icons/matefaenzadark/stock/24/stock_text-monospaced.png
 drwxrwxr-x	root/root	usr/share/icons/matefaenzagray/
+lrwxrwxrwx	root/root	usr/share/icons/matefaenzagray/actions -> ../matefaenza/actions
 -rw-rw-r--	root/root	usr/share/icons/matefaenzagray/index.theme

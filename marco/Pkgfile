@@ -1,21 +1,19 @@
 # Description: The MATE window manager, a fork of metacity
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: libcanberra zenity xorg-libxcomposite startup-notification desktop-file-utils
+# Depends on: libcanberra zenity desktop-file-utils
 
 name=marco
-version=1.18.0
+version=1.20.2
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
   cd $name-$version
-  sed -i -e 's,USE_NLS=yes,USE_NLS=no,g' \
-    -e 's,ENABLE_NLS 1,ENABLE_NLS 0,g' configure
   ./configure --prefix=/usr \
     --disable-nls
   make
   make DESTDIR=$PKG install
-}
 
-# vim: set ts=2 et:
+  rm -r $PKG/usr/share/locale
+}

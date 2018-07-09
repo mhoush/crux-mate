@@ -1,0 +1,17 @@
+# Description: A library for manipulating block devices
+# URL: https://github.com/storaged-project/libblockdev
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: parted nss cryptsetup libbytesize ndctl volume_key gobject-introspection
+
+name=libblockdev
+version=2.17
+release=1
+source=(https://github.com/storaged-project/libblockdev/releases/download/2.17-1/libblockdev-2.17.tar.gz)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr \
+    --with-dm=no
+  make
+  make DESTDIR=$PKG install
+}

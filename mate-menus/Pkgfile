@@ -1,10 +1,10 @@
 # Description: A library that implements the Desktop Menu Specifications from freedesktop.org
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: python intltool glib gobject-introspection
+# Depends on: gobject-introspection
 
 name=mate-menus
-version=1.18.0
+version=1.20.1
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
@@ -15,5 +15,3 @@ build() {
   make
   make DESTDIR=$PKG install
 }
-
-# vim: set ts=2 et:

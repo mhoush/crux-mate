@@ -1,0 +1,17 @@
+# Description: A collection of utilities for the GNOME project
+# URL: https://wiki.gnome.org/Projects/GnomeCommon
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on:
+
+name=gnome-common
+version=3.18.0
+release=1
+source=(https://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.xz)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr \
+    --disable-nls
+  make
+  make DESTDIR=$PKG install
+}

@@ -20,6 +20,7 @@ drwxr-xr-x	root/root	usr/include/libgtop-2.0/glibtop/
 -rw-r--r--	root/root	usr/include/libgtop-2.0/glibtop/ppp.h
 -rw-r--r--	root/root	usr/include/libgtop-2.0/glibtop/procaffinity.h
 -rw-r--r--	root/root	usr/include/libgtop-2.0/glibtop/procargs.h
+-rw-r--r--	root/root	usr/include/libgtop-2.0/glibtop/procio.h
 -rw-r--r--	root/root	usr/include/libgtop-2.0/glibtop/prockernel.h
 -rw-r--r--	root/root	usr/include/libgtop-2.0/glibtop/proclist.h
 -rw-r--r--	root/root	usr/include/libgtop-2.0/glibtop/procmap.h
@@ -47,9 +48,9 @@ drwxr-xr-x	root/root	usr/lib/girepository-1.0/
 -rw-r--r--	root/root	usr/lib/girepository-1.0/GTop-2.0.typelib
 -rw-r--r--	root/root	usr/lib/libgtop-2.0.a
 -rwxr-xr-x	root/root	usr/lib/libgtop-2.0.la
-lrwxrwxrwx	root/root	usr/lib/libgtop-2.0.so -> libgtop-2.0.so.10.0.0
-lrwxrwxrwx	root/root	usr/lib/libgtop-2.0.so.10 -> libgtop-2.0.so.10.0.0
--rwxr-xr-x	root/root	usr/lib/libgtop-2.0.so.10.0.0
+lrwxrwxrwx	root/root	usr/lib/libgtop-2.0.so -> libgtop-2.0.so.11.0.0
+lrwxrwxrwx	root/root	usr/lib/libgtop-2.0.so.11 -> libgtop-2.0.so.11.0.0
+-rwxr-xr-x	root/root	usr/lib/libgtop-2.0.so.11.0.0
 drwxr-xr-x	root/root	usr/lib/pkgconfig/
 -rw-r--r--	root/root	usr/lib/pkgconfig/libgtop-2.0.pc
 drwxr-xr-x	root/root	usr/share/
