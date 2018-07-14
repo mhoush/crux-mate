@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiORciVp8AQuC+fwwiYs1WQOutMAuC13pETPEV6fTGsPM9VYANWr2A/BFBFc/j4Xa1GZ/c6koexG0gBiPzhlb1kgg=
+SHA256 (Pkgfile) = 247ba05e6e29f0182d1443a53c1fb6beec80a8ce0f1d58f626919b560743ec04
+SHA256 (.footprint) = 9c423a19d94ea2688b8fb9bdcb53e57b3f3d125be35a008c3a460826431ab576
+SHA256 (libblockdev-2.17.tar.gz) = 49ed2ae9c5edf4f717560bbc9aa43b0a1ce9a0f2836350602fd8c2fc4a81f651

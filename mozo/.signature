@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOeOPs/DiP60C4dc8mzEL3evggj7VmhRoTDDPjrn3ZhOGhm45eQmHc12fHW69GvvJF5UP51TtpXHDIoDfaX3h/g8=
+SHA256 (Pkgfile) = f37212d1809eff6fde03bb7a1725a3cfbb24e3eced1535bf2fcf43bbd367aeaf
+SHA256 (.footprint) = d7aeb1a2af8171d700b27569a8d78f6ec812b603c972bd74d08aab06415231ef
+SHA256 (mozo-1.20.1.tar.xz) = 377b7fb55c66f3b57593cb800ba997d437f8c8b59a4d402953221634f0e2339b

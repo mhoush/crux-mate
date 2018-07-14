@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiORLzxe2Wsr3i3tit1LF3mBeOzvORLOTDynvts3OclDJs9XZEIOJmuwvGvxI7iHZy3z12/j7sjQygJrVk/d1M4g4=
+SHA256 (Pkgfile) = 9902eb37b24db4e8fffb6cda62c2826b5f9bd4b8e61d4f1a525766cbadd26ee2
+SHA256 (.footprint) = 4e847a90c232e8f890be6aafd9816b5cc5ddeca71c0ff1e14ed89edcc7acafee
+SHA256 (polkit-0.112.tar.gz) = d695f43cba4748a822fbe864dd32c4887c5da1c71694a47693ace5e88fcf6af6

@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOQv5ObJ1ONoTzQ3VpGOIMR+4s7HUFXb4A0PrHptzqNGjvhSXBW3VgZrtncuZ1h7lJG5sz3jhAURvE2NCtvbJBgw=
+SHA256 (Pkgfile) = 29d35257e79b47f0067bfe97c20815415f31d4d748f12d1f2cd60821dd77b2d7
+SHA256 (.footprint) = f91cd087db948037e788000557c3a9442901327cfb61668f160b246ef20b3482
+SHA256 (pluma-1.20.2.tar.xz) = fd43421d13ceeb0d8b316b127c738914f89c6449b588cccc4f4c26fae67f26e2

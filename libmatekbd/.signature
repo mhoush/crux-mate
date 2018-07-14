@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOU2IWS/FS7yl3g1/RvNiIb5rkooPMfoX1YLxAaSF3ZMrLZ9oKokBNL49XqlwOF0Mk4igoLh6oe8gxTGLKiSOewY=
+SHA256 (Pkgfile) = f58895083eee9d8afad9bbc1e9665cb2189d1a768725a4e436ee1c5742729879
+SHA256 (.footprint) = 069b538009e75e34c06386be0de353c0554f156081dd262b9f57b4f014333d1e
+SHA256 (libmatekbd-1.20.2.tar.xz) = 21c3e307af2caf7fb552cfb1ea615b84acaa9f9993e7b988e3da6aa2e15d3fd0

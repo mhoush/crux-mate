@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOQfA1jWQVIX0zW4CykGoN8VylQOUn2D1l7ZwYhnw917Rft7qQZKluHD9TUol4Yzsu/4hWUMcFDfxP2G7XbwNBAY=
+SHA256 (Pkgfile) = fac8a403306386ce876f5424b7e6ea9454b7427240b3da29095b5fba859536b7
+SHA256 (.footprint) = ba7a47c097590b2255e9e72cef422c4e5a4180e34eb0b99f6f8323de4a949502
+SHA256 (libatasmart-0.19.tar.xz) = 61f0ea345f63d28ab2ff0dc352c22271661b66bf09642db3a4049ac9dbdb0f8d

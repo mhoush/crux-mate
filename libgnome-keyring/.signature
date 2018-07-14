@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOQDoJ6lOusjAkTtQJmSa6pywXMmI6xpYAFN2pyOqiDQKEzXv0TaYKkIaJHf1WWKbgDp0P2ufM5kzSbbZLXDa4A0=
+SHA256 (Pkgfile) = 275e3e0fe368783fb58f5714c6749de98fd0c5a061e1a6490a5441962a63ed28
+SHA256 (.footprint) = a4aec2f8198eb30894d71fd9517ccf9ebe2127e528216cc93534540ef377ff90
+SHA256 (libgnome-keyring-3.12.0.tar.xz) = c4c178fbb05f72acc484d22ddb0568f7532c409b0a13e06513ff54b91e947783

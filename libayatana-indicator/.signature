@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOQw8ZhyuwjK8+XI2tmlchQkvygdVOVG1RShrLdyr15X1RrnfkQJ8JsThVziXF3jLguPs9y8/q2rQ4E7CijQfiw8=
+SHA256 (Pkgfile) = 3a0125d1d5a81da9569a6c308c9e5ad5520a8c15e296da31336c828e0cd290a7
+SHA256 (.footprint) = f755b9e095e539d2d0a83cd4b66d74bf8e1355742f135b1e3bb59d0ab86bae2e
+SHA256 (libayatana-indicator-0.6.2.tar.gz) = 5d82fd4522f623d8e0e516f709dbb8b736f667faf30f582ba9ea08aee3f931f0

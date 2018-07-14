@@ -20,6 +20,12 @@ Update ports collections:
 ports -u
 ```
 
+Add the collection's public key to the ports config:
+
+```
+cp /usr/ports/mate/mate.pub /etc/ports/
+```
+
 Install MATE ports:
 
 ```

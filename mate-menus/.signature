@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOZb69Rf1VXztU/xfF+/ZvIOYFQHqVlsas+CZVL7OydGMoHMCGsdbOKXihwp4hdPn+sdb6pQryp+uNLqMAi3+wAk=
+SHA256 (Pkgfile) = 927f474d7c303fb41c1cc11cbaac3ea7491d1b99eb28541a9b7825a9719caf2e
+SHA256 (.footprint) = dcdefa6d78776ec8d61b56fc3de984cbbcc3964b33eb00d87dbfcfedf1c7ad05
+SHA256 (mate-menus-1.20.1.tar.xz) = c6eb74022f9cb283cd7603e9e5aac25258bfe970da661ca9c050f8a50c9f17dd

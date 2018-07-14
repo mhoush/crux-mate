@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOZC6hZxBkkZC+HpXfkB700ugVmfMIdqsO9ALDn4o1RKYxFlTWfq0huZthp1gkgAzvANCnHUJFX7/etBiGvTp8QY=
+SHA256 (Pkgfile) = ec462b3a20323829640d27173d91dd6f550e85c61a02995a6c53240c764793ac
+SHA256 (.footprint) = 0227c80eac57479866461888adb53277bad808c3f6332e47d0ce67b358710a7a
+SHA256 (mate-power-manager-1.20.2.tar.xz) = 506e58d23cdfd06f65159effbfd5ebd2e3e5625a9d8de77ae7502b6ebb24e5fc

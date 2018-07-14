@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOfIaD0Ha8Vn38LhWsedDDbUimsFcOrBNxyG7JC2TzY/Nbs5FEa3Rw+ox/uuuwyyt/EuNHfS0z8um2e4errxquAw=
+SHA256 (Pkgfile) = 4a2e6d822e076966f32b01d478e8736019024b81deefb163ecce1166071e8e28
+SHA256 (.footprint) = dd8ab364d8f0f82d5f53546432d6155b6bc39fbb442692cd82eec2de93c734b8
+SHA256 (zenity-3.28.1.tar.xz) = db179354721fb4e2d5c418e0dc41f09c831a6b2dd440e33f7743dfc266de8a6b

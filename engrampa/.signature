@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOVXCN5bxpiFN7FZYhoX7nGUiTciSXX4DLR/CauyVE6LUQRa5rUUaATM4NEh2TwdLTD08BFJ2r7PJUSPj5P6FBAM=
+SHA256 (Pkgfile) = c14083bb86c33279a4e157bfea3f3b654fb8d5e2a76bc60f724c29627ea57b7d
+SHA256 (.footprint) = 030c0514b3b448318afde67a9415e231e7ac5a3a3ccdc0c907c978a0d1e7be37
+SHA256 (engrampa-1.20.1.tar.xz) = ce7013b40e6102aa4076009fa9bd09f8c0c3a951f484fb87380c4625a992e926

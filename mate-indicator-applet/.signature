@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOUEi/bAaTZZFtWaXuETGi2+s1sSQSSp6dPNFdY+3KtD1035KwmjUC5gE8R0L3AWFnXTa2JX6pk+ntvze+ByJ6QA=
+SHA256 (Pkgfile) = 3a5b1af5d51034b048b7d42b280e406f91992c498f3199e14b88e78b56d9cd77
+SHA256 (.footprint) = e144ecd0d0203ed99b1743b91cc7a897998422e400b3a60e6556bbca0d935161
+SHA256 (mate-indicator-applet-1.20.1.tar.xz) = cd4f5984fe646a7e24e980e658d5bc5875d19494658c9e6b1f03224e06d2b13f

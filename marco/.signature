@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiObmGKC1uW0qSXqo8nNe1cI8EI0NSrSWWoqJYjLWxr1B6D8nF04KQCxdWtbDaHlezEAz++cHoGQvBuYYHxFDo7gY=
+SHA256 (Pkgfile) = 2ea5fb45ebea113ab06ef98ef1637fad16be4d3c90d23d8f369f70f26f969125
+SHA256 (.footprint) = 3fa8702552a8264882e87f1c2ccb8a181be1472dae2fbfff04f5200d399fa653
+SHA256 (marco-1.20.2.tar.xz) = 3ebe0c50e3b8cd0420f47719ee7bf806f4719a96d8244f27c98f902bb1f3c0ba

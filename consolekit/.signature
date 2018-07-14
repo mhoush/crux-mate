@@ -1,2 +1,6 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOdP0Y+p9QoLP75gRUiKVUeXptQHMpUVx8IIXJfqn+I1VnV2TOeV01DfGBYwwu+E1QRSPDnWHwzWSI3aAOmq1hQw=
+SHA256 (Pkgfile) = ee787a5fba860e93ea41a57507253858e45ef3271ea190b3712ac73ba5fc099f
+SHA256 (.footprint) = 91b34d3f79758076797540c508e7a676edcdba232adafe1350357d94fabcfb05
+SHA256 (ConsoleKit-0.4.6.tar.xz) = b41d17e06f80059589fbeefe96ad07bcc564c49e65516da1caf975146475565c
+SHA256 (revert-4f8822.diff) = 4a77c0c31850a58810db694db421b31ee52d78684705e6024b7e614df2064cb0

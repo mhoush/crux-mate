@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOTkI+KyOXT4u0hnQ59aj72FagTTlieG4FE7oqeLgclLUZcfL6iwth2za35+LaY5+MqPR3s/3KkgwtoitDVUjTQc=
+SHA256 (Pkgfile) = 4d1c5834c6d84ec6ff96e36dba9dc374189c407f0b24b40783fe03561db02cf7
+SHA256 (.footprint) = 4cd676f22b7d27836d7ba07733e68fb0b978adc669a80f63c7261f5dd399438d
+SHA256 (mate-backgrounds-1.20.0.tar.xz) = 57b2127cba9233aef1db6fa3ecc85b2c8422e6d26565c797701079003893965d

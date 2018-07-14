@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOeqwexx0CbVJ4UFuRSjMZ6jhSQsyQfeTFvIT13IfgrQwY80DbdKY7Fc1B+YUTRWPW4n6FOrwFKo2MNfFZM3KVAg=
+SHA256 (Pkgfile) = 5cfbd48c6433a58d79a87e07453f86440df7bbb03d118c481b52c81c4f488fa9
+SHA256 (.footprint) = 802856285742e9d7cbb3ae6aded75180516244a87f0a45f079e24e89ca644034
+SHA256 (atril-1.20.2.tar.xz) = 4793d9f9ada26659e5bd2bf5c9be0106b231543d25d4bd7172fbe2ec59d25de3

@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOXnXUCOLrGlyCh4ZzWGJo1mSzVtRAftG0D5fSiaDgiVetrDIL7PHv5ZB17MF5CcZlrw5VAC3SoQfBuCi+mRjggM=
+SHA256 (Pkgfile) = e48e9b6066a4bbfd8f64314ca9fae51963e42a6657882f87049894cebcbdc87f
+SHA256 (.footprint) = 0d78dd6a9f81ee6831528691886336a442bafbd8acaebed260e745fc070cf06f
+SHA256 (libgtop-2.38.0.tar.xz) = 4f6c0e62bb438abfd16b4559cd2eca0251de19e291c888cdc4dc88e5ffebb612

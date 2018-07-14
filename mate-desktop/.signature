@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOVHdPweIpAZFIyF1xbhU19BVQwnwQwkaBbrf7cSKwsAVKRNIMBWhTJawfYD2xNWnnhRJDMfuMBHICKkUQ/W61gY=
+SHA256 (Pkgfile) = b7dc8acc4d768f35236164af79501119efe5a0eaf79d592ae23176f5e878afb1
+SHA256 (.footprint) = e8c40ff13602155e25f0da732180c77c2e95183073878158914da804665e8987
+SHA256 (mate-desktop-1.20.3.tar.xz) = da395f4f640e8b26d6704a5d63e00eeea0393f343cf5f92e2b211458390f5f8c

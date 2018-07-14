@@ -1,2 +1,6 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOTJTI3uZlAiUr/QaJibvzAkYk3F4EepwtaPj50m4YzzdxtHP3rRwDewBAoDN21ZoAYeCwbbVj972yP2luaeoaAU=
+SHA256 (Pkgfile) = 436f4d2875fcbf0ab5cd2708b97ce81c49f4cccdee9dd0b94596a97f80327314
+SHA256 (.footprint) = fe29c987d7e5e1b9761d0cdd1c3f5791260140b245cc1fb412822286b31b816e
+SHA256 (mate-session-manager-1.20.1.tar.xz) = 251eec7ae8a79627d736138c6eb87206f4bf53ba772210f3d5dd017d0d51bd3d
+SHA256 (start-mate) = 6e99d4f24435557e699c1d30cbab362a50656046704cdd4fee4e17c9963f0718

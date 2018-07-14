@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiObmgqQxQqM9Y/8AIIl8vS4A1iJIxgbIhl1dwWKeHMyQB+2ogNxF2RYDFx3WTMrreCI3Gr+kBVeYrKpaNO+mwzwM=
+SHA256 (Pkgfile) = a39c69125750c92be1d124a88870f0c663089585e0541bca0d8eeedbf3ea504e
+SHA256 (.footprint) = 5afa42b17706c0bbec0dcbc05f2e30a70e64b546deafd27d61ffb6810ffa2ff1
+SHA256 (mate-control-center-1.20.3.tar.xz) = 6d7e4c23cbfee2ec3682b6b07c0226742775c669f6e47862691d84ffc742f172

@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOcn5OumOlymu6v8DtMPsuMjW5fK3+wg60Xov9Kv2rHGQ4bI7q+gmNnxZQVaNZjfsVCNJrcLHjd2Bzluo9/eMkgc=
+SHA256 (Pkgfile) = 5b707424808e7ca0a8aeea29093b68cf5688b288e3a6837f14ede0bacc6ad0a4
+SHA256 (.footprint) = 39a9080262ecbf72f97e12f497b44b1edc44f13f4de59e018e218cd33640c6c4
+SHA256 (caja-1.20.2.tar.xz) = 8d818489f7788eccd41a2695f616d1b9f3a70ab5d41bfa5ebae49813e46d3286

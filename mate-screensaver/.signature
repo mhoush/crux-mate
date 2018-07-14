@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOZ36uYcJDA0IYpyNAD7temgqI6Devld8Ax0qDQKX50y+jLx/Soiu/tBfgRU/6Uab04BRmlJEu3nOeOCMNrjVOwo=
+SHA256 (Pkgfile) = 9cb21c5de670401cc17604c668f94412ed01622f3054bbb080ea942692539f02
+SHA256 (.footprint) = 495b78fd069a2359a3b757ccec2b4a3d4a2e120abd927c778bee5cd842d8cca6
+SHA256 (mate-screensaver-1.20.1.tar.xz) = 109309499e1d2d1794ee1df80af65aeaeb9696a1e08b5a8a97bc7a5e421299d5

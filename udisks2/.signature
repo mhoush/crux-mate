@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOVGUPaipftEBoib20NcTMC9Pv8ia2FCO9MtinHocPYeANlILBlRjvtCYo6ZVLKMnERTkacsqErTFp1iS+m0ipgY=
+SHA256 (Pkgfile) = c8f0f2a38993ea0c2c488736718fefc9973b43b32e6185ff41496c0e3898d0cd
+SHA256 (.footprint) = 13c01c50182b2b341b8e8e5088787d3b75a8e52ad4d29605e4d11794bb810d09
+SHA256 (udisks-2.7.6.tar.bz2) = 512da29063de1cd4ecbfd9182d4faea0aff40835eaac69bc9f08e20ec56d16fe

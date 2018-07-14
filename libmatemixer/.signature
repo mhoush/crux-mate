@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOShdsOq97olxMlhGIqaajaXExpj0dLraVX15MEYx7IgpIDHNXEiGvS9E0VOZ/2HriG/NtUmbeshan9KlT3+khgo=
+SHA256 (Pkgfile) = 177d2c0dabb5040af196ff90a5e1456d773c0fe58daa0177aa99f1afebccb55a
+SHA256 (.footprint) = ece2041a12a480010004b733984f5f1df0d16beb70449caca6ae5ec2136896ca
+SHA256 (libmatemixer-1.20.1.tar.xz) = 239106f666d79abf578eb02eaa63d12724f73330985f5c827d4b5307623de602

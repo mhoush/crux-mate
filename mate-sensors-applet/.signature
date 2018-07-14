@@ -1,2 +1,5 @@
-untrusted comment: verify with /etc/ports/crux-mate.pub
-RWQIAUEgVN+2KermyoyALKSrNvXt3PzzWpP/dhof3puJOBYon3pst9BlmLR+pW2efPJkzgUxRYJh4iBnZr8mqp5GWHTQ6ImMQgg=
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOV4XaHNqFHri/cD93765rWbk76lO90jNsoDDzb8b5Rs6BSLeaqg7bwf4YPWZYWW5crt4r8YjAz1ch9f/AyMN9Q8=
+SHA256 (Pkgfile) = 0c1b43236f11f28fa41b0159287942c1a9a98ad68d88e8544eee811327eee06f
+SHA256 (.footprint) = 495260b0f3954d670d540aca880e7e1a01b431073cc1be5938ac8b5ec97c36a8
+SHA256 (mate-sensors-applet-1.20.2.tar.xz) = cb0458deeac0d83ce94cce3d225186d0708af7b61e4469544df7092725ff1d4e
