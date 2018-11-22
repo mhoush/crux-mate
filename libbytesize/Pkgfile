@@ -1,7 +1,7 @@
 # Description: A tiny library providing a C "class" for working with arbitrary big sizes in bytes
 # URL: https://github.com/storaged-project/libbytesize
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on:
+# Depends on: python3
 
 name=libbytesize
 version=1.3

@@ -125,10 +125,9 @@ f:dc94ba3d088d5681c3f1b053e313babf:libatasmart/Pkgfile
 f:bb6725a14229e6a9f3fbf874967d49fe:libatasmart/.md5sum
 f:076c350230a7e161f1feab580ecbcb42:libatasmart/.footprint
 f:be9714464f578fc63d0d614bc9170f2a:libatasmart/.signature
-f:bccd50ab11b2591b5d582bdf698522a7:libbytesize/Pkgfile
-f:ca0bb50854a5c9d65ed7a21eeb111baa:libbytesize/.md5sum
-f:9c0ee700ba8b45d7b6e64c26d3b076e3:libbytesize/.footprint
-f:4f0c675717166c58e0e16add1d5fbe5c:libbytesize/.signature
+f:3510d5c484fe035e4f4741f7da6d4054:libbytesize/Pkgfile
+f:b989a55b9e7ff0ff6982e6b61b597620:libbytesize/.footprint
+f:822c502667d021a1fcf0290e7190e904:libbytesize/.signature
 f:0d820ac2c389b2882a9900d14cf93d3a:mate-control-center/Pkgfile
 f:0a977c7fed01decddd6bf6cc79347787:mate-control-center/.md5sum
 f:21789b02d6bf3d475021372b60cb8562:mate-control-center/.footprint
