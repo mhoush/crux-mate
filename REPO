@@ -75,8 +75,8 @@ f:6c6af3afdb423cd571072663da829eee:libmatekbd/.signature
 f:627ed74e27650ad8b5f860f26a174def:libmatekbd/post-install
 f:67ea0a95b2e24cfc9a00ab10c07de681:dconf/Pkgfile
 f:3beb7767f0988e5e8ae06462a111f854:dconf/.md5sum
-f:35ed9235ee5f6bf4742f2bac97e0198c:dconf/.footprint
-f:4e926ae1db5b0a1f20afe72240e5c44b:dconf/.signature
+f:fa054c4ef58012f1ecdc066cd2f60c94:dconf/.footprint
+f:f1c8c2c7d98318e6a3c31f465bbb9dfc:dconf/.signature
 f:182fa29453453267ae1ebdb282414950:volume_key/Pkgfile
 f:98d718b4d92be56cd374e1b27de8a3db:volume_key/.md5sum
 f:db87de63d9026a982b36debf318dad93:volume_key/.footprint
