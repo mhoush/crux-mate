@@ -171,10 +171,9 @@ f:88a934da3e04aa3eece3badb9d5d396a:libpeas/.md5sum
 f:55ff9706e8431f59f26dff32c6b08170:libpeas/.footprint
 f:26f936e733da2d587f578178bc0b50dd:libpeas/.signature
 f:f96e6792920155ae9027e6b5e7352293:libpeas/post-install
-f:3ab8ec852c9eaab500decf0ca76db56e:engrampa/Pkgfile
-f:7bd44d695eefdba3f3866f6679480ee3:engrampa/.md5sum
-f:080ccdaa22d7d0498a8158fc9c81cc71:engrampa/.footprint
-f:81a6e56809cb90110e1dfa75acd3959f:engrampa/.signature
+f:3891901d811b4dc3315fe974bc24c1c3:engrampa/Pkgfile
+f:4a2f0105d71212caa55e852828325095:engrampa/.footprint
+f:4fb1c63e28b578ce895a155d276bf728:engrampa/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:engrampa/post-install
 f:62aaa63489df8419226dc7495c03db01:mate-power-manager/Pkgfile
 f:28b701ef56bd957814f7d64f056758d8:mate-power-manager/.md5sum
