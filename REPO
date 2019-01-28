@@ -252,10 +252,9 @@ f:a7fb8537e9e247b47f71d0418ba39da5:marco/Pkgfile
 f:e79c0cdf507c4343f37e1b72df72b4e6:marco/.footprint
 f:6091b16987c88a07f055886e3626887d:marco/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:marco/post-install
-f:5aceadb12f6ff5dc8da2f176f342fc7a:mate-desktop/Pkgfile
-f:885721def3be59c8fada235a664155df:mate-desktop/.md5sum
+f:c184a79a0dfe2a8229fb12934f65bdb1:mate-desktop/Pkgfile
 f:9b3d7352c0025dae190b7e875308efa6:mate-desktop/.footprint
-f:466a3ffcdd3e38137cbe78985bc7c01c:mate-desktop/.signature
+f:ff19a7d82a5e3a1387afac1d2b0b83a5:mate-desktop/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:mate-desktop/post-install
 f:43f8a1a42f9eca5160ccbbad53dff8ef:libblockdev/Pkgfile
 f:7cb0c0b361c77b3f0bf1dd7b846cfa32:libblockdev/.md5sum
