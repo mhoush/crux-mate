@@ -87,10 +87,9 @@ f:59927ad19d1e1b74a41014e428f175ba:mate-backgrounds/Pkgfile
 f:552c6bdc23807a7b2880934c4fd092a9:mate-backgrounds/.md5sum
 f:0d8da14eba4dc05bfc13e51bca05aef3:mate-backgrounds/.footprint
 f:ce3d23d9d4c634ef5999a6e2bb4dc181:mate-backgrounds/.signature
-f:721faa2fde15a6dd79057ee746e3e98a:mozo/Pkgfile
-f:849fbe14bfbffe4fce673687d697bff0:mozo/.md5sum
+f:5e3813ece21b392c44ad04dbe344e1b1:mozo/Pkgfile
 f:5d07a52c9d4ce89b038eee0c51d33065:mozo/.footprint
-f:461168db47975bb5932c0f8b10bd86aa:mozo/.signature
+f:fd6a54803ab38b5907bbd2e41f613d55:mozo/.signature
 f:e6bb92f40645c637b6bdfd3df85fbd8e:mozo/post-install
 f:c674c455d34f1dddce7533d49e7d2af8:gnome-common/Pkgfile
 f:53b5cfe249bf079bbd7adb032fbd18bd:gnome-common/.md5sum
