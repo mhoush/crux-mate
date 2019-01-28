@@ -257,10 +257,9 @@ f:5c3fe19a27a5c75529b4828445851012:mate-media/Pkgfile
 f:fa0ede2c2a7dc2fee5897382794a4c7b:mate-media/.footprint
 f:b1026115a2ae2fe5ad7c7477d81d999a:mate-media/.signature
 f:d3633885bdb1db84d29256e9542f9546:mate-media/post-install
-f:180f5a5070999f3fd356cc3fcba32586:mate-themes/Pkgfile
-f:6a39d44aa4af01f974c6ee709ea9d018:mate-themes/.md5sum
-f:b85624197fcbbcfdda199affa7df24e7:mate-themes/.footprint
-f:b747e8bd0fa43bcd6094faa7e70e648a:mate-themes/.signature
+f:d114f797f8c17730b222c6ec968ef9af:mate-themes/Pkgfile
+f:abcbc4804c95bd5ff22cab9b85e09cc7:mate-themes/.footprint
+f:f41ccbf7960e031a82c6c6a5ca73bacd:mate-themes/.signature
 f:7a42e4afb19a9da9cc0b03d5a1b7c5d0:mate-themes/post-install
 f:b60db9f56370309508927586e905de3c:eom/Pkgfile
 f:aafbba7bfd957636fcd322fe0c9c6ae9:eom/.footprint
