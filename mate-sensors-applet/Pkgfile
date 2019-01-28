@@ -4,7 +4,7 @@
 # Depends on: lm_sensors gtk3 mate-panel
 
 name=mate-sensors-applet
-version=1.20.2
+version=1.20.3
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 

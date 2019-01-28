@@ -153,10 +153,9 @@ f:d0a077a50fcfac4fc3c5e7e0b8614082:gvfs/.md5sum
 f:1e5ccb70b473a44de3e539ed3f81e4ff:gvfs/.footprint
 f:f0fec12a5db24bc5c2e7af753a6af8e0:gvfs/.signature
 f:627ed74e27650ad8b5f860f26a174def:gvfs/post-install
-f:0d4b6b467ae2d9ced600599357e4b12e:mate-sensors-applet/Pkgfile
-f:f410d6cd225ee09a030d9ae7ca1a4ebd:mate-sensors-applet/.md5sum
-f:b282fbdb6d88ca00a41f62dd0ab331d3:mate-sensors-applet/.footprint
-f:41ccd84e67b1691386c822864c9d0121:mate-sensors-applet/.signature
+f:a8c60aa259e805dca19aa19daefbbb71:mate-sensors-applet/Pkgfile
+f:4304db31dc12592637e43a41f1cabe11:mate-sensors-applet/.footprint
+f:4f99863cd3020e9cec187351e2ce2c1e:mate-sensors-applet/.signature
 f:16bc325858ef7bcd5439dc0750690adf:mate-sensors-applet/post-install
 f:53cdc34c2a12941a457f75ab86773c03:p5-xml-simple/Pkgfile
 f:633e87ab628b4d16a877a2d097ecc2c8:p5-xml-simple/.md5sum
