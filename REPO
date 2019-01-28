@@ -138,10 +138,9 @@ f:0937b05f8e0ca42e4df281d7d273a15e:polkit/Pkgfile
 f:6a18acb06568e29e59354cbeebb6be5c:polkit/.md5sum
 f:c6c22c7e9bf7140be36d3b087cade5de:polkit/.footprint
 f:9ba512174a12fe3cc504990ccd55cf3b:polkit/.signature
-f:915a4da96c349e7fd235a9592ae0a978:caja/Pkgfile
-f:1e9b935b46296bf56414fbdb6388c8c9:caja/.md5sum
+f:4b0184b8f1b21d79da7f61c46a8c8d6a:caja/Pkgfile
 f:d9155b8ca5384acead3734ae758d2212:caja/.footprint
-f:47d79d2c1e4a23642fc5bf831db13ce2:caja/.signature
+f:bec5f64970e696d3b531473a5149b991:caja/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:caja/post-install
 f:81ec6ebe5f3aa8196ac5b48c552ff65b:mate-applets/Pkgfile
 f:8eb2c00b5b7673cd7f2f01db8f659f6a:mate-applets/.md5sum
