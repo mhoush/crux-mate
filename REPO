@@ -180,10 +180,9 @@ f:28b701ef56bd957814f7d64f056758d8:mate-power-manager/.md5sum
 f:f5f5aca9cb12374e543acc16f4b1a458:mate-power-manager/.footprint
 f:95b0cae52c22cfdc109606e819c9f398:mate-power-manager/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:mate-power-manager/post-install
-f:02a5ded2f78c5c4d002b87ffa4d07ed2:libmateweather/Pkgfile
-f:2a332fb2251b50d2c7e4ede903c5f462:libmateweather/.md5sum
+f:4c63fba4a539bb3867ae93925751044e:libmateweather/Pkgfile
 f:411d1b30614d450763a47205d01562cc:libmateweather/.footprint
-f:3ab7521fbb5ab18af8345f651fe6f22d:libmateweather/.signature
+f:340b765fd28b57c2fa7528774fde4b1c:libmateweather/.signature
 f:5d04f55a1f7c25393f566f8164c96191:libmateweather/post-install
 f:97db9991e547d2c9b28d773b71bbe98a:mate.pub
 f:520135c493b451eefc47495ba6f74628:mate/Pkgfile

@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOWKo1F9nIsSAiMhWrzBRe+ByT3hoNggYtdBTvqdzodGKmPteZmxbRTGhQ3R/EXOp5Yz02Ce1AcZXaBM8DZmHnAc=
-SHA256 (Pkgfile) = 9f29ba206036745ff826835e87758e82a49c83ddc6be4aacd6b5427fa33dcfda
+RWTDGCtBFHpiOdWT/x960lggStW8cgEo0tZQu0TLaWb3pK8/EuqgSiOTJl61WE7/43Qf80pKqOodnkAU6nvBayD7a5PMjdQCdQw=
+SHA256 (Pkgfile) = a2d4233545f05772316e081769bfd727ce3c089da6ea0b3a732653e16bade0d8
 SHA256 (.footprint) = 30915078718ed67becb5f3cb715917060ef6daa3bf89fbebad782bc15b7c141b
-SHA256 (libmateweather-1.20.1.tar.xz) = 21f35e05bb586c1a01b9754ad48726470ab456778350de32b6c5bdb286b5e12e
+SHA256 (libmateweather-1.20.2.tar.xz) = bb4363c64a81885c0656be71a8965df22d0acff64df46cadd424d5116c0f57cf
