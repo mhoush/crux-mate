@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOZ36uYcJDA0IYpyNAD7temgqI6Devld8Ax0qDQKX50y+jLx/Soiu/tBfgRU/6Uab04BRmlJEu3nOeOCMNrjVOwo=
-SHA256 (Pkgfile) = 9cb21c5de670401cc17604c668f94412ed01622f3054bbb080ea942692539f02
+RWTDGCtBFHpiOTl9yyKfzSxjdjNjCtSlFymze55MWFELepbeZ6PAZs4GLpuaesTZE/RQnO76Lwp6eG06pD8CjiQdM7IKuhfVkA4=
+SHA256 (Pkgfile) = 0c9dab6e2d88bd2a104a74bb529fce0a3deecdcbe8ee7c27e50db31a90fc0147
 SHA256 (.footprint) = 495b78fd069a2359a3b757ccec2b4a3d4a2e120abd927c778bee5cd842d8cca6
-SHA256 (mate-screensaver-1.20.1.tar.xz) = 109309499e1d2d1794ee1df80af65aeaeb9696a1e08b5a8a97bc7a5e421299d5
+SHA256 (mate-screensaver-1.20.3.tar.xz) = f1a093962bce720fb35b1d9896c0b167b1328d7a59fd26000c469ca72f91aa4e

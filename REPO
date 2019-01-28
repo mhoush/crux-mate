@@ -187,10 +187,9 @@ f:b1151e7f1779d1f90fd1e602c9dc33bf:libmatemixer/Pkgfile
 f:b63a0b6be5e8a8f67b06907b5ef363f0:libmatemixer/.md5sum
 f:39c5b42795eb4cf151d6ce8fd689cd50:libmatemixer/.footprint
 f:3432bb3f0b449326424a0ae5f3526bed:libmatemixer/.signature
-f:2b7f0d17c3508fcc7d66882322d132b7:mate-screensaver/Pkgfile
-f:95e8e2df74947d366af6bd1f158a6876:mate-screensaver/.md5sum
+f:2080485a5bea9a5bd22e73553a97b1cb:mate-screensaver/Pkgfile
 f:2839635a7a71b85aebc95a544052e423:mate-screensaver/.footprint
-f:2e7272b8d8837ad9a1a789dfedf9c66f:mate-screensaver/.signature
+f:5084f6ba5eb72b7fb65057c725cc9771:mate-screensaver/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:mate-screensaver/post-install
 f:2517e632b451af5988b39f98a6ea7adf:icon-naming-utils/Pkgfile
 f:18df5ee2a095543cc236853c07092b02:icon-naming-utils/.md5sum
