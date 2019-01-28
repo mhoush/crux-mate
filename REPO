@@ -214,10 +214,9 @@ f:989dcb05151a6fdfeda8caa4eacb214d:atril/Pkgfile
 f:3a6dd7d30c37f4d432bfce604ec3a0b6:atril/.footprint
 f:44b86446d6252a2c0b8a8262495678b0:atril/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:atril/post-install
-f:60175f3d27f24109d7cdb291b99264bb:mate-polkit/Pkgfile
-f:b18ce62dc4337af62b7185d5d56512f7:mate-polkit/.md5sum
+f:d64192db44c84d88761bf677a2cdd889:mate-polkit/Pkgfile
 f:d40631f62bb41aa28c94a76dcb3be4fa:mate-polkit/.footprint
-f:cea11e380ef29c028c4ba0bc5f717807:mate-polkit/.signature
+f:d8a751d08549f3dbb5e2e667e1d8cb0b:mate-polkit/.signature
 f:510d780c16e91203692dbcf7bd057b13:mate-indicator-applet/Pkgfile
 f:5515e77de9b5faf27a2e441a8ea19090:mate-indicator-applet/.md5sum
 f:69a98042dfca2f177238972fbfcac43a:mate-indicator-applet/.footprint
