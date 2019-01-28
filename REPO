@@ -142,10 +142,9 @@ f:4b0184b8f1b21d79da7f61c46a8c8d6a:caja/Pkgfile
 f:d9155b8ca5384acead3734ae758d2212:caja/.footprint
 f:bec5f64970e696d3b531473a5149b991:caja/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:caja/post-install
-f:81ec6ebe5f3aa8196ac5b48c552ff65b:mate-applets/Pkgfile
-f:8eb2c00b5b7673cd7f2f01db8f659f6a:mate-applets/.md5sum
-f:eb436722b5368352ce85c6548f266e6b:mate-applets/.footprint
-f:03abf2e302432114213d6f540238524b:mate-applets/.signature
+f:5fd97f292d0a3b45a18d7d799064279e:mate-applets/Pkgfile
+f:404a2d4a3debff554f2ecbb67bfdf833:mate-applets/.footprint
+f:e4c963c8d2751b7edb5b65042e1ce2c8:mate-applets/.signature
 f:16bc325858ef7bcd5439dc0750690adf:mate-applets/post-install
 f:e7d40e0fa5549790b8749b0ceff0ddc3:consolekit/revert-4f8822.diff
 f:c0bdfa16e38c502510584335d2079dea:consolekit/Pkgfile
