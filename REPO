@@ -127,10 +127,9 @@ f:be9714464f578fc63d0d614bc9170f2a:libatasmart/.signature
 f:3510d5c484fe035e4f4741f7da6d4054:libbytesize/Pkgfile
 f:b989a55b9e7ff0ff6982e6b61b597620:libbytesize/.footprint
 f:822c502667d021a1fcf0290e7190e904:libbytesize/.signature
-f:0d820ac2c389b2882a9900d14cf93d3a:mate-control-center/Pkgfile
-f:0a977c7fed01decddd6bf6cc79347787:mate-control-center/.md5sum
-f:21789b02d6bf3d475021372b60cb8562:mate-control-center/.footprint
-f:df60e00f9b040370ea94a64c13c83ebb:mate-control-center/.signature
+f:3c9c5efcb53b3096830e80e7be04f8d1:mate-control-center/Pkgfile
+f:e701d0562ba93538fb2ebdc33db1e084:mate-control-center/.footprint
+f:65c1739347a24b993117486f0edbcae7:mate-control-center/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:mate-control-center/post-install
 f:e2ebd30f46e8ffd38c4e54f5dd204307:polkit/pre-install
 f:0937b05f8e0ca42e4df281d7d273a15e:polkit/Pkgfile

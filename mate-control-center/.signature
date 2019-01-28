@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiObmgqQxQqM9Y/8AIIl8vS4A1iJIxgbIhl1dwWKeHMyQB+2ogNxF2RYDFx3WTMrreCI3Gr+kBVeYrKpaNO+mwzwM=
-SHA256 (Pkgfile) = a39c69125750c92be1d124a88870f0c663089585e0541bca0d8eeedbf3ea504e
-SHA256 (.footprint) = 5afa42b17706c0bbec0dcbc05f2e30a70e64b546deafd27d61ffb6810ffa2ff1
-SHA256 (mate-control-center-1.20.3.tar.xz) = 6d7e4c23cbfee2ec3682b6b07c0226742775c669f6e47862691d84ffc742f172
+RWTDGCtBFHpiOXwgLHPEATk/XQUku7owNEqXZiYrNOSdS8gmKSOWtx3f7BHy+q0dKD6bvOm0lsnGM8PchbSARQAt5JhzCaBUoQM=
+SHA256 (Pkgfile) = a6f8d9f92a91c141995fc7b02e97740ffcd7b6ac17ad0d748f0a8ad217926e67
+SHA256 (.footprint) = 59ef13cac5e26af407520b4ef7aa465e2f7d6a3201b9382b19649a66ac925bea
+SHA256 (mate-control-center-1.20.4.tar.xz) = 44255adf12802e69b57afe68bbffe412271a86d6ecfb4dad0985033963b35de6
