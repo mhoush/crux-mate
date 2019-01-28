@@ -63,10 +63,9 @@ f:4d904efa5cba8e3296c425d9838dd14c:mate-terminal/.md5sum
 f:b1d34ca8ac54449b9d98193fb24c9236:mate-terminal/.footprint
 f:0fe7ebfa32b3ea932cd91f6f6639adeb:mate-terminal/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:mate-terminal/post-install
-f:3b2dfca9578bf82a9069572557abafe8:mate-calc/Pkgfile
-f:137f118a87d6d04c58b67ed4b451f515:mate-calc/.md5sum
-f:062aeb76d323a3a28c58ae8b4a795f08:mate-calc/.footprint
-f:c3a2a08cc987992b423ba30cb1d64eee:mate-calc/.signature
+f:0e9df1da551401c2f10d26000c4e5d69:mate-calc/Pkgfile
+f:131ae7789f2654a6e73ac7d4f333c1e7:mate-calc/.footprint
+f:d6abecfc3ee35e5d9a4835ed1087f986:mate-calc/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:mate-calc/post-install
 f:4c94bcd3b1c1558d58acf3b0f344094b:libmatekbd/Pkgfile
 f:f8ad671cc66c0c3349fd14182cd62d1a:libmatekbd/.md5sum
