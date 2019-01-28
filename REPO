@@ -281,8 +281,7 @@ f:6a39d44aa4af01f974c6ee709ea9d018:mate-themes/.md5sum
 f:b85624197fcbbcfdda199affa7df24e7:mate-themes/.footprint
 f:b747e8bd0fa43bcd6094faa7e70e648a:mate-themes/.signature
 f:7a42e4afb19a9da9cc0b03d5a1b7c5d0:mate-themes/post-install
-f:5f66177907852f5d14ac1d4b54197781:eom/Pkgfile
-f:2941a77d489f037b592f67905de86c2f:eom/.md5sum
-f:0773ae8b5a256d798a6913738fc2f06e:eom/.footprint
-f:d9707c1dc231cff99e1b47f918dd7579:eom/.signature
+f:b60db9f56370309508927586e905de3c:eom/Pkgfile
+f:aafbba7bfd957636fcd322fe0c9c6ae9:eom/.footprint
+f:a8951da629a6d54f636161c6af148b69:eom/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:eom/post-install
