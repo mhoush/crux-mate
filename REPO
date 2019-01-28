@@ -264,10 +264,9 @@ f:4c2e08ddc5dfde6479c1df49d510dfc1:mate-settings-daemon/.md5sum
 f:894b3f84b6172d5f0960f7a419d35db4:mate-settings-daemon/.footprint
 f:e1a2eb67e38f090e0e7580a564107eb0:mate-settings-daemon/.signature
 f:06567701be675f5297f20c6aa07c22f7:mate-settings-daemon/post-install
-f:7afd25d262db3c0beaae0a46dc2764ac:mate-media/Pkgfile
-f:4059a20b0f4694001777f90bf3b88a48:mate-media/.md5sum
+f:5c3fe19a27a5c75529b4828445851012:mate-media/Pkgfile
 f:fa0ede2c2a7dc2fee5897382794a4c7b:mate-media/.footprint
-f:97edaeb076922ae5ca76d12ac72b2096:mate-media/.signature
+f:b1026115a2ae2fe5ad7c7477d81d999a:mate-media/.signature
 f:d3633885bdb1db84d29256e9542f9546:mate-media/post-install
 f:180f5a5070999f3fd356cc3fcba32586:mate-themes/Pkgfile
 f:6a39d44aa4af01f974c6ee709ea9d018:mate-themes/.md5sum
