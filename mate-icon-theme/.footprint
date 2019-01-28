@@ -380,6 +380,7 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/apps/accessibility-directory.png
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/apps/applets-screenshooter.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/apps/arts.png -> multimedia-volume-control.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/apps/background.png -> preferences-desktop-wallpaper.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/apps/bluetooth.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/apps/calc.png -> accessories-calculator.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/apps/config-language.png -> preferences-desktop-locale.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/apps/config-users.png -> system-users.png
@@ -1138,6 +1139,8 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/status/stock_weather-sunny.png -
 lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/status/sunny.png -> weather-clear.png
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/status/task-due.png
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/status/task-past-due.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/touchpad-disabled.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/touchpad-enabled.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/status/trashcan_full.png -> user-trash-full.png
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/status/trophy-bronze.png
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/status/trophy-gold.png
@@ -1539,6 +1542,7 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/apps/accessibility-directory.png
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/apps/applets-screenshooter.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/apps/arts.png -> multimedia-volume-control.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/apps/background.png -> preferences-desktop-wallpaper.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/apps/bluetooth.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/apps/calc.png -> accessories-calculator.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/apps/config-language.png -> preferences-desktop-locale.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/apps/config-users.png -> system-users.png
@@ -2297,6 +2301,8 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/status/stock_weather-sunny.png -
 lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/status/sunny.png -> weather-clear.png
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/status/task-due.png
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/status/task-past-due.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/touchpad-disabled.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/touchpad-enabled.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/status/trashcan_full.png -> user-trash-full.png
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/status/trophy-bronze.png
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/status/trophy-gold.png
@@ -2694,6 +2700,7 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/apps/accessibility-directory.png
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/apps/applets-screenshooter.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/apps/arts.png -> multimedia-volume-control.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/apps/background.png -> preferences-desktop-wallpaper.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/apps/bluetooth.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/apps/calc.png -> accessories-calculator.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/apps/config-language.png -> preferences-desktop-locale.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/apps/config-users.png -> system-users.png
@@ -3447,6 +3454,8 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/status/stock_weather-sunny.png -
 lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/status/sunny.png -> weather-clear.png
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/status/task-due.png
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/status/task-past-due.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/touchpad-disabled.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/touchpad-enabled.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/status/trashcan_full.png -> user-trash-full.png
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/status/trophy-bronze.png
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/status/trophy-gold.png
@@ -4552,6 +4561,7 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/apps/accessibility-directory.png
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/apps/applets-screenshooter.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/apps/arts.png -> multimedia-volume-control.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/apps/background.png -> preferences-desktop-wallpaper.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/apps/bluetooth.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/apps/calc.png -> accessories-calculator.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/apps/config-language.png -> preferences-desktop-locale.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/apps/config-users.png -> system-users.png
@@ -5306,6 +5316,8 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/status/stock_weather-sunny.png -
 lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/status/sunny.png -> weather-clear.png
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/status/task-due.png
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/status/task-past-due.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/touchpad-disabled.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/touchpad-enabled.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/status/trashcan_full.png -> user-trash-full.png
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/status/trophy-bronze.png
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/status/trophy-gold.png
@@ -5702,6 +5714,7 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/apps/accessibility-directory.png
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/apps/applets-screenshooter.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/apps/arts.png -> multimedia-volume-control.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/apps/background.png -> preferences-desktop-wallpaper.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/apps/bluetooth.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/apps/calc.png -> accessories-calculator.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/apps/config-language.png -> preferences-desktop-locale.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/apps/config-users.png -> system-users.png
@@ -6461,6 +6474,8 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/status/stock_weather-sunny.png -
 lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/status/sunny.png -> weather-clear.png
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/status/task-due.png
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/status/task-past-due.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/touchpad-disabled.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/touchpad-enabled.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/status/trashcan_full.png -> user-trash-full.png
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/status/trophy-bronze.png
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/status/trophy-gold.png
@@ -6926,6 +6941,7 @@ drwxr-xr-x	root/root	usr/share/icons/mate/scalable/apps/
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/apps/accessories-text-editor-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/apps/applets-screenshooter-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/apps/bluetooth-symbolic.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/apps/bluetooth.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/apps/gnome-power-manager-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/apps/goa-panel-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/apps/help-browser-symbolic.svg
@@ -7021,6 +7037,8 @@ drwxr-xr-x	root/root	usr/share/icons/mate/scalable/devices/
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/devices/tv-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/devices/uninterruptible-power-supply-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/devices/video-display-symbolic.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/devices/video-joined-displays-symbolic.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/devices/video-single-display-symbolic.svg
 drwxr-xr-x	root/root	usr/share/icons/mate/scalable/emblems/
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/emblems/emblem-default-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/emblems/emblem-documents-symbolic.svg
@@ -7140,6 +7158,7 @@ drwxr-xr-x	root/root	usr/share/icons/mate/scalable/status/
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/folder-open-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/folder-visiting-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/image-loading-symbolic.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/input-touchpad.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/keyboard-brightness-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/mail-attachment-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/mail-read-symbolic.svg
@@ -7218,6 +7237,9 @@ drwxr-xr-x	root/root	usr/share/icons/mate/scalable/status/
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/task-due-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/task-past-due-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/touchpad-disabled-symbolic.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/touchpad-disabled.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/touchpad-enabled-symbolic.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/touchpad-enabled.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/user-available-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/user-away-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/user-busy-symbolic.svg

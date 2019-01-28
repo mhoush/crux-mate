@@ -198,10 +198,9 @@ f:2517e632b451af5988b39f98a6ea7adf:icon-naming-utils/Pkgfile
 f:18df5ee2a095543cc236853c07092b02:icon-naming-utils/.md5sum
 f:73effac44b3c0c3845d596fc199fee5f:icon-naming-utils/.footprint
 f:23c1ae5c26a42ab4342ca35bba775590:icon-naming-utils/.signature
-f:c7f334b3382b8701d979e945312958f5:mate-icon-theme/Pkgfile
-f:9e5b644cfb1ad595bbeff9d10e8ff3b8:mate-icon-theme/.md5sum
-f:25752444913a8a2541bd28ef4b2d152a:mate-icon-theme/.footprint
-f:4240d5cc3104d2ad6eb01ebe88802fdc:mate-icon-theme/.signature
+f:9e779fbed75f11fbc46319200e5adf74:mate-icon-theme/Pkgfile
+f:910a2a0a74a25cac39df38dff72dcb5c:mate-icon-theme/.footprint
+f:fa0a142d05b09f864a2448694be24610:mate-icon-theme/.signature
 f:40d367f1cbb1651239b0d2cbe008cbda:mate-icon-theme/post-install
 f:9a652adb3c48575a13d0a12db6e35825:libgtop/Pkgfile
 f:cf5b662a4abab13e05bd9701a0488f51:libgtop/.md5sum
