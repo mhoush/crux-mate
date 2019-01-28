@@ -223,10 +223,9 @@ f:5515e77de9b5faf27a2e441a8ea19090:mate-indicator-applet/.md5sum
 f:69a98042dfca2f177238972fbfcac43a:mate-indicator-applet/.footprint
 f:b4b289a474a856d2f821e1a01a5c53d9:mate-indicator-applet/.signature
 f:f96e6792920155ae9027e6b5e7352293:mate-indicator-applet/post-install
-f:989bfab06aac89a9822e0a2039e44d09:mate-panel/Pkgfile
-f:1792c68ddcf6501f9fdd7e5a15bf7a1b:mate-panel/.md5sum
-f:bbe462e071c6465742b994a88dabde62:mate-panel/.footprint
-f:1f61b65b27c6a3dce6659afe57b7b2ea:mate-panel/.signature
+f:5dc5c9375146ec0eacb056c94a15339f:mate-panel/Pkgfile
+f:47a1a6cc857c4757434f7523fac6518b:mate-panel/.footprint
+f:9bb253fbd43e53422592181ca60ba934:mate-panel/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:mate-panel/post-install
 f:6d7d31d208051d9b62e39ed5bc090db6:libgnome-keyring/Pkgfile
 f:d6dc33ab142b02cf331b59ba74d61533:libgnome-keyring/.md5sum
