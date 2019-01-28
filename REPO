@@ -199,10 +199,9 @@ f:9a652adb3c48575a13d0a12db6e35825:libgtop/Pkgfile
 f:cf5b662a4abab13e05bd9701a0488f51:libgtop/.md5sum
 f:c65c2eec3a2097c719e1f5da395c0eea:libgtop/.footprint
 f:ea87ca335d35886e837600c8d6f6216a:libgtop/.signature
-f:3303f314c34276bc227d63d2d76e3afb:pluma/Pkgfile
-f:82976dcf84fd58ff164b6ee91868835b:pluma/.md5sum
-f:8d2a3a67f429cb771be959f807be7444:pluma/.footprint
-f:8ebed52098698d650ba2aa740f7f9696:pluma/.signature
+f:7e9cbb1d5106f878b002292528d96ca4:pluma/Pkgfile
+f:45386ffcb15505af5705ff45f2729cb8:pluma/.footprint
+f:d1b6ddd231c94e1ad8e861cdcb1d578e:pluma/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:pluma/post-install
 f:989dcb05151a6fdfeda8caa4eacb214d:atril/Pkgfile
 f:3a6dd7d30c37f4d432bfce604ec3a0b6:atril/.footprint
