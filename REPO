@@ -112,10 +112,9 @@ f:d441ceff611a8cb0e21c00fc2f5f7fa2:mate-common/Pkgfile
 f:8781157965cd00f69454b39a853fa116:mate-common/.md5sum
 f:80e269a981197c365e1b342d5a34e615:mate-common/.footprint
 f:fdf9fc9d2e1766f7f1f17aa880f94feb:mate-common/.signature
-f:eda193ad8716715781545d704da59085:mate-menus/Pkgfile
-f:29d0729eb324a8f8139015223d4480b4:mate-menus/.md5sum
+f:afac2c93a8e1b964f2074a08c9881c38:mate-menus/Pkgfile
 f:c47bf406e0fd2dcf5b4cca114e7c3463:mate-menus/.footprint
-f:fad399a3ec6a45669f3830602c8e87ec:mate-menus/.signature
+f:44cfef117683032723a540eab45faa6e:mate-menus/.signature
 f:360332bdb7247e806c70d1d248dad2a1:udisks2/Pkgfile
 f:ea162d6e1438b3ac7d0a5ae73070763d:udisks2/.md5sum
 f:57a061366d09e5a5bb3598cf8524bf22:udisks2/.footprint
