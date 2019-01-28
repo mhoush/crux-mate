@@ -58,10 +58,9 @@ f:7db338fb5810c7087b4e45730b0cacb3:ayatana-ido/Pkgfile
 f:f4a7648bfee096235f87c005be5ed31d:ayatana-ido/.md5sum
 f:ba523621b2433d3420fa224dbaa2b165:ayatana-ido/.footprint
 f:83d0ba648d5462208ef1322ae1811bb2:ayatana-ido/.signature
-f:88d13edeb02e6a0da2c02f37515d0810:mate-terminal/Pkgfile
-f:4d904efa5cba8e3296c425d9838dd14c:mate-terminal/.md5sum
-f:b1d34ca8ac54449b9d98193fb24c9236:mate-terminal/.footprint
-f:0fe7ebfa32b3ea932cd91f6f6639adeb:mate-terminal/.signature
+f:3a7278b214a362b035357c9ec767274b:mate-terminal/Pkgfile
+f:35c0436b8c7f98339ffa0bdd412aaed2:mate-terminal/.footprint
+f:ac77f6cb7d0846cec03901d4d2c99d86:mate-terminal/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:mate-terminal/post-install
 f:0e9df1da551401c2f10d26000c4e5d69:mate-calc/Pkgfile
 f:131ae7789f2654a6e73ac7d4f333c1e7:mate-calc/.footprint
