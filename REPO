@@ -218,10 +218,9 @@ f:82976dcf84fd58ff164b6ee91868835b:pluma/.md5sum
 f:8d2a3a67f429cb771be959f807be7444:pluma/.footprint
 f:8ebed52098698d650ba2aa740f7f9696:pluma/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:pluma/post-install
-f:104344ba851cab7c0c01731a91ea43e7:atril/Pkgfile
-f:bb232e8b013e0bdfa7902c7149c2e3da:atril/.md5sum
-f:a2dd1a35f72fb1bd6e35b5120156c6c2:atril/.footprint
-f:a6a3daac4863b5856e479c64e755e4b7:atril/.signature
+f:989dcb05151a6fdfeda8caa4eacb214d:atril/Pkgfile
+f:3a6dd7d30c37f4d432bfce604ec3a0b6:atril/.footprint
+f:44b86446d6252a2c0b8a8262495678b0:atril/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:atril/post-install
 f:60175f3d27f24109d7cdb291b99264bb:mate-polkit/Pkgfile
 f:b18ce62dc4337af62b7185d5d56512f7:mate-polkit/.md5sum
