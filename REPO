@@ -251,10 +251,9 @@ f:053f7ca31f866bd4b7496a1814b7128f:zenity/Pkgfile
 f:856cb6e5bac4361995caec9d4440ca09:zenity/.md5sum
 f:07a26cfb0a3138b4a29a4974cf65dc03:zenity/.footprint
 f:4d5f9b79f507976c3e6dc4cea2812e98:zenity/.signature
-f:9d718e34a206995491457d7fc1308724:marco/Pkgfile
-f:42f8a87987c2467b241193ba3f33d49d:marco/.md5sum
+f:a7fb8537e9e247b47f71d0418ba39da5:marco/Pkgfile
 f:e79c0cdf507c4343f37e1b72df72b4e6:marco/.footprint
-f:7de812e8448d56c5ddccd66cc5271432:marco/.signature
+f:6091b16987c88a07f055886e3626887d:marco/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:marco/post-install
 f:5aceadb12f6ff5dc8da2f176f342fc7a:mate-desktop/Pkgfile
 f:885721def3be59c8fada235a664155df:mate-desktop/.md5sum
