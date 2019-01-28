@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOSu1ZO79eA90Y/niK3pU85uYuLDpSNFOQm4D9RRzOsa+/WKMVbmki3aagXHRrCyMu9O9NFURMEsBmJUiUeJDKA8=
-SHA256 (Pkgfile) = ffdb915fd0f6165be499cdc2ed62092000cce3cb71bf5ad8aef398a14a309ca2
-SHA256 (.footprint) = c3a8f78d1e51c4c425572729a94dd21050c5da85bf1779f3d801161c0fb2d258
-SHA256 (mate-system-monitor-1.20.1.tar.xz) = 96e9952ef286c7eff8ba5a590c7b34ac6537a5ef8a89ea900005b2750f8dc8a8
+RWTDGCtBFHpiOQasWDR1qBTkGbxrFDCGmDodmbofvPhaddxnoX/YSfD47rXZHlcQ6MINzfi5RU9+3BleDLM3fwa11l68j9lLrAs=
+SHA256 (Pkgfile) = 08cda68d1647d30439a7610a2d7243cce8f76ddaf211ad9777c672fbacf0132b
+SHA256 (.footprint) = 0d9f595c231b1f901f7718da887d89091d9c52b8bd7f8ad6b2f53c7b55424d2b
+SHA256 (mate-system-monitor-1.20.2.tar.xz) = 1627755fcba3f8707ffea124049d0aaec706d87a67a006b6afacfeae8680da38

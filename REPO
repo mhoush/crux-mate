@@ -230,10 +230,9 @@ f:e7a046b502ac986575fef3f7834378da:mate-notification-daemon/Pkgfile
 f:d0715c40b7c3db5782ad41a9d1002120:mate-notification-daemon/.footprint
 f:533741aef83b51b04d36aeb733b41bd9:mate-notification-daemon/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:mate-notification-daemon/post-install
-f:69b756eb503aa596385f5f43ce298536:mate-system-monitor/Pkgfile
-f:887a6c281c855767488c193a1e19fd16:mate-system-monitor/.md5sum
-f:b7c17b39e64aed00b552c99435aa58d1:mate-system-monitor/.footprint
-f:6a011dd1123558d61b28d8735b57e16c:mate-system-monitor/.signature
+f:2b515c6a07c206ffb361e8a85f13b8d3:mate-system-monitor/Pkgfile
+f:795247148535fd5bff161df228d851de:mate-system-monitor/.footprint
+f:c0372601f513724f1c70057fe032536a:mate-system-monitor/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:mate-system-monitor/post-install
 f:053f7ca31f866bd4b7496a1814b7128f:zenity/Pkgfile
 f:856cb6e5bac4361995caec9d4440ca09:zenity/.md5sum
