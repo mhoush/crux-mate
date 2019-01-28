@@ -103,10 +103,9 @@ f:e5b2289a38ed5cf73ac930330306d8e4:mate-icon-theme-faenza/.footprint
 f:1a766c66072dc6e8a5002af9531617ce:mate-icon-theme-faenza/.signature
 f:fc66c69a31fa9b0b97eb428613d1e457:mate-icon-theme-faenza/post-install
 f:ce13722333eb5eb43e44304185581045:mate-session-manager/start-mate
-f:f687e3c4d468adc8a979e5ba8df56d85:mate-session-manager/Pkgfile
-f:1a554a779f2de8319f4356ba0fc4d183:mate-session-manager/.md5sum
+f:0264fae42048cede50ec4b8ca10e3e7c:mate-session-manager/Pkgfile
 f:86e5638990ac6cf1d1eb469d999bdf1f:mate-session-manager/.footprint
-f:7619d35767765708472c477424d3d31d:mate-session-manager/.signature
+f:b7d13542f91d9d14ddeae3400ce41fe9:mate-session-manager/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:mate-session-manager/post-install
 f:d441ceff611a8cb0e21c00fc2f5f7fa2:mate-common/Pkgfile
 f:8781157965cd00f69454b39a853fa116:mate-common/.md5sum
