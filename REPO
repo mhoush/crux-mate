@@ -171,10 +171,9 @@ f:3891901d811b4dc3315fe974bc24c1c3:engrampa/Pkgfile
 f:4a2f0105d71212caa55e852828325095:engrampa/.footprint
 f:4fb1c63e28b578ce895a155d276bf728:engrampa/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:engrampa/post-install
-f:62aaa63489df8419226dc7495c03db01:mate-power-manager/Pkgfile
-f:28b701ef56bd957814f7d64f056758d8:mate-power-manager/.md5sum
-f:f5f5aca9cb12374e543acc16f4b1a458:mate-power-manager/.footprint
-f:95b0cae52c22cfdc109606e819c9f398:mate-power-manager/.signature
+f:8ad745f42fdcbce292c31dfff7711c4c:mate-power-manager/Pkgfile
+f:e042bbce41296efc55067d7d1d5d0548:mate-power-manager/.footprint
+f:d3e9f97d0431c906f41b7360b58e0e6c:mate-power-manager/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:mate-power-manager/post-install
 f:4c63fba4a539bb3867ae93925751044e:libmateweather/Pkgfile
 f:411d1b30614d450763a47205d01562cc:libmateweather/.footprint

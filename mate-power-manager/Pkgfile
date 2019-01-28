@@ -4,7 +4,7 @@
 # Depends on: upower libgnome-keyring libcanberra mate-panel libnotify
 
 name=mate-power-manager
-version=1.20.2
+version=1.20.3
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
