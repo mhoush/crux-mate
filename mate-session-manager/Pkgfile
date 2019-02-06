@@ -5,7 +5,7 @@
 
 name=mate-session-manager
 version=1.20.2
-release=1
+release=2
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz \
   start-mate)
 
@@ -20,4 +20,7 @@ build() {
 
   install -o root -g root -m 0755 $SRC/start-mate \
     $PKG/usr/bin/start-mate
+
+  sed -i -e 's,Exec=mate-session,Exec=start-mate,g' \
+    $PKG/usr/share/xsessions/mate.desktop
 }
