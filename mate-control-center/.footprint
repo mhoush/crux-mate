@@ -31,7 +31,6 @@ drwxr-xr-x	root/root	usr/include/libmate-slab/
 -rw-r--r--	root/root	usr/include/libmate-slab/nld-marshal.c
 -rw-r--r--	root/root	usr/include/libmate-slab/nld-marshal.h
 -rw-r--r--	root/root	usr/include/libmate-slab/search-bar.h
--rw-r--r--	root/root	usr/include/libmate-slab/search-context-picker.h
 -rw-r--r--	root/root	usr/include/libmate-slab/shell-window.h
 -rw-r--r--	root/root	usr/include/libmate-slab/slab-mate-util.h
 -rw-r--r--	root/root	usr/include/libmate-slab/slab-section.h
@@ -2043,9 +2042,9 @@ drwxr-xr-x	root/root	usr/share/mate-control-center/pixmaps/
 -rw-r--r--	root/root	usr/share/mate-control-center/pixmaps/bar-green.png
 -rw-r--r--	root/root	usr/share/mate-control-center/pixmaps/bar-red.png
 -rw-r--r--	root/root	usr/share/mate-control-center/pixmaps/bar.png
--rw-r--r--	root/root	usr/share/mate-control-center/pixmaps/double-click-maybe.png
--rw-r--r--	root/root	usr/share/mate-control-center/pixmaps/double-click-off.png
--rw-r--r--	root/root	usr/share/mate-control-center/pixmaps/double-click-on.png
+-rw-r--r--	root/root	usr/share/mate-control-center/pixmaps/double-click-maybe.svg
+-rw-r--r--	root/root	usr/share/mate-control-center/pixmaps/double-click-off.svg
+-rw-r--r--	root/root	usr/share/mate-control-center/pixmaps/double-click-on.svg
 -rw-r--r--	root/root	usr/share/mate-control-center/pixmaps/gtk-theme-thumbnailing.png
 -rw-r--r--	root/root	usr/share/mate-control-center/pixmaps/icon-theme-thumbnailing.png
 -rw-r--r--	root/root	usr/share/mate-control-center/pixmaps/left-index-finger.png

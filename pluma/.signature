@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOTXZ2zpO3iOtFbfLOW7YdEQmvlT/mvx8HVjKTqkSi9LkSDWaTs2kYDRmkGgPGZARmqUJlXiIJUX0bYelLM+/AgU=
-SHA256 (Pkgfile) = 5969a1b17762db2163b31bb4b327b5d6a5de9159062f953b29fdae1b6c7a47fb
-SHA256 (.footprint) = a6867ef2f123842264a7006cb778fa53cbf4a0eceb33dc54ea02b80fa8606392
-SHA256 (pluma-1.20.4.tar.xz) = fffd1ad0309c058ebd364ea0185d5dbbada2a9cde3d580da528b226c7ca9ab61
+RWTDGCtBFHpiOYGbk/3Tr0XR+mF2x4oISDuj9c3yrgNFbEhaB0NwQDKIXnWwpnVqO/zNaRg6U5NwB4a+q0bBqmCrY0Yq30bHEw4=
+SHA256 (Pkgfile) = 4eba8458189b44d55cba37b79e7aedac3e9b0fae724ee882bd20f179ccc48a89
+SHA256 (.footprint) = 182b35af5c2196377a6eae25d8a7559637e5d913a35ba2fa403010852004a7de
+SHA256 (pluma-1.22.0.tar.xz) = 0528417c9e226c3a2ee5d95533ea8691e9bed346955c1955a53a65d9b42a391f

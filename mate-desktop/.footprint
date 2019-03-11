@@ -16,6 +16,7 @@ drwxr-xr-x	root/root	usr/include/mate-desktop-2.0/libmate-desktop/
 -rw-r--r--	root/root	usr/include/mate-desktop-2.0/libmate-desktop/mate-desktop-utils.h
 -rw-r--r--	root/root	usr/include/mate-desktop-2.0/libmate-desktop/mate-desktop.h
 -rw-r--r--	root/root	usr/include/mate-desktop-2.0/libmate-desktop/mate-gsettings.h
+-rw-r--r--	root/root	usr/include/mate-desktop-2.0/libmate-desktop/mate-languages.h
 -rw-r--r--	root/root	usr/include/mate-desktop-2.0/libmate-desktop/mate-rr-config.h
 -rw-r--r--	root/root	usr/include/mate-desktop-2.0/libmate-desktop/mate-rr-labeler.h
 -rw-r--r--	root/root	usr/include/mate-desktop-2.0/libmate-desktop/mate-rr.h
@@ -42,6 +43,7 @@ drwxr-xr-x	root/root	usr/share/glib-2.0/schemas/
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.applications-at-mobility.gschema.xml
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.applications-at-visual.gschema.xml
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.applications-browser.gschema.xml
+-rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.applications-calculator.gschema.xml
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.applications-office.gschema.xml
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.applications-terminal.gschema.xml
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.background.gschema.xml

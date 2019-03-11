@@ -18,11 +18,6 @@ lrwxrwxrwx	root/root	usr/lib/libmate-menu.so.2 -> libmate-menu.so.2.4.9
 -rwxr-xr-x	root/root	usr/lib/libmate-menu.so.2.4.9
 drwxr-xr-x	root/root	usr/lib/pkgconfig/
 -rw-r--r--	root/root	usr/lib/pkgconfig/libmate-menu.pc
-drwxr-xr-x	root/root	usr/lib/python2.7/
-drwxr-xr-x	root/root	usr/lib/python2.7/site-packages/
--rw-r--r--	root/root	usr/lib/python2.7/site-packages/matemenu.a
--rwxr-xr-x	root/root	usr/lib/python2.7/site-packages/matemenu.la
--rwxr-xr-x	root/root	usr/lib/python2.7/site-packages/matemenu.so
 drwxr-xr-x	root/root	usr/share/
 drwxr-xr-x	root/root	usr/share/gir-1.0/
 -rw-r--r--	root/root	usr/share/gir-1.0/MateMenu-2.0.gir

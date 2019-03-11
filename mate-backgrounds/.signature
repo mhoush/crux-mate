@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOTkI+KyOXT4u0hnQ59aj72FagTTlieG4FE7oqeLgclLUZcfL6iwth2za35+LaY5+MqPR3s/3KkgwtoitDVUjTQc=
-SHA256 (Pkgfile) = 4d1c5834c6d84ec6ff96e36dba9dc374189c407f0b24b40783fe03561db02cf7
+RWTDGCtBFHpiOXUwD2do5T+EbrktTuTP6GAHSqkxAspYlaTx18TJ1KIbd8jEc103fwMfUp8bAsSfQADoHTuO3kJ2zVWU8jh4XgM=
+SHA256 (Pkgfile) = e7478ee0bacd3cb0658bf153c24e13f796e3c8dbbb8589de8f47eb5a88e34074
 SHA256 (.footprint) = 4cd676f22b7d27836d7ba07733e68fb0b978adc669a80f63c7261f5dd399438d
-SHA256 (mate-backgrounds-1.20.0.tar.xz) = 57b2127cba9233aef1db6fa3ecc85b2c8422e6d26565c797701079003893965d
+SHA256 (mate-backgrounds-1.22.0.tar.xz) = 496e6cf2817759c06f0bf1ba255c731726958f315ca4b559ab048b8809802cc9

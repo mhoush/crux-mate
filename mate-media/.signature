@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOQ5Z4YD0C/T4bYnFE5j6JPKaYEL0Lhm9Gsl/23mNfhvO0nvrs717m5VpVfATWkkbxFRaY2xz/8PjYy3SAO5ykQk=
-SHA256 (Pkgfile) = f66252cb538cfbe53940874de058dc744a9b49d5a1e1cdda5665d564eb6f8213
+RWTDGCtBFHpiOX9MZZe7uczZhlhNY5b6skxlXGIyQBUYriXbevtD2DeeFIsz/JOwIesh5pkDGSD3l4gbhw1YOSE2V0V4NMuPSQM=
+SHA256 (Pkgfile) = b014f8ca808fc430c3aadff3d71e2680e0ab9f4a2e331d1b46f1410d906fc274
 SHA256 (.footprint) = 98497d0f517efd00a0eb69e465ce95b700fd5fc561e8bada6d4dc1a567cc1bc7
-SHA256 (mate-media-1.20.2.tar.xz) = dbd60c7c8beabc8e93842c03da7767bad5694c09bca5df88fcf0e6aa0552d319
+SHA256 (mate-media-1.22.0.tar.xz) = b286e360ad6790804ff349b735ee604af8d5b4fb7ef738ae075ac90dc05f3d4b

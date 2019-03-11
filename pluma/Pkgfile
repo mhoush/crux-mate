@@ -4,7 +4,7 @@
 # Depends on: enchant gtk3 gtksourceview libpeas iso-codes itstool desktop-file-utils
 
 name=pluma
-version=1.20.4
+version=1.22.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
