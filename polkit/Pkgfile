@@ -1,30 +1,26 @@
-# Description: Application development toolkit for controlling system-wide privileges
-# URL: http://www.freedesktop.org/wiki/Software/PolicyKit
+# Description: An application-level toolkit for defining and handling the policy that allows unprivileged processes to speak to privileged processes
+# URL: https://www.freedesktop.org/wiki/Software/polkit/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: glib intltool nspr spidermonkey gobject-introspection
+# Depends on: mozjs docbook-xsl gobject-introspection zlib icu nspr
 
 name=polkit
-version=0.112
+version=0.115
 release=1
 source=(http://www.freedesktop.org/software/$name/releases/$name-$version.tar.gz)
 
 build() {
 	cd $name-$version
-	./configure \
-		--prefix=/usr \
-		--sysconfdir=/usr/etc \
+
+	./configure --prefix=/usr \
 		--localstatedir=/var \
-		--mandir=/usr/man \
-		--disable-tests \
 		--disable-nls \
 		--disable-static \
-		--with-polkit-user=polkit \
-		--with-polkit-group=polkit \
-		--with-authfw=shadow \
-		--disable-man-pages
+		--disable-libsystemd-login \
+		--disable-libelogind \
+		--with-authfw=shadow
+
 	make
 	make DESTDIR=$PKG install
-	rm -rf $PKG/usr/man $PKG/etc/pam.d $PKG/usr/share/locale
-}
 
-# vim: set ts=2 et:
+	rm -r $PKG/usr/share/locale
+}

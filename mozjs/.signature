@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOTr5YvTAJRfaYzCADpcd4zKFxF8dbOt76QeH3ZV5RobaaBB2uK7rbf1BUTAOf8P1fW9Gl1oDbvRWjLRsQg8dzAI=
+SHA256 (Pkgfile) = 814eb5b02f0b83379b820ac0e455d8fd62a07185799ade9b7eb4db84497aa569
+SHA256 (.footprint) = 2e70262da3a7308d4533802f85a7d4cb8104ca7966426d0c39228911740767c5
+SHA256 (mozjs-52.2.1gnome1.tar.gz) = 31697943b1dbbb51ba9aee35b8269a353c487d7af4d336010b90054dc4f9b0af
