@@ -1,0 +1,25 @@
+# Description:	Graphviz is open source graph visualization software
+# URL:	http://graphviz.org
+# Maintainer: Daryl Fonsecq-Holt, wyatt at prairieturtle dot ca
+# Packager: Daryl Fonsecq-Holt, wyatt at prairieturtle dot ca
+# Depends on: pango libgd
+
+name=graphviz
+version=2.40.1
+release=1
+source=(https://graphviz.gitlab.io/pub/graphviz/stable/SOURCES/graphviz.tar.gz)
+
+build () {
+	cd $name-$version
+
+#	patch -p1 -i $SRC/graphviz-gs-error.patch
+	CFLAGS="${CFLAGS//-flto/}" LDFLAGS="${LDFLAGS//-flto/}"
+	./configure --prefix=/usr \
+		--libdir=/usr/lib \
+		--disable-ocaml \
+		--with-qt=no
+	make
+
+	make DESTDIR=$PKG install
+	rm $PKG/usr/share/$name/doc/{AUTHORS,COPYING,ChangeLog,NEWS}
+}

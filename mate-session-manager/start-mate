@@ -18,9 +18,9 @@ export XDG_DATA_DIRS
 # XDG_CONFIG_DIRS (default to /usr/etc/xdg)
 if test "x${XDG_CONFIG_DIRS}" = "x"
 then
-	XDG_CONFIG_DIRS="/usr/etc/xdg"
+	XDG_CONFIG_DIRS="/etc/xdg:/usr/etc/xdg"
 else
-	XDG_CONFIG_DIRS="/usr/etc/xdg:${XDG_CONFIG_DIRS}"
+	XDG_CONFIG_DIRS="/etc/xdg:/usr/etc/xdg:${XDG_CONFIG_DIRS}"
 fi
 
 export XDG_CONFIG_DIRS

@@ -5,7 +5,7 @@
 
 name=mate-session-manager
 version=1.22.0
-release=1
+release=2
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz \
   start-mate msm-no-systemd.patch)
 
@@ -13,6 +13,7 @@ build() {
   cd $name-$version
   patch -p1 -i $SRC/msm-no-systemd.patch
   ./configure --prefix=/usr \
+    --disable-docbook-docs \
     --disable-nls \
     --without-systemd
   make

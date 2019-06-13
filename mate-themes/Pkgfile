@@ -5,7 +5,7 @@
 
 name=mate-themes
 version=3.22.18
-release=1
+release=2
 source=(http://pub.mate-desktop.org/releases/themes/${version:0:4}/$name-$version.tar.xz)
 
 build() {
@@ -16,4 +16,7 @@ build() {
   make DESTDIR=$PKG install
 
   rm -r $PKG/usr/share/locale
+  find $PKG \( -name 'AUTHORS' -o \
+    -name 'COPYING' -o -name 'README' \) \
+    -delete
 }

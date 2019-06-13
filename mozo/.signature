@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiObZBy+35UBUFwdSmDmLmWKpUtLEibNQT84VEBTSzXYHqu2NAAqOYX50IfgzNC0F/Vgiki4OavsMLY22KSsxcyQo=
-SHA256 (Pkgfile) = 32d6ce170b2c0805b5b7f8ecc51dd8b4cd5cb350c3def0222a45fa9d82dee76a
-SHA256 (.footprint) = aa576f32275083a3f9541f323767262cd096dad5ed6c453b8dfe7bdb8397d033
+RWTDGCtBFHpiOZpVwxri3g+b8PpK6YXIqg41yNdXIbcLirDFQRAYvL6jK2mMBTVjynd4mGZaR+zZQrdPcJdhzMGTCYt3bo5VhQ4=
+SHA256 (Pkgfile) = c539bb2551280ba4a27f384c94d7676392372483d921beb667b7d31c50d9c9a7
+SHA256 (.footprint) = c8eb5a7fcedb5efdcbfb7c45cd3bbe3d06413cb1ad910542a3265c5ae657b4b3
 SHA256 (mozo-1.22.0.tar.xz) = 7f9ec5656c2de5756c1ad26bcf04a26b50446ac33df0a4550fda83e057beb35e

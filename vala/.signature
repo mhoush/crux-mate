@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOUmVSoW+yWgV/82WKxWNMYNSl9PnRO90FiovBiprBP7I+1wDYevk6CLmd5uOZOy+SnWuzimQNg0lR3umRZxODQo=
+SHA256 (Pkgfile) = 44d5886772964192935f91073e3fecbdc99760f90bcb59ebac95222fdedd82cb
+SHA256 (.footprint) = 7343d0835ea544a14e1db56c7186ba332804cb85666e350a8238db1958abd180
+SHA256 (vala-0.44.4.tar.xz) = 357fb15517bb5da506b7fdcb4033802a8a5f8e6502e86b8304371b4e2132c8ef

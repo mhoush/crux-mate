@@ -1,10 +1,10 @@
 # Description: An application-level toolkit for defining and handling the policy that allows unprivileged processes to speak to privileged processes
 # URL: https://www.freedesktop.org/wiki/Software/polkit/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: mozjs docbook-xsl gobject-introspection zlib icu nspr
+# Depends on: mozjs docbook-xsl gobject-introspection zlib icu nspr linux-pam
 
 name=polkit
-version=0.115
+version=0.116
 release=1
 source=(http://www.freedesktop.org/software/$name/releases/$name-$version.tar.gz)
 
@@ -12,15 +12,19 @@ build() {
 	cd $name-$version
 
 	./configure --prefix=/usr \
+		--sysconfdir=/etc \
 		--localstatedir=/var \
 		--disable-nls \
 		--disable-static \
 		--disable-libsystemd-login \
 		--disable-libelogind \
-		--with-authfw=shadow
+		--with-authfw=pam
 
 	make
 	make DESTDIR=$PKG install
+
+	sed -i -e 's,system-auth,common-auth,g' \
+		$PKG/etc/pam.d/polkit-1
 
 	rm -r $PKG/usr/share/locale
 }

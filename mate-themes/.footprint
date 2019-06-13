@@ -3376,7 +3376,6 @@ drwxr-xr-x	root/root	usr/share/icons/mate-black/cursors/
 -rw-r--r--	root/root	usr/share/icons/mate-black/cursors/640fb0e74195791501fd1ed57b41487f
 -rw-r--r--	root/root	usr/share/icons/mate-black/cursors/9081237383d90e509aa00f00170e968f
 -rw-r--r--	root/root	usr/share/icons/mate-black/cursors/9d800788f1b08800ae810202380a0822
--rw-r--r--	root/root	usr/share/icons/mate-black/cursors/AUTHORS
 -rw-r--r--	root/root	usr/share/icons/mate-black/cursors/X_cursor
 -rw-r--r--	root/root	usr/share/icons/mate-black/cursors/alias
 -rw-r--r--	root/root	usr/share/icons/mate-black/cursors/all-scroll
@@ -3503,7 +3502,6 @@ drwxr-xr-x	root/root	usr/share/icons/mate/cursors/
 -rw-r--r--	root/root	usr/share/icons/mate/cursors/640fb0e74195791501fd1ed57b41487f
 -rw-r--r--	root/root	usr/share/icons/mate/cursors/9081237383d90e509aa00f00170e968f
 -rw-r--r--	root/root	usr/share/icons/mate/cursors/9d800788f1b08800ae810202380a0822
--rw-r--r--	root/root	usr/share/icons/mate/cursors/AUTHORS
 -rw-r--r--	root/root	usr/share/icons/mate/cursors/X_cursor
 -rw-r--r--	root/root	usr/share/icons/mate/cursors/alias
 -rw-r--r--	root/root	usr/share/icons/mate/cursors/all-scroll
@@ -3612,8 +3610,6 @@ drwxr-xr-x	root/root	usr/share/icons/mate/cursors/
 -rw-r--r--	root/root	usr/share/icons/mate/cursors/zoom-out
 drwxr-xr-x	root/root	usr/share/themes/
 drwxr-xr-x	root/root	usr/share/themes/BlackMATE/
--rw-r--r--	root/root	usr/share/themes/BlackMATE/COPYING
--rw-r--r--	root/root	usr/share/themes/BlackMATE/README
 drwxr-xr-x	root/root	usr/share/themes/BlackMATE/apps/
 -rw-r--r--	root/root	usr/share/themes/BlackMATE/apps/yumex.css
 drwxr-xr-x	root/root	usr/share/themes/BlackMATE/cinnamon/
@@ -3977,8 +3973,6 @@ drwxr-xr-x	root/root	usr/share/themes/Blue-Submarine/metacity-1/
 -rw-r--r--	root/root	usr/share/themes/Blue-Submarine/metacity-1/metacity-theme-1.xml
 -rw-r--r--	root/root	usr/share/themes/Blue-Submarine/metacity-1/stripes.png
 drwxr-xr-x	root/root	usr/share/themes/BlueMenta/
--rw-r--r--	root/root	usr/share/themes/BlueMenta/COPYING
--rw-r--r--	root/root	usr/share/themes/BlueMenta/README
 drwxr-xr-x	root/root	usr/share/themes/BlueMenta/cinnamon/
 -rw-r--r--	root/root	usr/share/themes/BlueMenta/cinnamon/add-workspace.png
 -rw-r--r--	root/root	usr/share/themes/BlueMenta/cinnamon/calendar-arrow-left.svg
@@ -4014,7 +4008,6 @@ drwxr-xr-x	root/root	usr/share/themes/BlueMenta/cinnamon/
 -rw-r--r--	root/root	usr/share/themes/BlueMenta/cinnamon/ws-switch-arrow-up.svg
 drwxr-xr-x	root/root	usr/share/themes/BlueMenta/emerald/
 -rw-r--r--	root/root	usr/share/themes/BlueMenta/emerald/Menta.emerald
--rw-r--r--	root/root	usr/share/themes/BlueMenta/emerald/README
 drwxr-xr-x	root/root	usr/share/themes/BlueMenta/gtk-2.0/
 drwxr-xr-x	root/root	usr/share/themes/BlueMenta/gtk-2.0/apps/
 drwxr-xr-x	root/root	usr/share/themes/BlueMenta/gtk-2.0/apps/Caja/
@@ -4466,8 +4459,6 @@ drwxr-xr-x	root/root	usr/share/themes/Green-Submarine/metacity-1/
 -rw-r--r--	root/root	usr/share/themes/Green-Submarine/metacity-1/metacity-theme-1.xml
 -rw-r--r--	root/root	usr/share/themes/Green-Submarine/metacity-1/stripes.png
 drwxr-xr-x	root/root	usr/share/themes/GreenLaguna/
--rw-r--r--	root/root	usr/share/themes/GreenLaguna/COPYING
--rw-r--r--	root/root	usr/share/themes/GreenLaguna/README
 drwxr-xr-x	root/root	usr/share/themes/GreenLaguna/gtk-2.0/
 drwxr-xr-x	root/root	usr/share/themes/GreenLaguna/gtk-2.0/Styles/
 -rw-r--r--	root/root	usr/share/themes/GreenLaguna/gtk-2.0/Styles/caja.rc
@@ -4741,8 +4732,6 @@ drwxr-xr-x	root/root	usr/share/themes/HighContrastInverse/pixmaps/
 -rw-r--r--	root/root	usr/share/themes/HighContrastInverse/pixmaps/volume-mute.png
 -rw-r--r--	root/root	usr/share/themes/HighContrastInverse/pixmaps/volume-zero.png
 drwxr-xr-x	root/root	usr/share/themes/Menta/
--rw-r--r--	root/root	usr/share/themes/Menta/COPYING
--rw-r--r--	root/root	usr/share/themes/Menta/README
 drwxr-xr-x	root/root	usr/share/themes/Menta/cinnamon/
 -rw-r--r--	root/root	usr/share/themes/Menta/cinnamon/add-workspace.png
 -rw-r--r--	root/root	usr/share/themes/Menta/cinnamon/calendar-arrow-left.svg
@@ -4778,7 +4767,6 @@ drwxr-xr-x	root/root	usr/share/themes/Menta/cinnamon/
 -rw-r--r--	root/root	usr/share/themes/Menta/cinnamon/ws-switch-arrow-up.svg
 drwxr-xr-x	root/root	usr/share/themes/Menta/emerald/
 -rw-r--r--	root/root	usr/share/themes/Menta/emerald/Menta.emerald
--rw-r--r--	root/root	usr/share/themes/Menta/emerald/README
 drwxr-xr-x	root/root	usr/share/themes/Menta/gtk-2.0/
 drwxr-xr-x	root/root	usr/share/themes/Menta/gtk-2.0/apps/
 drwxr-xr-x	root/root	usr/share/themes/Menta/gtk-2.0/apps/Caja/
@@ -4836,7 +4824,6 @@ drwxr-xr-x	root/root	usr/share/themes/Menta/gtk-2.0/widgets/Panel/
 -rw-r--r--	root/root	usr/share/themes/Menta/gtk-2.0/widgets/Panel/panel-button-active.png
 -rw-r--r--	root/root	usr/share/themes/Menta/gtk-2.0/widgets/Panel/panel-button-hover.png
 -rw-r--r--	root/root	usr/share/themes/Menta/gtk-2.0/widgets/Panel/panel-button-inactive.png
--rw-r--r--	root/root	usr/share/themes/Menta/gtk-2.0/widgets/README
 drwxr-xr-x	root/root	usr/share/themes/Menta/gtk-2.0/widgets/Scale/
 -rw-r--r--	root/root	usr/share/themes/Menta/gtk-2.0/widgets/Scale/slider-hover.png
 -rw-r--r--	root/root	usr/share/themes/Menta/gtk-2.0/widgets/Scale/slider-ins.png
@@ -5067,7 +5054,6 @@ drwxr-xr-x	root/root	usr/share/themes/Shiny/
 drwxr-xr-x	root/root	usr/share/themes/Shiny/metacity-1/
 -rw-r--r--	root/root	usr/share/themes/Shiny/metacity-1/metacity-theme-1.xml
 drwxr-xr-x	root/root	usr/share/themes/TraditionalGreen/
--rw-r--r--	root/root	usr/share/themes/TraditionalGreen/COPYING
 drwxr-xr-x	root/root	usr/share/themes/TraditionalGreen/gtk-2.0/
 -rw-r--r--	root/root	usr/share/themes/TraditionalGreen/gtk-2.0/applications.rc
 -rw-r--r--	root/root	usr/share/themes/TraditionalGreen/gtk-2.0/gtkrc
@@ -5140,7 +5126,6 @@ drwxr-xr-x	root/root	usr/share/themes/TraditionalGreen/gtk-3.0/img/
 drwxr-xr-x	root/root	usr/share/themes/TraditionalGreen/metacity-1/
 -rw-r--r--	root/root	usr/share/themes/TraditionalGreen/metacity-1/metacity-theme-1.xml
 drwxr-xr-x	root/root	usr/share/themes/TraditionalOk/
--rw-r--r--	root/root	usr/share/themes/TraditionalOk/COPYING
 drwxr-xr-x	root/root	usr/share/themes/TraditionalOk/gtk-2.0/
 -rw-r--r--	root/root	usr/share/themes/TraditionalOk/gtk-2.0/applications.rc
 -rw-r--r--	root/root	usr/share/themes/TraditionalOk/gtk-2.0/gtkrc
@@ -5215,7 +5200,6 @@ drwxr-xr-x	root/root	usr/share/themes/TraditionalOk/metacity-1/
 drwxr-xr-x	root/root	usr/share/themes/TraditionalOk/openbox-3/
 -rw-r--r--	root/root	usr/share/themes/TraditionalOk/openbox-3/themerc
 drwxr-xr-x	root/root	usr/share/themes/TraditionalOk/xfwm4/
--rw-r--r--	root/root	usr/share/themes/TraditionalOk/xfwm4/README
 -rw-r--r--	root/root	usr/share/themes/TraditionalOk/xfwm4/bottom-active.xpm
 -rw-r--r--	root/root	usr/share/themes/TraditionalOk/xfwm4/bottom-inactive.xpm
 -rw-r--r--	root/root	usr/share/themes/TraditionalOk/xfwm4/bottom-left-active.xpm

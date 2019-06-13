@@ -4,7 +4,7 @@
 
 name=p5-xml-simple
 version=2.25
-release=1
+release=2
 source=(http://search.cpan.org/CPAN/authors/id/G/GR/GRANTM/XML-Simple-$version.tar.gz)
 
 build() {

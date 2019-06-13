@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOQDoJ6lOusjAkTtQJmSa6pywXMmI6xpYAFN2pyOqiDQKEzXv0TaYKkIaJHf1WWKbgDp0P2ufM5kzSbbZLXDa4A0=
-SHA256 (Pkgfile) = 275e3e0fe368783fb58f5714c6749de98fd0c5a061e1a6490a5441962a63ed28
-SHA256 (.footprint) = a4aec2f8198eb30894d71fd9517ccf9ebe2127e528216cc93534540ef377ff90
+RWTDGCtBFHpiOW3gXIb5JAfdf/NA8a8EcMTYhrMTt1+2DWih31K8elXIGHrBf4tyjOIo1vCoGTzDK7UcHxJL9nfQPPuI8g0eLAM=
+SHA256 (Pkgfile) = 6379def28087a90db2f2cecd3ca0ba73cfec69cf71e475ef83255c4ec9bbcf55
+SHA256 (.footprint) = 423beb17fe86c3a4b12dff4ba33dbd959a1dd496d695a47ccb7e8fd39228e019
 SHA256 (libgnome-keyring-3.12.0.tar.xz) = c4c178fbb05f72acc484d22ddb0568f7532c409b0a13e06513ff54b91e947783

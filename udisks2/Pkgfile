@@ -4,19 +4,20 @@
 # Depends on: libatasmart libgudev polkit libblockdev docbook-xsl
 
 name=udisks2
-version=2.7.6
+version=2.8.3
 release=1
-source=(https://github.com/storaged-project/udisks/releases/download/udisks-2.7.6/udisks-2.7.6.tar.bz2)
+source=(https://github.com/storaged-project/udisks/releases/download/udisks-$version/udisks-$version.tar.bz2)
 
 build() {
   cd udisks-$version
   ./configure --prefix=/usr \
+    --sysconfdir=/etc \
     --libexecdir=/usr/lib/$name \
     --enable-fhs-media \
     --disable-nls
   make
   make DESTDIR=$PKG install
-  rm -r $PKG/usr/share/{gtk-doc,locale}
+  rm -r $PKG/usr/share/gtk-doc
   install -d -m 0755 $PKG/media
 }
 

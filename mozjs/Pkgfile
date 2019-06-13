@@ -4,14 +4,15 @@
 # Depends on: autoconf-2.13 icu zlib nspr
 
 name=mozjs
-version=52.2.1gnome1
+version=60.1.0
 release=1
-source=(http://ftp.gnome.org/pub/gnome/teams/releng/tarballs-needing-help/$name/$name-$version.tar.gz)
+source=(http://ftp.gnome.org/pub/gnome/teams/releng/tarballs-needing-help/$name/$name-$version.tar.bz2)
 
 build() {
-	cd $name-$version/js/src
-	./configure --prefix=/usr \
+	mkdir build && cd build
+	../$name-$version/js/src/configure --prefix=/usr \
 		--enable-readline \
+		--disable-jemalloc \
 		--with-intl-api \
 		--with-system-icu \
 		--with-system-nspr \

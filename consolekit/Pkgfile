@@ -1,22 +1,23 @@
 # Description: A framework for defining and tracking users, login sessions, and seats
-# URL: http://www.freedesktop.org/wiki/Software/ConsoleKit/
+# URL: https://github.com/ConsoleKit2/ConsoleKit2
 # Maintainer: Matt Housh, jaeger at crux dot ninja
 # Depends on: polkit dbus-glib xorg-libx11
 
 name=consolekit
-version=0.4.6
+version=1.2.1
 release=1
-source=(http://www.freedesktop.org/software/ConsoleKit/dist/ConsoleKit-$version.tar.xz \
-  revert-4f8822.diff)
+source=(https://github.com/ConsoleKit2/ConsoleKit2/releases/download/$version/ConsoleKit2-$version.tar.bz2)
 
 build() {
-  cd ConsoleKit-$version
-  patch -p1 -i $SRC/revert-4f8822.diff
+  cd ConsoleKit2-$version
   ./configure --prefix=/usr \
+    --sysconfdir=/etc \
     --localstatedir=/var \
-    --libexecdir=/usr/lib/$name
+    --libexecdir=/usr/lib/ConsoleKit \
+    --enable-pam-module \
+    --disable-nls
   make
   make DESTDIR=$PKG install
-}
 
-# vim: set ts=2 et:
+  rm -r $PKG/usr/share/gtk-doc
+}

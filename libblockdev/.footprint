@@ -1,4 +1,6 @@
 drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/bin/
+-rwxr-xr-x	root/root	usr/bin/lvm-cache-stats
 drwxr-xr-x	root/root	usr/etc/
 drwxr-xr-x	root/root	usr/etc/libblockdev/
 drwxr-xr-x	root/root	usr/etc/libblockdev/conf.d/
@@ -9,6 +11,7 @@ drwxr-xr-x	root/root	usr/include/blockdev/
 -rw-r--r--	root/root	usr/include/blockdev/blockdev.h
 -rw-r--r--	root/root	usr/include/blockdev/btrfs.h
 -rw-r--r--	root/root	usr/include/blockdev/crypto.h
+-rw-r--r--	root/root	usr/include/blockdev/dbus.h
 -rw-r--r--	root/root	usr/include/blockdev/dev_utils.h
 -rw-r--r--	root/root	usr/include/blockdev/exec.h
 -rw-r--r--	root/root	usr/include/blockdev/extra_arg.h
@@ -32,6 +35,7 @@ drwxr-xr-x	root/root	usr/include/blockdev/fs/
 -rw-r--r--	root/root	usr/include/blockdev/sizes.h
 -rw-r--r--	root/root	usr/include/blockdev/swap.h
 -rw-r--r--	root/root	usr/include/blockdev/utils.h
+-rw-r--r--	root/root	usr/include/blockdev/vdo.h
 drwxr-xr-x	root/root	usr/lib/
 drwxr-xr-x	root/root	usr/lib/girepository-1.0/
 -rw-r--r--	root/root	usr/lib/girepository-1.0/BlockDev-2.0.typelib
@@ -91,6 +95,10 @@ lrwxrwxrwx	root/root	usr/lib/libbd_swap.so.2 -> libbd_swap.so.2.0.0
 lrwxrwxrwx	root/root	usr/lib/libbd_utils.so -> libbd_utils.so.2.1.0
 lrwxrwxrwx	root/root	usr/lib/libbd_utils.so.2 -> libbd_utils.so.2.1.0
 -rwxr-xr-x	root/root	usr/lib/libbd_utils.so.2.1.0
+-rwxr-xr-x	root/root	usr/lib/libbd_vdo.la
+lrwxrwxrwx	root/root	usr/lib/libbd_vdo.so -> libbd_vdo.so.2.0.0
+lrwxrwxrwx	root/root	usr/lib/libbd_vdo.so.2 -> libbd_vdo.so.2.0.0
+-rwxr-xr-x	root/root	usr/lib/libbd_vdo.so.2.0.0
 -rwxr-xr-x	root/root	usr/lib/libblockdev.la
 lrwxrwxrwx	root/root	usr/lib/libblockdev.so -> libblockdev.so.2.0.0
 lrwxrwxrwx	root/root	usr/lib/libblockdev.so.2 -> libblockdev.so.2.0.0
@@ -103,11 +111,11 @@ drwxr-xr-x	root/root	usr/lib/python2.7/site-packages/
 drwxr-xr-x	root/root	usr/lib/python2.7/site-packages/gi/
 drwxr-xr-x	root/root	usr/lib/python2.7/site-packages/gi/overrides/
 -rw-r--r--	root/root	usr/lib/python2.7/site-packages/gi/overrides/BlockDev.py
-drwxr-xr-x	root/root	usr/lib/python3.6/
-drwxr-xr-x	root/root	usr/lib/python3.6/site-packages/
-drwxr-xr-x	root/root	usr/lib/python3.6/site-packages/gi/
-drwxr-xr-x	root/root	usr/lib/python3.6/site-packages/gi/overrides/
--rw-r--r--	root/root	usr/lib/python3.6/site-packages/gi/overrides/BlockDev.py
+drwxr-xr-x	root/root	usr/lib/python3.7/
+drwxr-xr-x	root/root	usr/lib/python3.7/site-packages/
+drwxr-xr-x	root/root	usr/lib/python3.7/site-packages/gi/
+drwxr-xr-x	root/root	usr/lib/python3.7/site-packages/gi/overrides/
+-rw-r--r--	root/root	usr/lib/python3.7/site-packages/gi/overrides/BlockDev.py
 drwxr-xr-x	root/root	usr/share/
 drwxr-xr-x	root/root	usr/share/gir-1.0/
 -rw-r--r--	root/root	usr/share/gir-1.0/BlockDev-2.0.gir
