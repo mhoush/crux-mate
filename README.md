@@ -7,7 +7,7 @@
 Download mate.httpup:
 
 ```
-curl -o /etc/ports/mate.httpup https://raw.githubusercontent.com/mhoush/crux-mate/master/mate.httpup
+curl -o /etc/ports/mate.httpup https://raw.githubusercontent.com/mhoush/crux-mate/3.4/mate.httpup
 ```
 
 Enable the 'contrib' ports collection as [described in the CRUX handbook](https://crux.nu/Main/Handbook3-2#ntoc42)
