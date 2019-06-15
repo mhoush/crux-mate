@@ -251,6 +251,5 @@ f:9166c4b84a8a34eca7efe37b101fc13c:vala/.footprint
 f:0fcf16d0b578f6f69c51207e7b94ef81:vala/Pkgfile
 f:3a8aab258eb905c4305c93489a1986a8:vala/.signature
 f:9ee51692ba8e1a1c209ec901c00fe295:graphviz/.footprint
-f:be71d188ccc9d9e78b9f5e782b91f973:graphviz/graphviz-gs-error.patch
-f:910c8848f9e2152d31bc1d0b9a7a1210:graphviz/Pkgfile
-f:6f54659bc7b37097efcc38730cd2c1d6:graphviz/.signature
+f:f738ee698996b67fe598e5ff5983c31f:graphviz/.signature
+f:4793e18572a84c78f7532e00bf6aeb0b:graphviz/Pkgfile

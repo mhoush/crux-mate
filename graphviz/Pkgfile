@@ -1,8 +1,7 @@
 # Description:	Graphviz is open source graph visualization software
 # URL:	http://graphviz.org
-# Maintainer: Daryl Fonsecq-Holt, wyatt at prairieturtle dot ca
-# Packager: Daryl Fonsecq-Holt, wyatt at prairieturtle dot ca
-# Depends on: pango libgd
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: pango libgd librsvg gtk poppler-glib
 
 name=graphviz
 version=2.40.1
@@ -12,7 +11,6 @@ source=(https://graphviz.gitlab.io/pub/graphviz/stable/SOURCES/graphviz.tar.gz)
 build () {
 	cd $name-$version
 
-#	patch -p1 -i $SRC/graphviz-gs-error.patch
 	CFLAGS="${CFLAGS//-flto/}" LDFLAGS="${LDFLAGS//-flto/}"
 	./configure --prefix=/usr \
 		--libdir=/usr/lib \
