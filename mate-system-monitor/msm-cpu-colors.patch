@@ -1,0 +1,167 @@
+--- org.mate.system-monitor.gschema.xml.in.orig	2019-07-27 11:43:47.692753292 -0500
++++ org.mate.system-monitor.gschema.xml.in	2019-07-27 11:45:41.237628953 -0500
+@@ -53,131 +53,131 @@
+       <description>0 for the System Info, 1 for the processes list, 2 for the resources and 3 for the disks list</description>
+     </key>
+     <key name="cpu-color0" type="s">
+-      <default>'#FF6E00'</default>
++      <default>'#000000'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color1" type="s">
+-      <default>'#CB0C29'</default>
++      <default>'#FFFF00'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color2" type="s">
+-      <default>'#49A835'</default>
++      <default>'#1CE6FF'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color3" type="s">
+-      <default>'#2D7DB3'</default>
++      <default>'#FF34FF'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color4" type="s">
+-      <default>'#FF6600'</default>
++      <default>'#FF4A46'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color5" type="s">
+-      <default>'#6600CC'</default>
++      <default>'#008941'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color6" type="s">
+-      <default>'#990000'</default>
+-      <summary>Default graph cpu color</summary>
++      <default>'#006FA6'</default>
++      <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color7" type="s">
+-      <default>'#000099'</default>
++      <default>'#A30059'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color8" type="s">
+-      <default>'#FFCC00'</default>
++      <default>'#FFDBE5'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color9" type="s">
+-      <default>'#009900'</default>
++      <default>'#7A4900'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color10" type="s">
+-      <default>'#CC6600'</default>
++      <default>'#0000A6'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color11" type="s">
+-      <default>'#330099'</default>
++      <default>'#63FFAC'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color12" type="s">
+-      <default>'#CC0066'</default>
++      <default>'#B79762'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color13" type="s">
+-      <default>'#00FFCC'</default>
++      <default>'#004D43'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color14" type="s">
+-      <default>'#FFCC99'</default>
++      <default>'#8FB0FF'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color15" type="s">
+-      <default>'#339999'</default>
++      <default>'#997D87'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color16" type="s">
+-      <default>'#339999'</default>
++      <default>'#5A0007'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color17" type="s">
+-      <default>'#339999'</default>
++      <default>'#809693'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color18" type="s">
+-      <default>'#339999'</default>
++      <default>'#FEFFE6'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color19" type="s">
+-      <default>'#339999'</default>
++      <default>'#1B4400'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color20" type="s">
+-      <default>'#339999'</default>
++      <default>'#4FC601'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color21" type="s">
+-      <default>'#339999'</default>
++      <default>'#3B5DFF'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color22" type="s">
+-      <default>'#339999'</default>
++      <default>'#4A3B53'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color23" type="s">
+-      <default>'#339999'</default>
++      <default>'#FF2F80'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color24" type="s">
+-      <default>'#339999'</default>
++      <default>'#61615A'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color25" type="s">
+-      <default>'#339999'</default>
++      <default>'#BA0900'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color26" type="s">
+-      <default>'#339999'</default>
++      <default>'#6B7900'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color27" type="s">
+-      <default>'#339999'</default>
++      <default>'#00C2A0'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color28" type="s">
+-      <default>'#339999'</default>
++      <default>'#FFAA92'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color29" type="s">
+-      <default>'#339999'</default>
++      <default>'#FF90C9'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color30" type="s">
+-      <default>'#339999'</default>
++      <default>'#B903AA'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="cpu-color31" type="s">
+-      <default>'#339999'</default>
++      <default>'#D16100'</default>
+       <summary>Default graph CPU color</summary>
+     </key>
+     <key name="mem-color" type="s">
