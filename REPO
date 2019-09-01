@@ -172,9 +172,9 @@ f:a2ee4d6fe69a86939a56a24bb27b0f6b:mate-notification-daemon/.signature
 f:f2cab928f9e5218ddaddd95c971ecb11:mate-notification-daemon/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:mate-notification-daemon/post-install
 f:8b1a53bf7371a49d8a8b287844729e19:mate-panel/.footprint
-f:da7889da03585fe132cfeb57637a72b9:mate-panel/.signature
-f:5d2ae7b0e5a685b01d15939fad934a92:mate-panel/Pkgfile
+f:ec30b1d734443ebda26b01ece15fe495:mate-panel/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:mate-panel/post-install
+f:d14202e5770ee5da5a446e8a6f794101:mate-panel/Pkgfile
 f:d40631f62bb41aa28c94a76dcb3be4fa:mate-polkit/.footprint
 f:c686fe87763932a9155765ae6c6efe10:mate-polkit/.signature
 f:cbf250f122965a3d0338c39eb406bfb4:mate-polkit/Pkgfile
