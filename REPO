@@ -231,9 +231,9 @@ f:d1271853c85b13693d8963dd0684b408:p5-xml-simple/.footprint
 f:b64ddd6befa2152692294b922d7ac575:p5-xml-simple/.signature
 f:01b5e1d2af6be03b2840bbd85f0d08cf:p5-xml-simple/Pkgfile
 f:48b4c2c6bd54019fac9ad1ed264f58e0:pluma/.footprint
-f:b6093ed5bb2cbf92d5a83ebec36073ca:pluma/.signature
-f:16515d6c87987df70ae7c48879069fc4:pluma/Pkgfile
+f:580e7a650c52eb2104ae07f0552a9c13:pluma/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:pluma/post-install
+f:c8d5d81da03786c89f0f5f60c12d02ff:pluma/Pkgfile
 f:8103508fa6d033a4166429052b8230f3:polkit/.footprint
 f:368391879e2d4c0e69836545eb9add5c:polkit/.signature
 f:05a29dfd249f0a93d5521698ab686e95:polkit/Pkgfile
