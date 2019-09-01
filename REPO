@@ -134,9 +134,9 @@ f:0d8da14eba4dc05bfc13e51bca05aef3:mate-backgrounds/.footprint
 f:723a79315cd3c2bf3cb8923ad3626347:mate-backgrounds/.signature
 f:68a224dd9c56039fbb812691174e47dd:mate-backgrounds/Pkgfile
 f:131ae7789f2654a6e73ac7d4f333c1e7:mate-calc/.footprint
-f:931449b1ff4eb7f9b92f97a51b1e1c28:mate-calc/.signature
-f:5ea09b728e750af189fe472edda79800:mate-calc/Pkgfile
+f:7f3406ccbe834b300f6e2da9554198f3:mate-calc/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:mate-calc/post-install
+f:b41e257a42fe0f0c8542091a400ccf10:mate-calc/Pkgfile
 f:80e269a981197c365e1b342d5a34e615:mate-common/.footprint
 f:8b2ab28d9ed9c3e51f1e1fd260211819:mate-common/.signature
 f:fbfb95dd453358c1a23c4467c0a9fbc5:mate-common/Pkgfile
