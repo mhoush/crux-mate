@@ -4,8 +4,8 @@
 # Depends on: gtk
 
 name=mate-themes
-version=3.22.18
-release=2
+version=3.22.20
+release=1
 source=(http://pub.mate-desktop.org/releases/themes/${version:0:4}/$name-$version.tar.xz)
 
 build() {
