@@ -761,15 +761,5 @@ drwxr-xr-x	root/root	usr/share/help/zh_TW/mate-terminal/figures/
 drwxr-xr-x	root/root	usr/share/man/
 drwxr-xr-x	root/root	usr/share/man/man1/
 -rw-r--r--	root/root	usr/share/man/man1/mate-terminal.1.gz
-drwxr-xr-x	root/root	usr/share/mate-terminal/
--rw-r--r--	root/root	usr/share/mate-terminal/encodings-dialog.ui
--rw-r--r--	root/root	usr/share/mate-terminal/find-dialog.ui
--rw-r--r--	root/root	usr/share/mate-terminal/keybinding-editor.ui
--rw-r--r--	root/root	usr/share/mate-terminal/profile-manager.ui
--rw-r--r--	root/root	usr/share/mate-terminal/profile-new-dialog.ui
--rw-r--r--	root/root	usr/share/mate-terminal/profile-preferences.ui
--rw-r--r--	root/root	usr/share/mate-terminal/skey-challenge.ui
--rw-r--r--	root/root	usr/share/mate-terminal/terminal.about
--rw-r--r--	root/root	usr/share/mate-terminal/terminal.xml
 drwxr-xr-x	root/root	usr/share/metainfo/
 -rw-r--r--	root/root	usr/share/metainfo/mate-terminal.appdata.xml

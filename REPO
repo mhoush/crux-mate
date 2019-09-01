@@ -205,10 +205,10 @@ f:bfea823151acee2c030a13b868022f2d:mate-system-monitor/.signature
 f:874f58101a6c04d152dae67ec87e6bd3:mate-system-monitor/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:mate-system-monitor/post-install
 f:5aa08c488e574aa4c7faedda90b83040:mate-system-monitor/msm-cpu-colors.patch
-f:40405064bdef66d990801c1dd7397e6c:mate-terminal/.footprint
-f:a3d7d99f0f5307e0677cc8c6feb3d48d:mate-terminal/.signature
-f:26279489009b787b6058d85746c86690:mate-terminal/Pkgfile
+f:026f84131fdb7f8ffdd2fbff86ff949a:mate-terminal/.footprint
+f:e6f89f13025642817d20c9a67e997418:mate-terminal/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:mate-terminal/post-install
+f:fcf77ac7b893dda52a3668b3b3be3bef:mate-terminal/Pkgfile
 f:2865c9c3a123436c9ff8de98388d13cb:mate-themes/.footprint
 f:e1b66fe92ebece2b41521334fdb61fc8:mate-themes/.signature
 f:7a42e4afb19a9da9cc0b03d5a1b7c5d0:mate-themes/post-install
