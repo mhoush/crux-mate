@@ -140,10 +140,10 @@ f:b41e257a42fe0f0c8542091a400ccf10:mate-calc/Pkgfile
 f:80e269a981197c365e1b342d5a34e615:mate-common/.footprint
 f:8b2ab28d9ed9c3e51f1e1fd260211819:mate-common/.signature
 f:fbfb95dd453358c1a23c4467c0a9fbc5:mate-common/Pkgfile
-f:e4d0d587fe497c7d2173ed5f5abd88f1:mate-control-center/.footprint
-f:0c81b1f0e645ba641d4b2a28dd5c6682:mate-control-center/.signature
-f:56d07ab92abbbd450018b6fff89a661f:mate-control-center/Pkgfile
+f:f1211326cbb1bb49d1075b17e65224bc:mate-control-center/.footprint
+f:722ae6d4916da9b12f548e71262fca6a:mate-control-center/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:mate-control-center/post-install
+f:48c1b2653c32093b4029cbda7d441022:mate-control-center/Pkgfile
 f:33de0823af64ab97b30ab6032a49e3ff:mate-desktop/.footprint
 f:3eca2f52f65b865fe1b1e164393452e4:mate-desktop/.signature
 f:cfa8833a8bb428241576c9e7f96d1b79:mate-desktop/Pkgfile
