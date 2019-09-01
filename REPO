@@ -188,9 +188,9 @@ f:8ab1a8aebf81c512aa5d551b60792167:mate-screensaver/post-install
 f:62a49e9509d1d621c8f3f27a52d546ef:mate-screensaver/mate-screensaver.pam
 f:a94ded6afca9fff2d0d97a4a6d2a6495:mate-screensaver/Pkgfile
 f:4304db31dc12592637e43a41f1cabe11:mate-sensors-applet/.footprint
-f:8b67a026877463868865ce4eafb12138:mate-sensors-applet/.signature
-f:07e8d1e45f28272f736f56740325c501:mate-sensors-applet/Pkgfile
+f:7cb422cbf12ff579946b9a5075af104f:mate-sensors-applet/.signature
 f:16bc325858ef7bcd5439dc0750690adf:mate-sensors-applet/post-install
+f:ed9c4efa5b2a1b6d551a8c30dc8b480a:mate-sensors-applet/Pkgfile
 f:86e5638990ac6cf1d1eb469d999bdf1f:mate-session-manager/.footprint
 f:ba69f738262a9bd56a728256a0198d37:mate-session-manager/.signature
 f:3c3bc78acc15b7dcfbff92c112ebcce8:mate-session-manager/msm-no-systemd.patch
