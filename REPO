@@ -221,9 +221,9 @@ f:8682557ef73fa564aad16b8d921ac9e4:mozjs/.footprint
 f:58432c4dcd40474e0f7503d4d3759577:mozjs/.signature
 f:ce021a1c8d5440ec817c9458cfdef3b6:mozjs/Pkgfile
 f:4da3462e9c91aef1f050756615a9943d:mozo/.footprint
-f:2e9b08e47b1804677e7351a88aa9eabd:mozo/.signature
+f:7f862d84bea458a683ad670b6366bcb1:mozo/.signature
 f:e6bb92f40645c637b6bdfd3df85fbd8e:mozo/post-install
-f:85a6e2926e3236258cc7eb6a557249a4:mozo/Pkgfile
+f:666c60ae8801c20664e9dc3eb023d78e:mozo/Pkgfile
 f:d77c3fe71f77e8c3ff3e626a160567b8:ndctl/.footprint
 f:f5e745e0e367521abcd903d4167af8e3:ndctl/.signature
 f:b94cf51991f5fb1dd86aa0e2adee3f70:ndctl/Pkgfile
