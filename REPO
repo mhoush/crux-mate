@@ -54,9 +54,9 @@ d:zenity
 d:vala
 d:graphviz
 f:943d781e01380035173e1eb1e0ae44fa:atril/.footprint
-f:03ff0ef88166791ca492ba8547736812:atril/.signature
-f:48f1249edb2c6de5d581c13b42d6f151:atril/Pkgfile
+f:37ce4cf0de17f1270b0dbad85fac3493:atril/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:atril/post-install
+f:eb10f59042bc1544509cd3ebad3cd0b4:atril/Pkgfile
 f:ba523621b2433d3420fa224dbaa2b165:ayatana-ido/.footprint
 f:83d0ba648d5462208ef1322ae1811bb2:ayatana-ido/.signature
 f:7db338fb5810c7087b4e45730b0cacb3:ayatana-ido/Pkgfile
