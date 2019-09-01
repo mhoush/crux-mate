@@ -179,9 +179,9 @@ f:d40631f62bb41aa28c94a76dcb3be4fa:mate-polkit/.footprint
 f:c686fe87763932a9155765ae6c6efe10:mate-polkit/.signature
 f:cbf250f122965a3d0338c39eb406bfb4:mate-polkit/Pkgfile
 f:e042bbce41296efc55067d7d1d5d0548:mate-power-manager/.footprint
-f:16c1bf4b488f24e0a5fe66cbb7d8f770:mate-power-manager/.signature
-f:f961231e1680f2a9445ad82c3dd7e410:mate-power-manager/Pkgfile
+f:bcb090986dbbde7837eec90c20fde13a:mate-power-manager/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:mate-power-manager/post-install
+f:65652fa7424ec1d7e9d45ad511d2b341:mate-power-manager/Pkgfile
 f:2e768cbacac77a4e12b8f51e9e753384:mate-screensaver/.footprint
 f:99c0c134f8e393282117c8041047cf79:mate-screensaver/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:mate-screensaver/post-install

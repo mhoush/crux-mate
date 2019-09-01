@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOQC9GcdAHpA2+lGwKpNs28MbZCCYUbuda+C0mfdd0wkWmv6iPZ/53lMsMk9kkUVZDE6kfcARSHHA5JHuov/jwQg=
-SHA256 (Pkgfile) = 6c1eddbe6ffc7f0d1af06c41544b7abd3d338d1784a166fccb7014242e0b4771
+RWTDGCtBFHpiOcnVrey+Nfzs/+il9gdcS/kqIg8cbkgyrhHXdFRNfJcyjDVWjgYHgnKlm/CPnGVxdWWd7GlGbI9pBfWCacYmegE=
+SHA256 (Pkgfile) = e05adb6a60f2bcff85a138a54773d816af35ce0a956bdcb3f00f567656c996d5
 SHA256 (.footprint) = f88f1a41e33be157e95bad0289536e86b1f2c22825244c9c48734c3e6e43802f
-SHA256 (mate-power-manager-1.22.0.tar.xz) = 31cceabc756f7586c90090c459b956a430dc099e9f6f272b1fe83b1c084c800d
+SHA256 (mate-power-manager-1.22.1.tar.xz) = ba6647acea13852ac5bd2423dedbb68033eb056871ba58812c42074a08177a1b
