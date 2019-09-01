@@ -72,9 +72,9 @@ f:fa054c4ef58012f1ecdc066cd2f60c94:dconf/.footprint
 f:f1c8c2c7d98318e6a3c31f465bbb9dfc:dconf/.signature
 f:67ea0a95b2e24cfc9a00ab10c07de681:dconf/Pkgfile
 f:ca71732efbd189e784b4d6b3af2a45e8:engrampa/.footprint
-f:fea1eef028bb00cccd82c911dc37d1a0:engrampa/.signature
-f:1a1d3f4a655735ec29f800ce936127af:engrampa/Pkgfile
+f:a36da94ed0877ed395d548c12d059842:engrampa/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:engrampa/post-install
+f:8a6bf549f37c5d054f64004c1d011a6e:engrampa/Pkgfile
 f:a245d5e9db542b0475bf6a60f44814bd:eom/.footprint
 f:cdbc43a77feb929e0e50360c03fc1bec:eom/.signature
 f:f9f64a6dc7b8da6de654105cae5c4c08:eom/Pkgfile
