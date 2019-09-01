@@ -122,10 +122,10 @@ f:55ff9706e8431f59f26dff32c6b08170:libpeas/.footprint
 f:26f936e733da2d587f578178bc0b50dd:libpeas/.signature
 f:faa34245bb658117d137d856e51f1e8a:libpeas/Pkgfile
 f:f96e6792920155ae9027e6b5e7352293:libpeas/post-install
-f:e79c0cdf507c4343f37e1b72df72b4e6:marco/.footprint
-f:3a81c94dcb534471e6a4ef00273d2107:marco/.signature
-f:1b77aad927101cd37f012811865c6b2d:marco/Pkgfile
+f:89afdc436a64f6d15d578a28a7d24d6d:marco/.footprint
+f:b6c9c6ff224a2a25aafe0dc9777c863e:marco/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:marco/post-install
+f:1c48025a30817cfca9f55dc6ccd436f8:marco/Pkgfile
 f:da7da303759a3d02e770834eeca58254:mate-applets/.footprint
 f:50691379ac231919772f4b87dd657cf0:mate-applets/.signature
 f:15e6311dc0cb90b31b9fd6cb9b65fa9c:mate-applets/Pkgfile
