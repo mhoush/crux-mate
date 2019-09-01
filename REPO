@@ -61,9 +61,9 @@ f:ba523621b2433d3420fa224dbaa2b165:ayatana-ido/.footprint
 f:83d0ba648d5462208ef1322ae1811bb2:ayatana-ido/.signature
 f:7db338fb5810c7087b4e45730b0cacb3:ayatana-ido/Pkgfile
 f:94ba0dd34f7e44921339adfeac088aea:caja/.footprint
-f:99da1063a714319132ba79c072423df9:caja/.signature
-f:06ab7f4d41a01ff6c3843a99937842fc:caja/Pkgfile
+f:19004c9ad958fb13b22d27072955feb2:caja/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:caja/post-install
+f:52c2b3a6d2cad2af9abbea3e91d69802:caja/Pkgfile
 f:a6445d64bdbae3cd83c321418b8d0f10:consolekit/.footprint
 f:0f41bdc1b56ac3ee59f2ca14837a9e61:consolekit/.signature
 f:40849574db0f54a7993204d9724811f8:consolekit/Pkgfile

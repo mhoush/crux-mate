@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOSoT56LhqqKksWHKnD9L8WGTQS/DfvucvCi6kK9pStNkk4pefp65klYMNMw0yYGt2Se8jMU+1FMsIUrH2/PKUAA=
-SHA256 (Pkgfile) = e6c91e06d8ec4a17b1145766646d996aacb9d771660c764ffaca5734825a85f7
+RWTDGCtBFHpiOY77Shea44bcTnRln+9A15s6MB/M2PM4vnfSrjazf2dfwKU90PkFFtxOUS0C/HnqoCb+6Fnc9P4OJvLDwVI/zAA=
+SHA256 (Pkgfile) = 78f226a280643ee2f2e3d9fd58eda9c3ee0c3a4eed2d445506beafcdc444f304
 SHA256 (.footprint) = 2e99bbd0c4eca6271ab9db676c558d88d4a059fc8df95d49e9d7fd33825c7f0c
-SHA256 (caja-1.22.0.tar.xz) = f4b17d96acfffc88b6e072819704b19dd4166e908cbd56c9fde5c67d70b2a993
+SHA256 (caja-1.22.1.tar.xz) = 3b26efd276c68a579db443ea1f85a270cd33c59284667d5db8d5d355a3f46781
