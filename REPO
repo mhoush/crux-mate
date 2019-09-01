@@ -126,10 +126,10 @@ f:89afdc436a64f6d15d578a28a7d24d6d:marco/.footprint
 f:b6c9c6ff224a2a25aafe0dc9777c863e:marco/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:marco/post-install
 f:1c48025a30817cfca9f55dc6ccd436f8:marco/Pkgfile
-f:da7da303759a3d02e770834eeca58254:mate-applets/.footprint
-f:50691379ac231919772f4b87dd657cf0:mate-applets/.signature
-f:15e6311dc0cb90b31b9fd6cb9b65fa9c:mate-applets/Pkgfile
+f:9f2dab38ac063691069b9edc449282c9:mate-applets/.footprint
+f:351283104dfc46f2dfa0bc743500adba:mate-applets/.signature
 f:16bc325858ef7bcd5439dc0750690adf:mate-applets/post-install
+f:ffa72d05a957aa71ee58a979324b70a8:mate-applets/Pkgfile
 f:0d8da14eba4dc05bfc13e51bca05aef3:mate-backgrounds/.footprint
 f:723a79315cd3c2bf3cb8923ad3626347:mate-backgrounds/.signature
 f:68a224dd9c56039fbb812691174e47dd:mate-backgrounds/Pkgfile

@@ -4941,11 +4941,29 @@ lrwxrwxrwx	root/root	usr/share/help/fi/mateweather/figures/stock_weather-sunny.p
 -rw-r--r--	root/root	usr/share/help/fi/mateweather/index.docbook
 -rw-r--r--	root/root	usr/share/help/fi/mateweather/legal.xml
 drwxr-xr-x	root/root	usr/share/help/fil/
+drwxr-xr-x	root/root	usr/share/help/fil/mate-cpufreq-applet/
+drwxr-xr-x	root/root	usr/share/help/fil/mate-cpufreq-applet/figures/
+lrwxrwxrwx	root/root	usr/share/help/fil/mate-cpufreq-applet/figures/cpufreq-100.png -> /usr/share/help/C/mate-cpufreq-applet/figures/cpufreq-100.png
+lrwxrwxrwx	root/root	usr/share/help/fil/mate-cpufreq-applet/figures/cpufreq-25.png -> /usr/share/help/C/mate-cpufreq-applet/figures/cpufreq-25.png
+lrwxrwxrwx	root/root	usr/share/help/fil/mate-cpufreq-applet/figures/cpufreq-50.png -> /usr/share/help/C/mate-cpufreq-applet/figures/cpufreq-50.png
+lrwxrwxrwx	root/root	usr/share/help/fil/mate-cpufreq-applet/figures/cpufreq-75.png -> /usr/share/help/C/mate-cpufreq-applet/figures/cpufreq-75.png
+lrwxrwxrwx	root/root	usr/share/help/fil/mate-cpufreq-applet/figures/cpufreq-applet-preferences-smp.png -> /usr/share/help/C/mate-cpufreq-applet/figures/cpufreq-applet-preferences-smp.png
+lrwxrwxrwx	root/root	usr/share/help/fil/mate-cpufreq-applet/figures/cpufreq-applet-preferences.png -> /usr/share/help/C/mate-cpufreq-applet/figures/cpufreq-applet-preferences.png
+lrwxrwxrwx	root/root	usr/share/help/fil/mate-cpufreq-applet/figures/cpufreq-applet-selector-both.png -> /usr/share/help/C/mate-cpufreq-applet/figures/cpufreq-applet-selector-both.png
+lrwxrwxrwx	root/root	usr/share/help/fil/mate-cpufreq-applet/figures/cpufreq-applet-selector.png -> /usr/share/help/C/mate-cpufreq-applet/figures/cpufreq-applet-selector.png
+lrwxrwxrwx	root/root	usr/share/help/fil/mate-cpufreq-applet/figures/cpufreq-applet.png -> /usr/share/help/C/mate-cpufreq-applet/figures/cpufreq-applet.png
+-rw-r--r--	root/root	usr/share/help/fil/mate-cpufreq-applet/index.docbook
+-rw-r--r--	root/root	usr/share/help/fil/mate-cpufreq-applet/legal.xml
 drwxr-xr-x	root/root	usr/share/help/fil/mate-geyes/
 drwxr-xr-x	root/root	usr/share/help/fil/mate-geyes/figures/
 lrwxrwxrwx	root/root	usr/share/help/fil/mate-geyes/figures/geyes_applet.png -> /usr/share/help/C/mate-geyes/figures/geyes_applet.png
 -rw-r--r--	root/root	usr/share/help/fil/mate-geyes/index.docbook
 -rw-r--r--	root/root	usr/share/help/fil/mate-geyes/legal.xml
+drwxr-xr-x	root/root	usr/share/help/fil/mate-trashapplet/
+drwxr-xr-x	root/root	usr/share/help/fil/mate-trashapplet/figures/
+lrwxrwxrwx	root/root	usr/share/help/fil/mate-trashapplet/figures/trash-applet.png -> /usr/share/help/C/mate-trashapplet/figures/trash-applet.png
+-rw-r--r--	root/root	usr/share/help/fil/mate-trashapplet/index.docbook
+-rw-r--r--	root/root	usr/share/help/fil/mate-trashapplet/legal.xml
 drwxr-xr-x	root/root	usr/share/help/fr/
 drwxr-xr-x	root/root	usr/share/help/fr/mate-accessx-status/
 drwxr-xr-x	root/root	usr/share/help/fr/mate-accessx-status/figures/
