@@ -183,10 +183,10 @@ f:bcb090986dbbde7837eec90c20fde13a:mate-power-manager/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:mate-power-manager/post-install
 f:65652fa7424ec1d7e9d45ad511d2b341:mate-power-manager/Pkgfile
 f:2e768cbacac77a4e12b8f51e9e753384:mate-screensaver/.footprint
-f:99c0c134f8e393282117c8041047cf79:mate-screensaver/.signature
+f:3ce9f0e6c9cbd46e299078650d7bc7fd:mate-screensaver/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:mate-screensaver/post-install
 f:62a49e9509d1d621c8f3f27a52d546ef:mate-screensaver/mate-screensaver.pam
-f:7554c9ac939867bfc35d85697564a281:mate-screensaver/Pkgfile
+f:a94ded6afca9fff2d0d97a4a6d2a6495:mate-screensaver/Pkgfile
 f:4304db31dc12592637e43a41f1cabe11:mate-sensors-applet/.footprint
 f:8b67a026877463868865ce4eafb12138:mate-sensors-applet/.signature
 f:07e8d1e45f28272f736f56740325c501:mate-sensors-applet/Pkgfile
