@@ -4,14 +4,13 @@
 # Depends on: dbus-glib gtk3 consolekit gtk desktop-file-utils
 
 name=mate-session-manager
-version=1.22.0
-release=2
+version=1.22.1
+release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz \
-  start-mate msm-no-systemd.patch)
+  start-mate)
 
 build() {
   cd $name-$version
-  patch -p1 -i $SRC/msm-no-systemd.patch
   ./configure --prefix=/usr \
     --disable-docbook-docs \
     --disable-nls \

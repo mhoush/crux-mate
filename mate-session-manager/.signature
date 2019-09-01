@@ -1,7 +1,6 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOYWAke0JbGg1Qp8JsmdgUVkqdO2gl3mExZwK9MHCcV9c8AAS83a0X9u2d52QxwEsy28YT5WAFZLM9sc/caeZoAU=
-SHA256 (Pkgfile) = 0451ac805e1487def58f5aa33857f28cf21eb3aa5de1dbe4be1b51f4d61dde34
+RWTDGCtBFHpiOQjqo6aA1QOLK45pV8l9qAQzJLdGnoHiP3fNy71A+0TLgvksB/sQtsa2NhiQ98U0bgBFtkKS9ZO+YOfPEOkDOgA=
+SHA256 (Pkgfile) = 39c066fe5890c59cce75a483f1dd5317b998b242c1c6dd8c402d81b565e47c28
 SHA256 (.footprint) = fe29c987d7e5e1b9761d0cdd1c3f5791260140b245cc1fb412822286b31b816e
-SHA256 (mate-session-manager-1.22.0.tar.xz) = d2f35b500a255fdf9c2c289eaa21594e921ae9d08c75a52e39f505e0d5abeece
+SHA256 (mate-session-manager-1.22.1.tar.xz) = 2f1a68447a2ec30791e07865fd3747e367c3fffe8373d07ea948b0d759bca8c7
 SHA256 (start-mate) = 956c74cc3fb49d7e1bcb780d459db2638bda9113e5824c97507aafc0a9cae88b
-SHA256 (msm-no-systemd.patch) = 49b6c3d32a745529833d1e5b23443180935bd084438bfc457538ac70a4066b5b

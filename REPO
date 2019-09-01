@@ -192,11 +192,10 @@ f:7cb422cbf12ff579946b9a5075af104f:mate-sensors-applet/.signature
 f:16bc325858ef7bcd5439dc0750690adf:mate-sensors-applet/post-install
 f:ed9c4efa5b2a1b6d551a8c30dc8b480a:mate-sensors-applet/Pkgfile
 f:86e5638990ac6cf1d1eb469d999bdf1f:mate-session-manager/.footprint
-f:ba69f738262a9bd56a728256a0198d37:mate-session-manager/.signature
-f:3c3bc78acc15b7dcfbff92c112ebcce8:mate-session-manager/msm-no-systemd.patch
+f:a89ef09f27192048c844196f2eac4a85:mate-session-manager/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:mate-session-manager/post-install
 f:e66a535429566f7b2382fb1efb559700:mate-session-manager/start-mate
-f:1f34366ea04e9f091488eb2707b4e243:mate-session-manager/Pkgfile
+f:15c1dca8ea1567444bb29d4ba4ffe357:mate-session-manager/Pkgfile
 f:a218789e1eec95abc899a220191993f8:mate-settings-daemon/.footprint
 f:991551c26a37750c4773e95cb89d8241:mate-settings-daemon/.signature
 f:f4a299349bdd61f6aa68a49590f0f66d:mate-settings-daemon/Pkgfile
