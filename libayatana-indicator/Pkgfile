@@ -9,6 +9,7 @@ release=1
 source=(https://github.com/AyatanaIndicators/$name/archive/$version/$name-$version.tar.gz)
 
 build() {
+	CFLAGS="${CFLAGS} -Wno-error"
 	cd $name-$version
 	autoreconf -vfi
 	./configure --prefix=/usr \
