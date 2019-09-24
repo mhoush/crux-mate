@@ -111,8 +111,8 @@ f:15c1dca8ea1567444bb29d4ba4ffe357:mate-session-manager/Pkgfile
 f:a89ef09f27192048c844196f2eac4a85:mate-session-manager/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:engrampa/post-install
 f:ca71732efbd189e784b4d6b3af2a45e8:engrampa/.footprint
-f:8a6bf549f37c5d054f64004c1d011a6e:engrampa/Pkgfile
-f:a36da94ed0877ed395d548c12d059842:engrampa/.signature
+f:54aabef02b6605f96e2c767fe32f7977:engrampa/Pkgfile
+f:0b2c6c41fffa6f60be0a8d2f3e3f6fb8:engrampa/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:mate-terminal/post-install
 f:026f84131fdb7f8ffdd2fbff86ff949a:mate-terminal/.footprint
 f:fcf77ac7b893dda52a3668b3b3be3bef:mate-terminal/Pkgfile
