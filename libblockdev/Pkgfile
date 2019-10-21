@@ -4,7 +4,7 @@
 # Depends on: parted nss cryptsetup libbytesize ndctl volume_key gobject-introspection libyaml
 
 name=libblockdev
-version=2.22
+version=2.23
 release=1
 source=(https://github.com/storaged-project/$name/releases/download/$version-1/$name-$version.tar.gz)
 

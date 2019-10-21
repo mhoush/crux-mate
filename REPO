@@ -96,8 +96,8 @@ f:8e03d197c24662a1673722efaccffa6e:libayatana-indicator/.footprint
 f:5b9095cc9b1bd9f9a7b1534d013af7c9:libayatana-indicator/.signature
 f:73238ecb4d28b154fc1d181365848f64:libayatana-indicator/Pkgfile
 f:c7960410726f92f17cc8be22ca58b621:libblockdev/.footprint
-f:9dd5e2d45a2bc1184dfda694a6fd092f:libblockdev/.signature
-f:10812127f1f46dbdaf3cf9d4bf955994:libblockdev/Pkgfile
+f:b027e889c9a1324e5a236ee1f44cd659:libblockdev/.signature
+f:ea7f2b0e4550655547a029ffdee14401:libblockdev/Pkgfile
 f:375298cb3ff9c6a575a45d3ad4b68ac0:libbytesize/.footprint
 f:1d4d28d0651421e30c3f68a3dfb3af86:libbytesize/.signature
 f:0b58af297a26851bcb44f024d92b86ca:libbytesize/Pkgfile

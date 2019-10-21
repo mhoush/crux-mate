@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOQwXJEHG8LsAGsbtgINRM/j/yEPo1x7N7e+9jafYCnW3aWIc1u0oYGqQYl1551BwR+N/sX1vGe6ThfJYAXLjsgo=
-SHA256 (Pkgfile) = e87de371cce6b9645ac269af79f04335b87be7e339624dc859d2c1ebf4aff813
+RWTDGCtBFHpiORgTbn8eVeVZmO7fzx6gdQJkejE3wBpHg6uGUL+LopmWucNM6WMXi97Og3gkwby9hcXtQHVz/TVhBg9tBY+tLgg=
+SHA256 (Pkgfile) = 588c2cd3ad0183981a47fcb418a8ba02554e4e2d12028d762f99e899bd501247
 SHA256 (.footprint) = 9d3f8c11ee59593b7bc39d975edb8131f25ae31c4bd56e42b055ad1e5664f6ac
-SHA256 (libblockdev-2.22.tar.gz) = 3cf4aea5f48da0cfa59737f91ebf2a2d6424cb59b4180c9716fff3d49fd90ce0
+SHA256 (libblockdev-2.23.tar.gz) = 55ce2ab0f598e34dadb11563d62582c52abaf6daf71c6318f215aab99e788795
