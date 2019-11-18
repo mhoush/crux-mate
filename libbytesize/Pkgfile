@@ -10,7 +10,8 @@ source=(https://github.com/storaged-project/$name/releases/download/$version/$na
 
 build() {
   cd $name-$version
-  ./configure --prefix=/usr
+  ./configure --prefix=/usr \
+    --without-gtk-doc
   make
   make DESTDIR=$PKG install
 

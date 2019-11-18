@@ -99,8 +99,8 @@ f:c7960410726f92f17cc8be22ca58b621:libblockdev/.footprint
 f:b027e889c9a1324e5a236ee1f44cd659:libblockdev/.signature
 f:ea7f2b0e4550655547a029ffdee14401:libblockdev/Pkgfile
 f:375298cb3ff9c6a575a45d3ad4b68ac0:libbytesize/.footprint
-f:1d4d28d0651421e30c3f68a3dfb3af86:libbytesize/.signature
-f:0b58af297a26851bcb44f024d92b86ca:libbytesize/Pkgfile
+f:bc4a42390479b30f7555205abe31a405:libbytesize/.signature
+f:15058541ce8e28a403f6ec4453a0a47c:libbytesize/Pkgfile
 f:f517ec8f2ecc5ea09019c48c8ed3e9aa:libgnome-keyring/.footprint
 f:c58f26d27f3a660a5d4147d064215a63:libgnome-keyring/.signature
 f:251cfc6e0a8e57a5fb111a055b6167cd:libgnome-keyring/Pkgfile
