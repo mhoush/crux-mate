@@ -4,13 +4,14 @@
 # Depends on: libmatemixer gtk3 libcanberra mate-desktop mate-panel
 
 name=mate-media
-version=1.22.1
+version=1.22.2
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
   cd $name-$version
   ./configure --prefix=/usr \
+    --libexecdir=/usr/lib/$name \
     --disable-nls
   make
   make DESTDIR=$PKG install

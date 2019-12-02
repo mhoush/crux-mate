@@ -160,10 +160,10 @@ f:69a98042dfca2f177238972fbfcac43a:mate-indicator-applet/.footprint
 f:38663b1c5cb37afa6f5f3e788af0c11b:mate-indicator-applet/.signature
 f:6f2b09cdb4f6b318afb64b7f992ca9df:mate-indicator-applet/Pkgfile
 f:f96e6792920155ae9027e6b5e7352293:mate-indicator-applet/post-install
-f:0443322632c474f1e015825140889e32:mate-media/.footprint
-f:740aa6f21565d46545bf1a36545bbdc2:mate-media/.signature
+f:485688a1ca265eb0bcb4cf136269c29e:mate-media/.footprint
+f:7cceb58cf5766e0dd9fe71a5fadd6da1:mate-media/.signature
 f:d3633885bdb1db84d29256e9542f9546:mate-media/post-install
-f:f351513544f33d7a1d28b82547283d11:mate-media/Pkgfile
+f:11155ab2c3a26993b3a4cd493c180664:mate-media/Pkgfile
 f:1e1f979808c3f84fcc95a9d98952f5d6:mate-menus/.footprint
 f:f653b39c02b596bbaac4c9599e739c36:mate-menus/.signature
 f:d5f67b24a53db1fa870c055539770d44:mate-menus/Pkgfile

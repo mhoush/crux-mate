@@ -6,8 +6,9 @@ drwxr-xr-x	root/root	usr/etc/
 drwxr-xr-x	root/root	usr/etc/xdg/
 drwxr-xr-x	root/root	usr/etc/xdg/autostart/
 -rw-r--r--	root/root	usr/etc/xdg/autostart/mate-volume-control-status-icon.desktop
-drwxr-xr-x	root/root	usr/libexec/
--rwxr-xr-x	root/root	usr/libexec/mate-volume-control-applet
+drwxr-xr-x	root/root	usr/lib/
+drwxr-xr-x	root/root	usr/lib/mate-media/
+-rwxr-xr-x	root/root	usr/lib/mate-media/mate-volume-control-applet
 drwxr-xr-x	root/root	usr/share/
 drwxr-xr-x	root/root	usr/share/applications/
 -rw-r--r--	root/root	usr/share/applications/mate-volume-control.desktop
