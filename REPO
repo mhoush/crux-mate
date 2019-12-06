@@ -91,8 +91,8 @@ f:7d5ed90b21d23c7da8f66228f0c0ba06:libmatekbd/.footprint
 f:7f4b0e59f39dda18b81b55b269d6888e:gnome-common/.signature
 f:c674c455d34f1dddce7533d49e7d2af8:gnome-common/Pkgfile
 f:3ef5f1d63964dbd2af941fb5a56f4b79:gnome-common/.footprint
-f:991551c26a37750c4773e95cb89d8241:mate-settings-daemon/.signature
-f:f4a299349bdd61f6aa68a49590f0f66d:mate-settings-daemon/Pkgfile
+f:68dd449a3005e9dd68ca716febcb2889:mate-settings-daemon/.signature
+f:622d81bc4225491413a7deba1f93d625:mate-settings-daemon/Pkgfile
 f:06567701be675f5297f20c6aa07c22f7:mate-settings-daemon/post-install
 f:a218789e1eec95abc899a220191993f8:mate-settings-daemon/.footprint
 f:97db9991e547d2c9b28d773b71bbe98a:mate.pub
