@@ -111,8 +111,8 @@ f:0f41bdc1b56ac3ee59f2ca14837a9e61:consolekit/.signature
 f:e7d40e0fa5549790b8749b0ceff0ddc3:consolekit/revert-4f8822.diff
 f:40849574db0f54a7993204d9724811f8:consolekit/Pkgfile
 f:a6445d64bdbae3cd83c321418b8d0f10:consolekit/.footprint
-f:a2ee4d6fe69a86939a56a24bb27b0f6b:mate-notification-daemon/.signature
-f:f2cab928f9e5218ddaddd95c971ecb11:mate-notification-daemon/Pkgfile
+f:fcbbd9e98f928ed9a30db4a73e69ea3e:mate-notification-daemon/.signature
+f:9b8fc6f2b7bcb455883779909bd78157:mate-notification-daemon/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:mate-notification-daemon/post-install
 f:d0715c40b7c3db5782ad41a9d1002120:mate-notification-daemon/.footprint
 f:a9f58e20903b645256121c86aab79511:libmateweather/.signature
