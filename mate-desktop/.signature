@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOYUiKiFSr7wj6P8+Yox4vmBNmQ+v8Sx1Vb1LHj7rSTRZ5/ef8qhSShAV23DdnQ6FbiKmXYrubmdaIKO3uSHilwA=
-SHA256 (Pkgfile) = c3b5e9cadf35d411ec2e63368ff16c7c4c91ce2514b5cb7eaf37a47781454d61
+RWTDGCtBFHpiOS3elQbWzla+F1DQboEaJ9Km8cAtAlemG7iU4fybIc9sMlzxx97XlSy7b5kBITUEJa2pFgYFZ4krluOTTj5PHw8=
+SHA256 (Pkgfile) = 1e71baf6fb6cbc78a3f41e4496ea33c350d0fd1f30c411770f5506ef3b08f51c
 SHA256 (.footprint) = 6fa21cb6673e84428fada4c6eadeb7037683a44fa13d7a7320c50a14bf2f1144
-SHA256 (mate-desktop-1.22.1.tar.xz) = 203be6a518a1c0f9afd077a977be939c11afe9f56c5dac58c69a958292c924c3
+SHA256 (mate-desktop-1.22.2.tar.xz) = 906673d5de5e6814e73c4448b8cb67c5b86e90f9a72ae131eefbe2356eca85a3

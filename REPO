@@ -80,8 +80,8 @@ f:5aa08c488e574aa4c7faedda90b83040:mate-system-monitor/msm-cpu-colors.patch
 f:874f58101a6c04d152dae67ec87e6bd3:mate-system-monitor/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:mate-system-monitor/post-install
 f:795247148535fd5bff161df228d851de:mate-system-monitor/.footprint
-f:9b8f0e730b20617d8fd97cc0f33f57a4:mate-desktop/.signature
-f:dd1d0979e6414664e483e85cf4867796:mate-desktop/Pkgfile
+f:0c2bfaf1de18494d4fded7f1d0e8a1ee:mate-desktop/.signature
+f:9546025a0fe7c7b50153cc3ffe5cb317:mate-desktop/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:mate-desktop/post-install
 f:f37630d4cece3e9a3a0cf3dcbaa1e845:mate-desktop/.footprint
 f:46f29660560de09b058d260006363ffc:libmatekbd/.signature
