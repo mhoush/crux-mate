@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOVnE+xmigI8EAtgoZO6bvQ2ttfe7rafRTQvjUYdNBzW7y3TvetSr6JGLqQFZlfVf+8ma2DLPMIDjUnF3PVRSawo=
-SHA256 (Pkgfile) = fe258ea8126af608d2e8cfc83288c8dc7bc8aa491eeaa0a945f980b302a24eb3
+RWTDGCtBFHpiOdxdPlVOOTfzeO62mT3QeHo7m68PWx6wflX+5IyMndSVolh/QMRyVVXcrcq2ORMJZ0284JcH4b20HmwQBk5m8A8=
+SHA256 (Pkgfile) = 005a4e96a730c8c18c99a0f0b5395b886f7e4c5a8c7119a028e543afc4414721
 SHA256 (.footprint) = e144ecd0d0203ed99b1743b91cc7a897998422e400b3a60e6556bbca0d935161
-SHA256 (mate-indicator-applet-1.22.0.tar.xz) = a10babfe0a07b6d7b2dc959084e423ee215914d9b03b98c4a8c446b671404d7d
+SHA256 (mate-indicator-applet-1.22.1.tar.xz) = 82831ef06f734d3aba350bed8872886d4dd0d0d8fda823c15f39f449b2d14516
