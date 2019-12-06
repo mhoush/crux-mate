@@ -75,11 +75,11 @@ f:b53727332a23a843fd6a7c2e6611dad6:mate-indicator-applet/.signature
 f:d59b5ee54d816eb254a0a9c49a2a1e3b:mate-indicator-applet/Pkgfile
 f:f96e6792920155ae9027e6b5e7352293:mate-indicator-applet/post-install
 f:69a98042dfca2f177238972fbfcac43a:mate-indicator-applet/.footprint
-f:bfea823151acee2c030a13b868022f2d:mate-system-monitor/.signature
+f:d866b9da2836d45a4eb1e68f3a6610d7:mate-system-monitor/.signature
 f:5aa08c488e574aa4c7faedda90b83040:mate-system-monitor/msm-cpu-colors.patch
-f:874f58101a6c04d152dae67ec87e6bd3:mate-system-monitor/Pkgfile
+f:8925ded6a94b736086de3e318cd52faf:mate-system-monitor/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:mate-system-monitor/post-install
-f:795247148535fd5bff161df228d851de:mate-system-monitor/.footprint
+f:0b1b6fffe08b199e60b4ed0f7cd6cacc:mate-system-monitor/.footprint
 f:0c2bfaf1de18494d4fded7f1d0e8a1ee:mate-desktop/.signature
 f:9546025a0fe7c7b50153cc3ffe5cb317:mate-desktop/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:mate-desktop/post-install
