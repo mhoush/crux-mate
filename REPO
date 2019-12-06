@@ -179,10 +179,10 @@ f:07a26cfb0a3138b4a29a4974cf65dc03:zenity/.footprint
 f:723a79315cd3c2bf3cb8923ad3626347:mate-backgrounds/.signature
 f:68a224dd9c56039fbb812691174e47dd:mate-backgrounds/Pkgfile
 f:0d8da14eba4dc05bfc13e51bca05aef3:mate-backgrounds/.footprint
-f:722ae6d4916da9b12f548e71262fca6a:mate-control-center/.signature
-f:48c1b2653c32093b4029cbda7d441022:mate-control-center/Pkgfile
+f:6f4de97a594b2ebbe98f073229c1ba7d:mate-control-center/.signature
+f:b5a37c7dc6eda50f1fa6fab8936013f8:mate-control-center/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:mate-control-center/post-install
-f:f1211326cbb1bb49d1075b17e65224bc:mate-control-center/.footprint
+f:ac64ca14ffff50c43d87c6a889bc7ecf:mate-control-center/.footprint
 f:f738ee698996b67fe598e5ff5983c31f:graphviz/.signature
 f:4793e18572a84c78f7532e00bf6aeb0b:graphviz/Pkgfile
 f:9ee51692ba8e1a1c209ec901c00fe295:graphviz/.footprint
