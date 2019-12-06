@@ -96,8 +96,8 @@ f:f4a299349bdd61f6aa68a49590f0f66d:mate-settings-daemon/Pkgfile
 f:06567701be675f5297f20c6aa07c22f7:mate-settings-daemon/post-install
 f:a218789e1eec95abc899a220191993f8:mate-settings-daemon/.footprint
 f:97db9991e547d2c9b28d773b71bbe98a:mate.pub
-f:19004c9ad958fb13b22d27072955feb2:caja/.signature
-f:52c2b3a6d2cad2af9abbea3e91d69802:caja/Pkgfile
+f:5779fcb883f14ed79342aa9ea969c5f9:caja/.signature
+f:458512489b511784774001b1a3b3f84b:caja/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:caja/post-install
 f:94ba0dd34f7e44921339adfeac088aea:caja/.footprint
 f:e3cbf863b1f19cea2ecb10606283fdd0:udisks2/.signature
