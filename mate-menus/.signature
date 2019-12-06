@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOQFrM+CuVeWphSJu8Bdig9eI4qhuKJL8gEhNXtRQ8B2gXyRrPwJibGidaHRd2AtcyZ3rh1h8SBLQ+7jIs8MoWQM=
-SHA256 (Pkgfile) = 0a61563123785b6840a5b395f7912ba49f9f756a0ca8ebbbf4297ff24d6753db
+RWTDGCtBFHpiOYt/ztwjCPDruofgyka0WkHtPETdW7nvxWGUO+35o7W2t3+KDEoS3wwxOnJpdmKp1cZmgFEKk/cQHMMcFe+jZAs=
+SHA256 (Pkgfile) = 62d61ac391ae4ca34f3b98be7b9d8f9787ac57e4042709af58c29331c791c900
 SHA256 (.footprint) = 0f0952faaed4bda97add0e98ea7df0b8aa3f162232f044992573b85842fba45a
-SHA256 (mate-menus-1.22.0.tar.xz) = acec93a66154fdbd78404680fca5a99112085cb99d7c43022b010527dc9a6ad2
+SHA256 (mate-menus-1.22.1.tar.xz) = 800d26bdba7762660ec8513cf5bcc58ff173fa1ae96621b21d17e6e0ccf1064e
