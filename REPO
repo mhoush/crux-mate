@@ -122,9 +122,9 @@ f:411d1b30614d450763a47205d01562cc:libmateweather/.footprint
 f:be9714464f578fc63d0d614bc9170f2a:libatasmart/.signature
 f:dc94ba3d088d5681c3f1b053e313babf:libatasmart/Pkgfile
 f:076c350230a7e161f1feab580ecbcb42:libatasmart/.footprint
-f:a89ef09f27192048c844196f2eac4a85:mate-session-manager/.signature
+f:12289f6efe899f0ba084428c88c54bad:mate-session-manager/.signature
 f:e66a535429566f7b2382fb1efb559700:mate-session-manager/start-mate
-f:15c1dca8ea1567444bb29d4ba4ffe357:mate-session-manager/Pkgfile
+f:f2226e62e9e72131d96c695d6715b8e2:mate-session-manager/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:mate-session-manager/post-install
 f:86e5638990ac6cf1d1eb469d999bdf1f:mate-session-manager/.footprint
 f:ea87ca335d35886e837600c8d6f6216a:libgtop/.signature
