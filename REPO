@@ -115,8 +115,8 @@ f:a2ee4d6fe69a86939a56a24bb27b0f6b:mate-notification-daemon/.signature
 f:f2cab928f9e5218ddaddd95c971ecb11:mate-notification-daemon/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:mate-notification-daemon/post-install
 f:d0715c40b7c3db5782ad41a9d1002120:mate-notification-daemon/.footprint
-f:9c9e00c1a0c1a4b4db169dad63850bc6:libmateweather/.signature
-f:fabb43cef84d42a4fc403e49fc830aad:libmateweather/Pkgfile
+f:a9f58e20903b645256121c86aab79511:libmateweather/.signature
+f:fdacbffa46b196c8601548d99f331bc0:libmateweather/Pkgfile
 f:5d04f55a1f7c25393f566f8164c96191:libmateweather/post-install
 f:411d1b30614d450763a47205d01562cc:libmateweather/.footprint
 f:be9714464f578fc63d0d614bc9170f2a:libatasmart/.signature
