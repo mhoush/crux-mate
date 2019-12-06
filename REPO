@@ -203,8 +203,8 @@ f:e6f89f13025642817d20c9a67e997418:mate-terminal/.signature
 f:fcf77ac7b893dda52a3668b3b3be3bef:mate-terminal/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:mate-terminal/post-install
 f:026f84131fdb7f8ffdd2fbff86ff949a:mate-terminal/.footprint
-f:3ce9f0e6c9cbd46e299078650d7bc7fd:mate-screensaver/.signature
-f:a94ded6afca9fff2d0d97a4a6d2a6495:mate-screensaver/Pkgfile
+f:be6ed8ab3449ac3cafcc1fd94d386a60:mate-screensaver/.signature
+f:1c653e3ccc39efdfdb6150cfe4cbb7b9:mate-screensaver/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:mate-screensaver/post-install
 f:2e768cbacac77a4e12b8f51e9e753384:mate-screensaver/.footprint
 f:62a49e9509d1d621c8f3f27a52d546ef:mate-screensaver/mate-screensaver.pam
