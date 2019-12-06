@@ -162,10 +162,10 @@ f:0266ca65c79075bbb6bfb3456c0be848:engrampa/.signature
 f:54c67642095ab0ab37f7d66773809a57:engrampa/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:engrampa/post-install
 f:ca71732efbd189e784b4d6b3af2a45e8:engrampa/.footprint
-f:ec30b1d734443ebda26b01ece15fe495:mate-panel/.signature
-f:d14202e5770ee5da5a446e8a6f794101:mate-panel/Pkgfile
+f:39013f91e07d62035cf780c3863642ef:mate-panel/.signature
+f:8bfd9188aa6361d783a3405f053b792e:mate-panel/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:mate-panel/post-install
-f:8b1a53bf7371a49d8a8b287844729e19:mate-panel/.footprint
+f:8ede2f7350bd317ce111181ead78ba6d:mate-panel/.footprint
 f:bc4a42390479b30f7555205abe31a405:libbytesize/.signature
 f:15058541ce8e28a403f6ec4453a0a47c:libbytesize/Pkgfile
 f:375298cb3ff9c6a575a45d3ad4b68ac0:libbytesize/.footprint

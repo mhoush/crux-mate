@@ -749,6 +749,17 @@ drwxr-xr-x	root/root	usr/share/help/id/mate-fish/figures/
 lrwxrwxrwx	root/root	usr/share/help/id/mate-fish/figures/fish_applet.png -> /usr/share/help/C/mate-fish/figures/fish_applet.png
 -rw-r--r--	root/root	usr/share/help/id/mate-fish/index.docbook
 -rw-r--r--	root/root	usr/share/help/id/mate-fish/legal.xml
+drwxr-xr-x	root/root	usr/share/help/ie/
+drwxr-xr-x	root/root	usr/share/help/ie/mate-clock/
+drwxr-xr-x	root/root	usr/share/help/ie/mate-clock/figures/
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-clock/figures/clock_applet.png -> /usr/share/help/C/mate-clock/figures/clock_applet.png
+-rw-r--r--	root/root	usr/share/help/ie/mate-clock/index.docbook
+-rw-r--r--	root/root	usr/share/help/ie/mate-clock/legal.xml
+drwxr-xr-x	root/root	usr/share/help/ie/mate-fish/
+drwxr-xr-x	root/root	usr/share/help/ie/mate-fish/figures/
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-fish/figures/fish_applet.png -> /usr/share/help/C/mate-fish/figures/fish_applet.png
+-rw-r--r--	root/root	usr/share/help/ie/mate-fish/index.docbook
+-rw-r--r--	root/root	usr/share/help/ie/mate-fish/legal.xml
 drwxr-xr-x	root/root	usr/share/help/ig/
 drwxr-xr-x	root/root	usr/share/help/ig/mate-clock/
 drwxr-xr-x	root/root	usr/share/help/ig/mate-clock/figures/
