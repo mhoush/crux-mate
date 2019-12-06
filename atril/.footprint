@@ -459,6 +459,12 @@ drwxr-xr-x	root/root	usr/share/help/id/atril/figures/
 lrwxrwxrwx	root/root	usr/share/help/id/atril/figures/atril_start_window.png -> /usr/share/help/C/atril/figures/atril_start_window.png
 -rw-r--r--	root/root	usr/share/help/id/atril/index.docbook
 -rw-r--r--	root/root	usr/share/help/id/atril/legal.xml
+drwxr-xr-x	root/root	usr/share/help/ie/
+drwxr-xr-x	root/root	usr/share/help/ie/atril/
+drwxr-xr-x	root/root	usr/share/help/ie/atril/figures/
+lrwxrwxrwx	root/root	usr/share/help/ie/atril/figures/atril_start_window.png -> /usr/share/help/C/atril/figures/atril_start_window.png
+-rw-r--r--	root/root	usr/share/help/ie/atril/index.docbook
+-rw-r--r--	root/root	usr/share/help/ie/atril/legal.xml
 drwxr-xr-x	root/root	usr/share/help/ig/
 drwxr-xr-x	root/root	usr/share/help/ig/atril/
 drwxr-xr-x	root/root	usr/share/help/ig/atril/figures/
