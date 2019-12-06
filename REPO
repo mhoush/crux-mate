@@ -231,10 +231,10 @@ f:9f2dab38ac063691069b9edc449282c9:mate-applets/.footprint
 f:85437b59a7c1522fdcf663734c020779:volume_key/.signature
 f:182fa29453453267ae1ebdb282414950:volume_key/Pkgfile
 f:db87de63d9026a982b36debf318dad93:volume_key/.footprint
-f:580e7a650c52eb2104ae07f0552a9c13:pluma/.signature
-f:c8d5d81da03786c89f0f5f60c12d02ff:pluma/Pkgfile
+f:6cffe5cbb9b562fcac1141b5025bd1d2:pluma/.signature
+f:efa062bfa7c09416092c577a47ed5d15:pluma/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:pluma/post-install
-f:48b4c2c6bd54019fac9ad1ed264f58e0:pluma/.footprint
+f:f6ac2e98a6126ff61e79f4420372cea4:pluma/.footprint
 f:7cceb58cf5766e0dd9fe71a5fadd6da1:mate-media/.signature
 f:11155ab2c3a26993b3a4cd493c180664:mate-media/Pkgfile
 f:d3633885bdb1db84d29256e9542f9546:mate-media/post-install
