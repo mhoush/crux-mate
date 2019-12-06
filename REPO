@@ -130,8 +130,8 @@ f:86e5638990ac6cf1d1eb469d999bdf1f:mate-session-manager/.footprint
 f:ea87ca335d35886e837600c8d6f6216a:libgtop/.signature
 f:9a652adb3c48575a13d0a12db6e35825:libgtop/Pkgfile
 f:c65c2eec3a2097c719e1f5da395c0eea:libgtop/.footprint
-f:7f862d84bea458a683ad670b6366bcb1:mozo/.signature
-f:666c60ae8801c20664e9dc3eb023d78e:mozo/Pkgfile
+f:72f0ca22128c93156c8c9f0a571ad5e5:mozo/.signature
+f:747b59d6ad4306fb8303274a980b1b02:mozo/Pkgfile
 f:e6bb92f40645c637b6bdfd3df85fbd8e:mozo/post-install
 f:4da3462e9c91aef1f050756615a9943d:mozo/.footprint
 f:cb109b7d3beef476e187094019f7a078:mate-icon-theme/.signature
