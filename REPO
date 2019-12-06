@@ -169,10 +169,10 @@ f:8ede2f7350bd317ce111181ead78ba6d:mate-panel/.footprint
 f:bc4a42390479b30f7555205abe31a405:libbytesize/.signature
 f:15058541ce8e28a403f6ec4453a0a47c:libbytesize/Pkgfile
 f:375298cb3ff9c6a575a45d3ad4b68ac0:libbytesize/.footprint
-f:bcb090986dbbde7837eec90c20fde13a:mate-power-manager/.signature
-f:65652fa7424ec1d7e9d45ad511d2b341:mate-power-manager/Pkgfile
+f:afe791e40e49b493506fac85c1b005c6:mate-power-manager/.signature
+f:21422bce1e4b3e6662babba27001cf91:mate-power-manager/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:mate-power-manager/post-install
-f:e042bbce41296efc55067d7d1d5d0548:mate-power-manager/.footprint
+f:1669ffde4f0e36c14dbf46018bed4d93:mate-power-manager/.footprint
 f:4d5f9b79f507976c3e6dc4cea2812e98:zenity/.signature
 f:053f7ca31f866bd4b7496a1814b7128f:zenity/Pkgfile
 f:07a26cfb0a3138b4a29a4974cf65dc03:zenity/.footprint

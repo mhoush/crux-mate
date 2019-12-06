@@ -962,6 +962,24 @@ lrwxrwxrwx	root/root	usr/share/help/id/mate-power-manager/figures/gpm-unplugged.
 lrwxrwxrwx	root/root	usr/share/help/id/mate-power-manager/figures/gs-prefs.png -> /usr/share/help/C/mate-power-manager/figures/gs-prefs.png
 -rw-r--r--	root/root	usr/share/help/id/mate-power-manager/index.docbook
 -rw-r--r--	root/root	usr/share/help/id/mate-power-manager/legal.xml
+drwxr-xr-x	root/root	usr/share/help/ie/
+drwxr-xr-x	root/root	usr/share/help/ie/mate-power-manager/
+drwxr-xr-x	root/root	usr/share/help/ie/mate-power-manager/figures/
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-power-manager/figures/applet-brightness.png -> /usr/share/help/C/mate-power-manager/figures/applet-brightness.png
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-power-manager/figures/applet-inhibit.png -> /usr/share/help/C/mate-power-manager/figures/applet-inhibit.png
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-power-manager/figures/gpm-cell-capacity.png -> /usr/share/help/C/mate-power-manager/figures/gpm-cell-capacity.png
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-power-manager/figures/gpm-charged.png -> /usr/share/help/C/mate-power-manager/figures/gpm-charged.png
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-power-manager/figures/gpm-critical.png -> /usr/share/help/C/mate-power-manager/figures/gpm-critical.png
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-power-manager/figures/gpm-low.png -> /usr/share/help/C/mate-power-manager/figures/gpm-low.png
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-power-manager/figures/gpm-prefs-ac.png -> /usr/share/help/C/mate-power-manager/figures/gpm-prefs-ac.png
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-power-manager/figures/gpm-prefs-battery.png -> /usr/share/help/C/mate-power-manager/figures/gpm-prefs-battery.png
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-power-manager/figures/gpm-prefs-general.png -> /usr/share/help/C/mate-power-manager/figures/gpm-prefs-general.png
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-power-manager/figures/gpm-stats-graph.png -> /usr/share/help/C/mate-power-manager/figures/gpm-stats-graph.png
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-power-manager/figures/gpm-suspend-problem.png -> /usr/share/help/C/mate-power-manager/figures/gpm-suspend-problem.png
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-power-manager/figures/gpm-unplugged.png -> /usr/share/help/C/mate-power-manager/figures/gpm-unplugged.png
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-power-manager/figures/gs-prefs.png -> /usr/share/help/C/mate-power-manager/figures/gs-prefs.png
+-rw-r--r--	root/root	usr/share/help/ie/mate-power-manager/index.docbook
+-rw-r--r--	root/root	usr/share/help/ie/mate-power-manager/legal.xml
 drwxr-xr-x	root/root	usr/share/help/ig/
 drwxr-xr-x	root/root	usr/share/help/ig/mate-power-manager/
 drwxr-xr-x	root/root	usr/share/help/ig/mate-power-manager/figures/
