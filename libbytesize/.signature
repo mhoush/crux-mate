@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOdW7V+vErvdFTqt2W67r5LRO4GNEkdsoEpf8+56ZXGIom/APBtv+UKfwJ3BOxo7IOG0HnGn52qQ+ErACN92ZnQc=
-SHA256 (Pkgfile) = 83e7036b48360a977e740325d9f9a739b60adf203abda721d10d792f147eead3
+RWTDGCtBFHpiOencvsMR4wnzg/CgLA1cp2nz3fbnbEyk8HNconxgG1zm5RA89Widaa++inJh/bmpYpvIMstIixNDiNhQb/IiigI=
+SHA256 (Pkgfile) = 5714de39cd6ae7e381663dfeb39ae18db0299683c7c0cd65c0cd18772963722f
 SHA256 (.footprint) = 98abe15cc623e21e4fc6908fa426bb5494d5d383bed966ce513ebc838c9a1629
-SHA256 (libbytesize-2.1.tar.gz) = acc7d40237573adb958039bd9254155a41e57c363fce492f9e8768b42e4bffae
+SHA256 (libbytesize-2.2.tar.gz) = b93c54b502880c095c9f5767a42464853e2687db2e5e3084908a615bafe73baa
