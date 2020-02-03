@@ -4,7 +4,7 @@
 # Depends on: python3 libpcre2
 
 name=libbytesize
-version=2.0
+version=2.1
 release=1
 source=(https://github.com/storaged-project/$name/releases/download/$version/$name-$version.tar.gz)
 
