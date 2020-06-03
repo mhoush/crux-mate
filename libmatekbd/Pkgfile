@@ -4,7 +4,7 @@
 # Depends on: gtk3 libxklavier
 
 name=libmatekbd
-version=1.22.0
+version=1.24.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 

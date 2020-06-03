@@ -30,6 +30,3 @@ drwxr-xr-x	root/root	usr/share/gir-1.0/
 drwxr-xr-x	root/root	usr/share/glib-2.0/
 drwxr-xr-x	root/root	usr/share/glib-2.0/schemas/
 -rw-r--r--	root/root	usr/share/glib-2.0/schemas/org.mate.peripherals-keyboard-xkb.gschema.xml
-drwxr-xr-x	root/root	usr/share/libmatekbd/
-drwxr-xr-x	root/root	usr/share/libmatekbd/ui/
--rw-r--r--	root/root	usr/share/libmatekbd/ui/show-layout.ui

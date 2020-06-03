@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOYoYMcXJSc7EP90rPQChz9oFOh7fubVgXurn7HPqWJ2w50dCKmB48LsYH0VzUxwP0l4XsFn0GJDqwq6yEfVH+Qo=
-SHA256 (Pkgfile) = 1c7719ddb7c96c2e8407bea614e9cc896525b7faedf19f31537cd03412ba00ba
+RWTDGCtBFHpiOeyYjn3bDORMc57/5KA4SapVcTgoumJkfEb90lkOUbjR7rjY7U9X1Q8RpJuNa6xO7D6E1Qiv0MbPJrIn4MgT+gY=
+SHA256 (Pkgfile) = 7a767ca6f3de7bd3144e51289cfdb3dfbbf8ec8c7bec68665e4b95e6fd4295a0
 SHA256 (.footprint) = 0729a69f46bdfb6a5f851efdb5f37f8468aa674773d4b9878acb980b81636707
 SHA256 (mozjs-60.1.0.tar.bz2) = 834ffe877fdbbd81315ae3c101221fa404096c354483a86c1a02ece19fca68fd

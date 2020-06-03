@@ -4,7 +4,7 @@
 # Depends on: dbus-glib gtk3 consolekit gtk desktop-file-utils
 
 name=mate-session-manager
-version=1.22.2
+version=1.24.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz \
   start-mate)
@@ -18,7 +18,7 @@ build() {
   make
   make DESTDIR=$PKG install
 
-  rm -r $PKG/usr/share/locale
+  #rm -r $PKG/usr/share/locale
 
   install -o root -g root -m 0755 $SRC/start-mate \
     $PKG/usr/bin/start-mate

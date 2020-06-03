@@ -49,5 +49,3 @@ drwxr-xr-x	root/root	usr/share/icons/hicolor/scalable/apps/
 drwxr-xr-x	root/root	usr/share/man/
 drwxr-xr-x	root/root	usr/share/man/man1/
 -rw-r--r--	root/root	usr/share/man/man1/mate-notification-properties.1.gz
-drwxr-xr-x	root/root	usr/share/mate-notification-daemon/
--rw-r--r--	root/root	usr/share/mate-notification-daemon/mate-notification-properties.ui

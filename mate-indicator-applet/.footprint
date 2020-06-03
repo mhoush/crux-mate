@@ -17,6 +17,6 @@ drwxr-xr-x	root/root	usr/share/icons/hicolor/scalable/apps/
 -rw-r--r--	root/root	usr/share/icons/hicolor/scalable/apps/mate-indicator-applet.svg
 drwxr-xr-x	root/root	usr/share/mate-panel/
 drwxr-xr-x	root/root	usr/share/mate-panel/applets/
--rw-r--r--	root/root	usr/share/mate-panel/applets/org.ayatana.panel.IndicatorApplet.mate-panel-applet
--rw-r--r--	root/root	usr/share/mate-panel/applets/org.ayatana.panel.IndicatorAppletAppmenu.mate-panel-applet
--rw-r--r--	root/root	usr/share/mate-panel/applets/org.ayatana.panel.IndicatorAppletComplete.mate-panel-applet
+-rw-r--r--	root/root	usr/share/mate-panel/applets/org.mate.applets.Indicator.mate-panel-applet
+-rw-r--r--	root/root	usr/share/mate-panel/applets/org.mate.applets.IndicatorAppmenu.mate-panel-applet
+-rw-r--r--	root/root	usr/share/mate-panel/applets/org.mate.applets.IndicatorComplete.mate-panel-applet

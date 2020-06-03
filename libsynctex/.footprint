@@ -1,0 +1,19 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/include/
+drwxr-xr-x	root/root	usr/include/synctex/
+-rw-r--r--	root/root	usr/include/synctex/synctex_parser.h
+-rw-r--r--	root/root	usr/include/synctex/synctex_parser_utils.h
+-rw-r--r--	root/root	usr/include/synctex/synctex_version.h
+drwxr-xr-x	root/root	usr/lib/
+-rwxr-xr-x	root/root	usr/lib/libsynctex.la
+lrwxrwxrwx	root/root	usr/lib/libsynctex.so -> libsynctex.so.2.0.0
+lrwxrwxrwx	root/root	usr/lib/libsynctex.so.2 -> libsynctex.so.2.0.0
+-rwxr-xr-x	root/root	usr/lib/libsynctex.so.2.0.0
+drwxr-xr-x	root/root	usr/lib/pkgconfig/
+-rw-r--r--	root/root	usr/lib/pkgconfig/synctex.pc
+drwxr-xr-x	root/root	usr/share/
+drwxr-xr-x	root/root	usr/share/man/
+drwxr-xr-x	root/root	usr/share/man/man1/
+-rw-r--r--	root/root	usr/share/man/man1/synctex.1.gz
+drwxr-xr-x	root/root	usr/share/man/man5/
+-rw-r--r--	root/root	usr/share/man/man5/synctex.5.gz

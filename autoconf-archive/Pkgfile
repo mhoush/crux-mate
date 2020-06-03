@@ -1,0 +1,19 @@
+# Description: A collection of freely reusable autoconf macros
+# URL: https://www.gnu.org/software/autoconf-archive/
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+
+name=autoconf-archive
+version=2019.01.06
+release=1
+source=(http://ftpmirror.gnu.org/$name/$name-$version.tar.xz)
+
+build() {
+	cd $name-$version
+	./configure --prefix=/usr
+	make
+	make DESTDIR=$PKG install
+
+	rm $PKG/usr/share/aclocal/ax_check_enable_debug.m4 \
+		$PKG/usr/share/aclocal/ax_code_coverage.m4
+
+}

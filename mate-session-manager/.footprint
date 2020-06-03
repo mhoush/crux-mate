@@ -6,6 +6,10 @@ drwxr-xr-x	root/root	usr/bin/
 -rwxr-xr-x	root/root	usr/bin/mate-session-save
 -rwxr-xr-x	root/root	usr/bin/mate-wm
 -rwxr-xr-x	root/root	usr/bin/start-mate
+drwxr-xr-x	root/root	usr/libexec/
+-rwxr-xr-x	root/root	usr/libexec/mate-session-check-accelerated
+-rwxr-xr-x	root/root	usr/libexec/mate-session-check-accelerated-gl-helper
+-rwxr-xr-x	root/root	usr/libexec/mate-session-check-accelerated-gles-helper
 drwxr-xr-x	root/root	usr/share/
 drwxr-xr-x	root/root	usr/share/applications/
 -rw-r--r--	root/root	usr/share/applications/mate-session-properties.desktop
@@ -41,6 +45,7 @@ drwxr-xr-x	root/root	usr/share/man/man1/
 -rw-r--r--	root/root	usr/share/man/man1/mate-wm.1.gz
 drwxr-xr-x	root/root	usr/share/mate-session-manager/
 -rw-r--r--	root/root	usr/share/mate-session-manager/gsm-inhibit-dialog.ui
+-rw-r--r--	root/root	usr/share/mate-session-manager/hardware-compatibility
 -rw-r--r--	root/root	usr/share/mate-session-manager/session-properties.ui
 drwxr-xr-x	root/root	usr/share/xsessions/
 -rw-r--r--	root/root	usr/share/xsessions/mate.desktop

@@ -3404,11 +3404,5 @@ drwxr-xr-x	root/root	usr/share/man/
 drwxr-xr-x	root/root	usr/share/man/man1/
 -rw-r--r--	root/root	usr/share/man/man1/mate-calc-cmd.1.gz
 -rw-r--r--	root/root	usr/share/man/man1/mate-calc.1.gz
-drwxr-xr-x	root/root	usr/share/mate-calc/
--rw-r--r--	root/root	usr/share/mate-calc/buttons-advanced.ui
--rw-r--r--	root/root	usr/share/mate-calc/buttons-basic.ui
--rw-r--r--	root/root	usr/share/mate-calc/buttons-financial.ui
--rw-r--r--	root/root	usr/share/mate-calc/buttons-programming.ui
--rw-r--r--	root/root	usr/share/mate-calc/preferences.ui
 drwxr-xr-x	root/root	usr/share/metainfo/
 -rw-r--r--	root/root	usr/share/metainfo/mate-calc.appdata.xml

@@ -378,6 +378,12 @@ drwxr-xr-x	root/root	usr/share/help/id/mate-sensors-applet/figures/
 lrwxrwxrwx	root/root	usr/share/help/id/mate-sensors-applet/figures/applet_in_panel.png -> /usr/share/help/C/mate-sensors-applet/figures/applet_in_panel.png
 -rw-r--r--	root/root	usr/share/help/id/mate-sensors-applet/index.docbook
 -rw-r--r--	root/root	usr/share/help/id/mate-sensors-applet/legal.xml
+drwxr-xr-x	root/root	usr/share/help/ie/
+drwxr-xr-x	root/root	usr/share/help/ie/mate-sensors-applet/
+drwxr-xr-x	root/root	usr/share/help/ie/mate-sensors-applet/figures/
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-sensors-applet/figures/applet_in_panel.png -> /usr/share/help/C/mate-sensors-applet/figures/applet_in_panel.png
+-rw-r--r--	root/root	usr/share/help/ie/mate-sensors-applet/index.docbook
+-rw-r--r--	root/root	usr/share/help/ie/mate-sensors-applet/legal.xml
 drwxr-xr-x	root/root	usr/share/help/ig/
 drwxr-xr-x	root/root	usr/share/help/ig/mate-sensors-applet/
 drwxr-xr-x	root/root	usr/share/help/ig/mate-sensors-applet/figures/

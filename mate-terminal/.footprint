@@ -366,6 +366,13 @@ lrwxrwxrwx	root/root	usr/share/help/id/mate-terminal/figures/mate-terminal-defau
 lrwxrwxrwx	root/root	usr/share/help/id/mate-terminal/figures/mate-terminal-tabbed.png -> /usr/share/help/C/mate-terminal/figures/mate-terminal-tabbed.png
 -rw-r--r--	root/root	usr/share/help/id/mate-terminal/index.docbook
 -rw-r--r--	root/root	usr/share/help/id/mate-terminal/legal.xml
+drwxr-xr-x	root/root	usr/share/help/ie/
+drwxr-xr-x	root/root	usr/share/help/ie/mate-terminal/
+drwxr-xr-x	root/root	usr/share/help/ie/mate-terminal/figures/
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-terminal/figures/mate-terminal-default.png -> /usr/share/help/C/mate-terminal/figures/mate-terminal-default.png
+lrwxrwxrwx	root/root	usr/share/help/ie/mate-terminal/figures/mate-terminal-tabbed.png -> /usr/share/help/C/mate-terminal/figures/mate-terminal-tabbed.png
+-rw-r--r--	root/root	usr/share/help/ie/mate-terminal/index.docbook
+-rw-r--r--	root/root	usr/share/help/ie/mate-terminal/legal.xml
 drwxr-xr-x	root/root	usr/share/help/ig/
 drwxr-xr-x	root/root	usr/share/help/ig/mate-terminal/
 drwxr-xr-x	root/root	usr/share/help/ig/mate-terminal/figures/

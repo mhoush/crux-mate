@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOQUSpiEaxd2giI7SejyteinM19MPSYNebS1vmwah+dwuSJH8xqq8Ne8DB79gnGVx21NUqrWkz8/u1ZxD3pa9eAM=
-SHA256 (Pkgfile) = ac95c262c3e2ca53442d7695b581ba83b42e7f5016276208c2cafab9ec63dfc8
-SHA256 (.footprint) = 1d48587817d73af4135b8125c00ed8bb0b40e52d5d77a829fc6961cdf0a37750
-SHA256 (mate-calc-1.22.2.tar.xz) = efe6818d0a89b5456246412ac3af2c9fea8b6c6a32226cfd26c8b1e6a17e44ab
+RWTDGCtBFHpiORVKPtSB+GS+086TpmWof9+bk60DKTh6xGBjQGzSWMse29XWkZRy+TijnAw1ahKQ9w3/SGnj7CBIaOJDQgwuCg0=
+SHA256 (Pkgfile) = a0a97df7ebbca1b510bafc869eb259388c0763e9e0ca32507dd0853b698b9bbf
+SHA256 (.footprint) = b931723df3b7820954afec2a110121f0e85c300890273cf3e1332138f1baa7cf
+SHA256 (mate-calc-1.24.0.tar.xz) = c188f3f6766c74317fc448c75c3dc6e066ea713a0f63bd3de36c06f25e60f038

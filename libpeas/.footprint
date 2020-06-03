@@ -27,6 +27,12 @@ drwxr-xr-x	root/root	usr/lib/girepository-1.0/
 lrwxrwxrwx	root/root	usr/lib/libpeas-1.0.so -> libpeas-1.0.so.0.2200.0
 lrwxrwxrwx	root/root	usr/lib/libpeas-1.0.so.0 -> libpeas-1.0.so.0.2200.0
 -rwxr-xr-x	root/root	usr/lib/libpeas-1.0.so.0.2200.0
+drwxr-xr-x	root/root	usr/lib/libpeas-1.0/
+drwxr-xr-x	root/root	usr/lib/libpeas-1.0/loaders/
+-rwxr-xr-x	root/root	usr/lib/libpeas-1.0/loaders/libpython3loader.la
+-rwxr-xr-x	root/root	usr/lib/libpeas-1.0/loaders/libpython3loader.so
+-rwxr-xr-x	root/root	usr/lib/libpeas-1.0/loaders/libpythonloader.la
+-rwxr-xr-x	root/root	usr/lib/libpeas-1.0/loaders/libpythonloader.so
 -rwxr-xr-x	root/root	usr/lib/libpeas-gtk-1.0.la
 lrwxrwxrwx	root/root	usr/lib/libpeas-gtk-1.0.so -> libpeas-gtk-1.0.so.0.2200.0
 lrwxrwxrwx	root/root	usr/lib/libpeas-gtk-1.0.so.0 -> libpeas-gtk-1.0.so.0.2200.0
@@ -37,6 +43,12 @@ drwxr-xr-x	root/root	usr/lib/peas-demo/plugins/helloworld/
 -rw-r--r--	root/root	usr/lib/peas-demo/plugins/helloworld/helloworld.plugin
 -rwxr-xr-x	root/root	usr/lib/peas-demo/plugins/helloworld/libhelloworld.la
 -rwxr-xr-x	root/root	usr/lib/peas-demo/plugins/helloworld/libhelloworld.so
+drwxr-xr-x	root/root	usr/lib/peas-demo/plugins/pythonhello/
+drwxr-xr-x	root/root	usr/lib/peas-demo/plugins/pythonhello/__pycache__/
+-rw-r--r--	root/root	usr/lib/peas-demo/plugins/pythonhello/__pycache__/pythonhello.cpython-37.opt-1.pyc
+-rw-r--r--	root/root	usr/lib/peas-demo/plugins/pythonhello/__pycache__/pythonhello.cpython-37.pyc
+-rw-r--r--	root/root	usr/lib/peas-demo/plugins/pythonhello/pythonhello.plugin
+-rw-r--r--	root/root	usr/lib/peas-demo/plugins/pythonhello/pythonhello.py
 drwxr-xr-x	root/root	usr/lib/peas-demo/plugins/secondtime/
 -rwxr-xr-x	root/root	usr/lib/peas-demo/plugins/secondtime/libsecondtime.la
 -rwxr-xr-x	root/root	usr/lib/peas-demo/plugins/secondtime/libsecondtime.so

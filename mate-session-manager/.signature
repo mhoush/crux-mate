@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOVK4/VUIYOBfwCXj0hdE4b+ybKAUlpXaENTSeebKQ4cbuRHCkB1rGF7hg5nTsEuspsgQ2h1LUtz+qOUAFrchwAY=
-SHA256 (Pkgfile) = 3474f92abb77bcc3c00c4b6881b8293308ae34324c869bf7f0a1019cc289c859
-SHA256 (.footprint) = fe29c987d7e5e1b9761d0cdd1c3f5791260140b245cc1fb412822286b31b816e
-SHA256 (mate-session-manager-1.22.2.tar.xz) = a814b07cbd42920ab86fe77c40f3e1ce7118cbc5da3251b1eb2ab9aa974c0aec
+RWTDGCtBFHpiOeIxABbUKdv9GjjHknC9ODgW3WCI5LsTssG7Mexfy2W6QOj6pJfm9vYKbLKsoMthhFG+VT10UuqdNj+/TqqDeQA=
+SHA256 (Pkgfile) = 11f60f5cd5870c74e66f144deaf4e244b94d8f5155e0fe5f3c21ba7e18db8af7
+SHA256 (.footprint) = 9f4713fa25f4eb6580c22eadf4649cb2ac10278e8a509f6355f86dba07507176
+SHA256 (mate-session-manager-1.24.0.tar.xz) = 038eafd6b99877b6dd792a1fd76483dfa668dd4cf5a116c54a31d31e5a914c07
 SHA256 (start-mate) = 956c74cc3fb49d7e1bcb780d459db2638bda9113e5824c97507aafc0a9cae88b

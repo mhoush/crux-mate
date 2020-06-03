@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOa2CgcUBBuJMK6S61EtVhsiFS54s+laTPRN4zSwRJKj9WnytgeEMabcb5r83fvoqjxf7k/Tk6lUvLVKnLdKXQgM=
-SHA256 (Pkgfile) = 01cd32b6384dc2b2cefc0cc06f4e93b023c48a1bf7186bbbac9c44b4be3692a6
-SHA256 (.footprint) = c973d06ca9376a925433ff7b9403c1439e708394fa5dda1b6d330e0a8d992a7e
-SHA256 (mate-applets-1.22.1.tar.xz) = dd653d5f14772e0d962a096036f0a0576285912815fd4c8c5028478082a852a7
+RWTDGCtBFHpiOUgxexdQ/03BXOjuzkzGyabDXimszZ2Q5P39rD9jx1hB8BnkTLhXxgR/rnUL1j3lh6y/tSh9KkIF34VN3oHKUQc=
+SHA256 (Pkgfile) = e8c5c40cda68fd35bc4ae564df234ad0158216a404478e06407049b576c2dd34
+SHA256 (.footprint) = f0dbcfbd4da49ee9b19e75f5cf71458ca811360a544065bc3a22b748ad17d061
+SHA256 (mate-applets-1.24.0.tar.xz) = b84feb195b3deb8ef7a973d6e66ba30f0c411cf2e9af1a76afa8903d5655a35a

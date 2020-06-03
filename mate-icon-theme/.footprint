@@ -439,6 +439,7 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/apps/openterm.png -> utilities-t
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/apps/preferences-system-privacy.png
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/apps/preferences-system-search.png
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/apps/preferences-system-sharing.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/apps/preferences-system-time.png
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/apps/preferences-system-windows.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/apps/redhat-filemanager.png -> system-file-manager.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/apps/screensaver.png -> preferences-desktop-screensaver.png
@@ -1038,6 +1039,11 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/status/connect_no.png -> network
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/status/dialog-password.png
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/status/dialog-question.png
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/status/dialog-warning.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/dropboxstatus-busy.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/dropboxstatus-busy2.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/dropboxstatus-idle.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/dropboxstatus-logo.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/dropboxstatus-x.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/status/edittrash.png -> user-trash-full.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/status/error.png -> dialog-error.png
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/status/folder-drag-accept.png
@@ -1089,9 +1095,46 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/status/messagebox_warning.png ->
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/status/network-transmit.png
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/status/network-wireless-encrypted.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/status/nm-adhoc.png -> network-idle.png
-lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/status/nm-device-wired.png -> network-idle.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-device-wired-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-device-wired.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/status/nm-device-wireless.png -> network-idle.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/16x16/status/nm-no-connection.png -> network-offline.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-secure-lock.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-signal-00-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-signal-00.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-signal-100-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-signal-100.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-signal-25-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-signal-25.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-signal-50-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-signal-50.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-signal-75-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-signal-75.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-tech-3g.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-tech-4g.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-tech-5g.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-tech-cdma-1x.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-tech-edge.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-tech-evdo.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-tech-gprs.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-tech-hspa.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-tech-lte.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-tech-umts.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-vpn-active-lock.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-vpn-connecting01.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-vpn-connecting02.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-vpn-connecting03.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-vpn-connecting04.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-vpn-connecting05.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-vpn-connecting06.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-vpn-connecting07.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-vpn-connecting08.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-vpn-connecting09.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-vpn-connecting10.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-vpn-connecting11.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-vpn-connecting12.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-vpn-connecting13.png
+-rw-r--r--	root/root	usr/share/icons/mate/16x16/status/nm-vpn-connecting14.png
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/status/non-starred.png
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/status/printer-error.png
 -rw-r--r--	root/root	usr/share/icons/mate/16x16/status/printer-printing.png
@@ -1601,6 +1644,7 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/apps/openterm.png -> utilities-t
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/apps/preferences-system-privacy.png
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/apps/preferences-system-search.png
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/apps/preferences-system-sharing.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/apps/preferences-system-time.png
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/apps/preferences-system-windows.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/apps/redhat-filemanager.png -> system-file-manager.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/apps/screensaver.png -> preferences-desktop-screensaver.png
@@ -2200,6 +2244,11 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/status/connect_no.png -> network
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/status/dialog-password.png
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/status/dialog-question.png
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/status/dialog-warning.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/dropboxstatus-busy.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/dropboxstatus-busy2.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/dropboxstatus-idle.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/dropboxstatus-logo.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/dropboxstatus-x.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/status/edittrash.png -> user-trash-full.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/status/error.png -> dialog-error.png
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/status/folder-drag-accept.png
@@ -2251,9 +2300,46 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/status/messagebox_warning.png ->
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/status/network-transmit.png
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/status/network-wireless-encrypted.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/status/nm-adhoc.png -> network-idle.png
-lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/status/nm-device-wired.png -> network-idle.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-device-wired-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-device-wired.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/status/nm-device-wireless.png -> network-idle.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/22x22/status/nm-no-connection.png -> network-offline.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-secure-lock.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-signal-00-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-signal-00.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-signal-100-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-signal-100.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-signal-25-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-signal-25.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-signal-50-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-signal-50.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-signal-75-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-signal-75.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-tech-3g.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-tech-4g.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-tech-5g.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-tech-cdma-1x.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-tech-edge.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-tech-evdo.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-tech-gprs.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-tech-hspa.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-tech-lte.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-tech-umts.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-vpn-active-lock.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-vpn-connecting01.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-vpn-connecting02.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-vpn-connecting03.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-vpn-connecting04.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-vpn-connecting05.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-vpn-connecting06.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-vpn-connecting07.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-vpn-connecting08.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-vpn-connecting09.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-vpn-connecting10.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-vpn-connecting11.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-vpn-connecting12.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-vpn-connecting13.png
+-rw-r--r--	root/root	usr/share/icons/mate/22x22/status/nm-vpn-connecting14.png
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/status/non-starred.png
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/status/printer-error.png
 -rw-r--r--	root/root	usr/share/icons/mate/22x22/status/printer-printing.png
@@ -2760,6 +2846,7 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/apps/openterm.png -> utilities-t
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/apps/preferences-system-privacy.png
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/apps/preferences-system-search.png
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/apps/preferences-system-sharing.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/apps/preferences-system-time.png
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/apps/preferences-system-windows.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/apps/redhat-filemanager.png -> system-file-manager.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/apps/screensaver.png -> preferences-desktop-screensaver.png
@@ -3358,6 +3445,11 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/status/connect_no.png -> network
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/status/dialog-password.png
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/status/dialog-question.png
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/status/dialog-warning.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/dropboxstatus-busy.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/dropboxstatus-busy2.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/dropboxstatus-idle.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/dropboxstatus-logo.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/dropboxstatus-x.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/status/edittrash.png -> user-trash-full.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/status/error.png -> dialog-error.png
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/status/folder-drag-accept.png
@@ -3409,9 +3501,46 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/status/messagebox_warning.png ->
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/status/network-transmit.png
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/status/network-wireless-encrypted.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/status/nm-adhoc.png -> network-idle.png
-lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/status/nm-device-wired.png -> network-idle.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-device-wired-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-device-wired.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/status/nm-device-wireless.png -> network-idle.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/24x24/status/nm-no-connection.png -> network-offline.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-secure-lock.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-signal-00-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-signal-00.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-signal-100-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-signal-100.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-signal-25-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-signal-25.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-signal-50-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-signal-50.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-signal-75-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-signal-75.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-tech-3g.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-tech-4g.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-tech-5g.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-tech-cdma-1x.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-tech-edge.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-tech-evdo.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-tech-gprs.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-tech-hspa.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-tech-lte.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-tech-umts.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-vpn-active-lock.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-vpn-connecting01.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-vpn-connecting02.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-vpn-connecting03.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-vpn-connecting04.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-vpn-connecting05.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-vpn-connecting06.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-vpn-connecting07.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-vpn-connecting08.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-vpn-connecting09.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-vpn-connecting10.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-vpn-connecting11.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-vpn-connecting12.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-vpn-connecting13.png
+-rw-r--r--	root/root	usr/share/icons/mate/24x24/status/nm-vpn-connecting14.png
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/status/non-starred.png
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/status/printer-error.png
 -rw-r--r--	root/root	usr/share/icons/mate/24x24/status/printer-printing.png
@@ -3525,6 +3654,7 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/gnome-run.png -> syste
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/gnome-searchtool.png -> system-search.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/gnome-shutdown.png -> system-shutdown.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/gnome-stock-mail-new.png -> mail-message-new.png
+lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/gnome-stock-mail-snd.png -> mail-send.png
 -rw-r--r--	root/root	usr/share/icons/mate/256x256/actions/go-first.png
 -rw-r--r--	root/root	usr/share/icons/mate/256x256/actions/go-jump.png
 -rw-r--r--	root/root	usr/share/icons/mate/256x256/actions/go-last.png
@@ -3560,7 +3690,9 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/gtk-stop.png -> proces
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/kfind.png -> system-search.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/lock.png -> system-lock-screen.png
 -rw-r--r--	root/root	usr/share/icons/mate/256x256/actions/mail-message-new.png
+-rw-r--r--	root/root	usr/share/icons/mate/256x256/actions/mail-send.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/mail_new.png -> mail-message-new.png
+lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/mail_send.png -> mail-send.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/next.png -> go-next.png
 -rw-r--r--	root/root	usr/share/icons/mate/256x256/actions/open-menu.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/previous.png -> go-previous.png
@@ -3578,6 +3710,7 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/stock_first.png -> go-
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/stock_last.png -> go-last.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/stock_left.png -> go-previous.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/stock_mail-compose.png -> mail-message-new.png
+lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/stock_mail-send.png -> mail-send.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/stock_new-address-book.png -> address-book-new.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/stock_new-appointment.png -> appointment-new.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/actions/stock_new-dir.png -> folder-new.png
@@ -3662,6 +3795,7 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/apps/openterm.png -> utilities
 -rw-r--r--	root/root	usr/share/icons/mate/256x256/apps/preferences-system-privacy.png
 -rw-r--r--	root/root	usr/share/icons/mate/256x256/apps/preferences-system-search.png
 -rw-r--r--	root/root	usr/share/icons/mate/256x256/apps/preferences-system-sharing.png
+-rw-r--r--	root/root	usr/share/icons/mate/256x256/apps/preferences-system-time.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/apps/redhat-filemanager.png -> system-file-manager.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/apps/screensaver.png -> preferences-desktop-screensaver.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/256x256/apps/style.png -> preferences-desktop-theme.png
@@ -4680,6 +4814,7 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/apps/openterm.png -> utilities-t
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/apps/preferences-system-privacy.png
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/apps/preferences-system-search.png
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/apps/preferences-system-sharing.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/apps/preferences-system-time.png
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/apps/preferences-system-windows.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/apps/redhat-filemanager.png -> system-file-manager.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/apps/screensaver.png -> preferences-desktop-screensaver.png
@@ -5279,6 +5414,11 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/status/connect_no.png -> network
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/status/dialog-password.png
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/status/dialog-question.png
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/status/dialog-warning.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/dropboxstatus-busy.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/dropboxstatus-busy2.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/dropboxstatus-idle.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/dropboxstatus-logo.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/dropboxstatus-x.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/status/edittrash.png -> user-trash-full.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/status/error.png -> dialog-error.png
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/status/folder-drag-accept.png
@@ -5326,9 +5466,46 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/status/messagebox_warning.png ->
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/status/network-transmit-receive.png
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/status/network-transmit.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/status/nm-adhoc.png -> network-idle.png
-lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/status/nm-device-wired.png -> network-idle.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-device-wired-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-device-wired.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/status/nm-device-wireless.png -> network-idle.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/32x32/status/nm-no-connection.png -> network-offline.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-secure-lock.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-signal-00-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-signal-00.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-signal-100-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-signal-100.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-signal-25-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-signal-25.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-signal-50-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-signal-50.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-signal-75-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-signal-75.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-tech-3g.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-tech-4g.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-tech-5g.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-tech-cdma-1x.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-tech-edge.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-tech-evdo.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-tech-gprs.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-tech-hspa.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-tech-lte.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-tech-umts.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-vpn-active-lock.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-vpn-connecting01.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-vpn-connecting02.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-vpn-connecting03.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-vpn-connecting04.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-vpn-connecting05.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-vpn-connecting06.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-vpn-connecting07.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-vpn-connecting08.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-vpn-connecting09.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-vpn-connecting10.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-vpn-connecting11.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-vpn-connecting12.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-vpn-connecting13.png
+-rw-r--r--	root/root	usr/share/icons/mate/32x32/status/nm-vpn-connecting14.png
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/status/non-starred.png
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/status/printer-error.png
 -rw-r--r--	root/root	usr/share/icons/mate/32x32/status/printer-printing.png
@@ -5833,6 +6010,7 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/apps/openterm.png -> utilities-t
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/apps/preferences-system-privacy.png
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/apps/preferences-system-search.png
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/apps/preferences-system-sharing.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/apps/preferences-system-time.png
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/apps/preferences-system-windows.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/apps/redhat-filemanager.png -> system-file-manager.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/apps/screensaver.png -> preferences-desktop-screensaver.png
@@ -6437,6 +6615,10 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/status/connect_no.png -> network
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/status/dialog-password.png
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/status/dialog-question.png
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/status/dialog-warning.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/dropboxstatus-busy.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/dropboxstatus-busy2.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/dropboxstatus-logo.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/dropboxstatus-x.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/status/edittrash.png -> user-trash-full.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/status/error.png -> dialog-error.png
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/status/folder-drag-accept.png
@@ -6484,9 +6666,46 @@ lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/status/messagebox_warning.png ->
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/status/network-transmit-receive.png
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/status/network-transmit.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/status/nm-adhoc.png -> network-idle.png
-lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/status/nm-device-wired.png -> network-idle.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-device-wired-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-device-wired.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/status/nm-device-wireless.png -> network-idle.png
 lrwxrwxrwx	root/root	usr/share/icons/mate/48x48/status/nm-no-connection.png -> network-offline.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-secure-lock.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-signal-00-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-signal-00.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-signal-100-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-signal-100.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-signal-25-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-signal-25.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-signal-50-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-signal-50.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-signal-75-secure.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-signal-75.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-tech-3g.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-tech-4g.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-tech-5g.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-tech-cdma-1x.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-tech-edge.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-tech-evdo.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-tech-gprs.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-tech-hspa.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-tech-lte.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-tech-umts.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-vpn-active-lock.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-vpn-connecting01.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-vpn-connecting02.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-vpn-connecting03.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-vpn-connecting04.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-vpn-connecting05.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-vpn-connecting06.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-vpn-connecting07.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-vpn-connecting08.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-vpn-connecting09.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-vpn-connecting10.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-vpn-connecting11.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-vpn-connecting12.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-vpn-connecting13.png
+-rw-r--r--	root/root	usr/share/icons/mate/48x48/status/nm-vpn-connecting14.png
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/status/non-starred.png
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/status/printer-error.png
 -rw-r--r--	root/root	usr/share/icons/mate/48x48/status/printer-printing.png
@@ -7025,6 +7244,7 @@ drwxr-xr-x	root/root	usr/share/icons/mate/scalable/apps/
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/apps/preferences-system-search-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/apps/preferences-system-sharing-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/apps/preferences-system-time-symbolic.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/apps/preferences-system-time.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/apps/system-file-manager-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/apps/system-software-install-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/apps/system-users-symbolic.svg
@@ -7214,6 +7434,11 @@ drwxr-xr-x	root/root	usr/share/icons/mate/scalable/status/
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/dialog-question-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/dialog-warning-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/display-brightness-symbolic.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/dropboxstatus-busy.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/dropboxstatus-busy2.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/dropboxstatus-idle.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/dropboxstatus-logo.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/dropboxstatus-x.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/folder-drag-accept-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/folder-open-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/folder-visiting-symbolic.svg
@@ -7252,12 +7477,18 @@ drwxr-xr-x	root/root	usr/share/icons/mate/scalable/status/
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-cellular-signal-weak-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-cellular-umts-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-error-symbolic.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-error.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-idle-symbolic.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-idle.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-no-route-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-offline-symbolic.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-offline.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-receive-symbolic.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-receive.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-transmit-receive-symbolic.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-transmit-receive.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-transmit-symbolic.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-transmit.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-vpn-acquiring-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-vpn-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-wired-acquiring-symbolic.svg
@@ -7276,6 +7507,44 @@ drwxr-xr-x	root/root	usr/share/icons/mate/scalable/status/
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-wireless-signal-none-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-wireless-signal-ok-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/network-wireless-signal-weak-symbolic.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-device-wired-secure.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-device-wired.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-secure-lock.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-signal-00-secure.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-signal-00.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-signal-100-secure.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-signal-100.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-signal-25-secure.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-signal-25.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-signal-50-secure.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-signal-50.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-signal-75-secure.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-signal-75.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-tech-3g.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-tech-4g.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-tech-5g.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-tech-cdma-1x.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-tech-edge.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-tech-evdo.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-tech-gprs.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-tech-hspa.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-tech-lte.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-tech-umts.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-vpn-active-lock.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-vpn-connecting01.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-vpn-connecting02.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-vpn-connecting03.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-vpn-connecting04.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-vpn-connecting05.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-vpn-connecting06.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-vpn-connecting07.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-vpn-connecting08.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-vpn-connecting09.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-vpn-connecting10.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-vpn-connecting11.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-vpn-connecting12.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-vpn-connecting13.svg
+-rw-r--r--	root/root	usr/share/icons/mate/scalable/status/nm-vpn-connecting14.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/non-starred-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/printer-error-symbolic.svg
 -rw-r--r--	root/root	usr/share/icons/mate/scalable/status/printer-printing-symbolic.svg

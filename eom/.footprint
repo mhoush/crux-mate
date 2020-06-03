@@ -72,11 +72,6 @@ drwxr-xr-x	root/root	usr/share/eom/icons/hicolor/32x32/actions/
 drwxr-xr-x	root/root	usr/share/eom/icons/hicolor/48x48/
 drwxr-xr-x	root/root	usr/share/eom/icons/hicolor/48x48/actions/
 -rw-r--r--	root/root	usr/share/eom/icons/hicolor/48x48/actions/slideshow-play.png
-drwxr-xr-x	root/root	usr/share/eom/icons/hicolor/scalable/
-drwxr-xr-x	root/root	usr/share/eom/icons/hicolor/scalable/actions/
--rw-r--r--	root/root	usr/share/eom/icons/hicolor/scalable/actions/eom-image-collection.svg
--rw-r--r--	root/root	usr/share/eom/icons/hicolor/scalable/actions/eom-plugin.svg
--rw-r--r--	root/root	usr/share/eom/icons/hicolor/scalable/actions/slideshow-play.svg
 drwxr-xr-x	root/root	usr/share/gir-1.0/
 -rw-r--r--	root/root	usr/share/gir-1.0/Eom-1.0.gir
 drwxr-xr-x	root/root	usr/share/glib-2.0/
@@ -276,6 +271,14 @@ drwxr-xr-x	root/root	usr/share/help/es/eom/figures/
 -rw-r--r--	root/root	usr/share/help/es/eom/figures/eom_toolbar_editor_window.png
 -rw-r--r--	root/root	usr/share/help/es/eom/index.docbook
 -rw-r--r--	root/root	usr/share/help/es/eom/legal.xml
+drwxr-xr-x	root/root	usr/share/help/es_AR/
+drwxr-xr-x	root/root	usr/share/help/es_AR/eom/
+drwxr-xr-x	root/root	usr/share/help/es_AR/eom/figures/
+lrwxrwxrwx	root/root	usr/share/help/es_AR/eom/figures/eom_save_as_window.png -> /usr/share/help/C/eom/figures/eom_save_as_window.png
+lrwxrwxrwx	root/root	usr/share/help/es_AR/eom/figures/eom_start_window.png -> /usr/share/help/C/eom/figures/eom_start_window.png
+lrwxrwxrwx	root/root	usr/share/help/es_AR/eom/figures/eom_toolbar_editor_window.png -> /usr/share/help/C/eom/figures/eom_toolbar_editor_window.png
+-rw-r--r--	root/root	usr/share/help/es_AR/eom/index.docbook
+-rw-r--r--	root/root	usr/share/help/es_AR/eom/legal.xml
 drwxr-xr-x	root/root	usr/share/help/et/
 drwxr-xr-x	root/root	usr/share/help/et/eom/
 drwxr-xr-x	root/root	usr/share/help/et/eom/figures/
@@ -388,6 +391,14 @@ lrwxrwxrwx	root/root	usr/share/help/id/eom/figures/eom_start_window.png -> /usr/
 lrwxrwxrwx	root/root	usr/share/help/id/eom/figures/eom_toolbar_editor_window.png -> /usr/share/help/C/eom/figures/eom_toolbar_editor_window.png
 -rw-r--r--	root/root	usr/share/help/id/eom/index.docbook
 -rw-r--r--	root/root	usr/share/help/id/eom/legal.xml
+drwxr-xr-x	root/root	usr/share/help/ie/
+drwxr-xr-x	root/root	usr/share/help/ie/eom/
+drwxr-xr-x	root/root	usr/share/help/ie/eom/figures/
+lrwxrwxrwx	root/root	usr/share/help/ie/eom/figures/eom_save_as_window.png -> /usr/share/help/C/eom/figures/eom_save_as_window.png
+lrwxrwxrwx	root/root	usr/share/help/ie/eom/figures/eom_start_window.png -> /usr/share/help/C/eom/figures/eom_start_window.png
+lrwxrwxrwx	root/root	usr/share/help/ie/eom/figures/eom_toolbar_editor_window.png -> /usr/share/help/C/eom/figures/eom_toolbar_editor_window.png
+-rw-r--r--	root/root	usr/share/help/ie/eom/index.docbook
+-rw-r--r--	root/root	usr/share/help/ie/eom/legal.xml
 drwxr-xr-x	root/root	usr/share/help/is/
 drwxr-xr-x	root/root	usr/share/help/is/eom/
 drwxr-xr-x	root/root	usr/share/help/is/eom/figures/
@@ -420,6 +431,14 @@ lrwxrwxrwx	root/root	usr/share/help/ka/eom/figures/eom_start_window.png -> /usr/
 lrwxrwxrwx	root/root	usr/share/help/ka/eom/figures/eom_toolbar_editor_window.png -> /usr/share/help/C/eom/figures/eom_toolbar_editor_window.png
 -rw-r--r--	root/root	usr/share/help/ka/eom/index.docbook
 -rw-r--r--	root/root	usr/share/help/ka/eom/legal.xml
+drwxr-xr-x	root/root	usr/share/help/kab/
+drwxr-xr-x	root/root	usr/share/help/kab/eom/
+drwxr-xr-x	root/root	usr/share/help/kab/eom/figures/
+lrwxrwxrwx	root/root	usr/share/help/kab/eom/figures/eom_save_as_window.png -> /usr/share/help/C/eom/figures/eom_save_as_window.png
+lrwxrwxrwx	root/root	usr/share/help/kab/eom/figures/eom_start_window.png -> /usr/share/help/C/eom/figures/eom_start_window.png
+lrwxrwxrwx	root/root	usr/share/help/kab/eom/figures/eom_toolbar_editor_window.png -> /usr/share/help/C/eom/figures/eom_toolbar_editor_window.png
+-rw-r--r--	root/root	usr/share/help/kab/eom/index.docbook
+-rw-r--r--	root/root	usr/share/help/kab/eom/legal.xml
 drwxr-xr-x	root/root	usr/share/help/kk/
 drwxr-xr-x	root/root	usr/share/help/kk/eom/
 drwxr-xr-x	root/root	usr/share/help/kk/eom/figures/

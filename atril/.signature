@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOUUt3Ou4fa5P3mzuTI5rDIzakBcHb0G9YECofyyeBy0l2zNnukStBNZiNUtgy7fhlY2snffR3aAcYzsek1pBFw8=
-SHA256 (Pkgfile) = 1eaaceed370a1524ad871faec45668351e3930b5641d7ebbce4a24d55327d5cf
+RWTDGCtBFHpiOej8uLNNGWoDECeabUkhtTlGEWyO4dfgGjb+BsQwqZ3YaORsS6gswadBKhHSsa9SKTiVs2ZoVE7uc6Rub3+TvwM=
+SHA256 (Pkgfile) = eca428a856b68125cc3368561aeef99dff834a643b6e674dcecccc4bc21e391b
 SHA256 (.footprint) = dd5a08736241ec95d3100cc3c8a653d017c4b5aeeb19516c3d84b563d2277896
-SHA256 (atril-1.22.2.tar.xz) = dc692b9c2a2b8bdd7c36631a9f50fb19335f9ce36156464e967a7fdde7478786
+SHA256 (atril-1.24.0.tar.xz) = be245d445333de35bdad22e4299252e6b30851d94f02caef14100b78787fc724

@@ -19,6 +19,7 @@ drwxr-xr-x	root/root	usr/include/caja/libcaja-extension/
 -rw-r--r--	root/root	usr/include/caja/libcaja-extension/caja-menu.h
 -rw-r--r--	root/root	usr/include/caja/libcaja-extension/caja-property-page-provider.h
 -rw-r--r--	root/root	usr/include/caja/libcaja-extension/caja-property-page.h
+-rw-r--r--	root/root	usr/include/caja/libcaja-extension/caja-widget-view-provider.h
 drwxr-xr-x	root/root	usr/lib/
 drwxr-xr-x	root/root	usr/lib/girepository-1.0/
 -rw-r--r--	root/root	usr/lib/girepository-1.0/Caja-2.0.typelib
@@ -39,7 +40,12 @@ drwxr-xr-x	root/root	usr/share/applications/
 -rw-r--r--	root/root	usr/share/applications/caja.desktop
 -rw-r--r--	root/root	usr/share/applications/mate-network-scheme.desktop
 drwxr-xr-x	root/root	usr/share/caja/
+-rw-r--r--	root/root	usr/share/caja/a11y-caja-desktop-base.css
 -rw-r--r--	root/root	usr/share/caja/browser.xml
+-rw-r--r--	root/root	usr/share/caja/caja-desktop-ContrastHigh.css
+-rw-r--r--	root/root	usr/share/caja/caja-desktop-ContrastHighInverse.css
+-rw-r--r--	root/root	usr/share/caja/caja-desktop-HighContrast.css
+-rw-r--r--	root/root	usr/share/caja/caja-desktop-HighContrastInverse.css
 -rw-r--r--	root/root	usr/share/caja/caja-desktop.css
 -rw-r--r--	root/root	usr/share/caja/caja-extras.placeholder
 -rw-r--r--	root/root	usr/share/caja/caja-suggested.placeholder

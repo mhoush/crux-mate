@@ -4,7 +4,7 @@
 # Depends on: xorg-libxscrnsaver gtk3 mate-desktop dbus-glib mate-menus
 
 name=mate-screensaver
-version=1.22.2
+version=1.24.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz \
   $name.pam)
@@ -22,7 +22,7 @@ build() {
   install -o root -g root -m 0644 $SRC/$name.pam \
     $PKG/etc/pam.d/$name
 
-  rm -r $PKG/usr/share/locale
+  #rm -r $PKG/usr/share/locale
 }
 
 # vim: set ts=2 et:

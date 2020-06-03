@@ -1,10 +1,10 @@
 # Description: A document viewer for MATE
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: gtk3 libsecret caja poppler-glib itstool desktop-file-utils
+# Depends on: gtk3 libsecret caja poppler-glib itstool desktop-file-utils libsynctex
 
 name=atril
-version=1.22.2
+version=1.24.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
@@ -16,5 +16,5 @@ build() {
   make
   make DESTDIR=$PKG install
 
-  rm -r $PKG/usr/share/{gtk-doc,locale}
+  rm -r $PKG/usr/share/gtk-doc
 }

@@ -1,0 +1,26 @@
+# Description: A library for synchronization between TeX files and output files
+# URL: https://tug.org/texlive/
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: zziplib
+
+name=libsynctex
+version=svn54456
+release=1
+source=(https://github.com/TeX-Live/texlive-source/archive/$version.tar.gz)
+
+build() {
+	cd texlive-source-$version
+
+	mkdir work && cd work
+	../configure --prefix=/usr -C \
+		--disable-native-texlive-build \
+		--disable-all-pkgs \
+		--enable-web2c \
+		--enable-tex-synctex \
+		--enable-shared \
+		--disable-static \
+		--with-system-zziplib
+	make
+	make -C texk/web2c DESTDIR=$PKG \
+		install-data-am install-libLTLIBRARIES
+}
