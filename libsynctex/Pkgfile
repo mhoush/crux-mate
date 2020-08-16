@@ -1,7 +1,7 @@
 # Description: A library for synchronization between TeX files and output files
 # URL: https://tug.org/texlive/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: zziplib
+# Depends on: zziplib xorg-libx11
 
 name=libsynctex
 version=svn54456
