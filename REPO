@@ -108,9 +108,9 @@ f:16bcd646411ac3398df96542d734c3af:mate-polkit/Pkgfile
 f:437b6969c8f358d658b62709c60f14a3:mate-polkit/.signature
 f:e66a535429566f7b2382fb1efb559700:mate-session-manager/start-mate
 f:f842bb30f25d1658de5fee11d9be9b81:mate-session-manager/post-install
-f:bd103fdb61c27bea49b8dc8e703d5c8a:mate-session-manager/.footprint
-f:947345e1567a66ade677798ed9cb2ddc:mate-session-manager/Pkgfile
-f:cd64a766b56dd241bc8783b1f1e701ba:mate-session-manager/.signature
+f:96e05d053cdd2ac25b2638d30578febe:mate-session-manager/.footprint
+f:34bba42758275cd8dd32bbe168aa3e80:mate-session-manager/Pkgfile
+f:b5694369c385e63d0dd41f2c988dc97c:mate-session-manager/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:engrampa/post-install
 f:98adc3b4bed2103ed267ba749d48cf75:engrampa/.footprint
 f:25e33af6f87876b9f23fdada24258ca8:engrampa/Pkgfile
