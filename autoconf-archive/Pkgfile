@@ -4,7 +4,7 @@
 
 name=autoconf-archive
 version=2019.01.06
-release=1
+release=2
 source=(http://ftpmirror.gnu.org/$name/$name-$version.tar.xz)
 
 build() {
@@ -15,5 +15,7 @@ build() {
 
 	rm $PKG/usr/share/aclocal/ax_check_enable_debug.m4 \
 		$PKG/usr/share/aclocal/ax_code_coverage.m4
+
+	rm -r $PKG/usr/share/{doc,info}
 
 }

@@ -165,9 +165,9 @@ f:1a766c66072dc6e8a5002af9531617ce:mate-icon-theme-faenza/.signature
 f:8e03d197c24662a1673722efaccffa6e:libayatana-indicator/.footprint
 f:73238ecb4d28b154fc1d181365848f64:libayatana-indicator/Pkgfile
 f:5b9095cc9b1bd9f9a7b1534d013af7c9:libayatana-indicator/.signature
-f:59416486680ebb3ea379e1535a319f7b:autoconf-archive/.footprint
-f:4384f81719d6bab542cff9c81aba07a9:autoconf-archive/Pkgfile
-f:faefc422f0fbf867581feb603aa3f616:autoconf-archive/.signature
+f:eaaef4c6bcbb619bac2d2508808ace2c:autoconf-archive/.footprint
+f:1b7cd801133a555d5928789ae299b9c9:autoconf-archive/Pkgfile
+f:f98bdb2eba287cac8c5d4cde822b6712:autoconf-archive/.signature
 f:f842bb30f25d1658de5fee11d9be9b81:mate-desktop/post-install
 f:5699e27bbe63672328f1d67b2c4263f2:mate-desktop/.footprint
 f:8f91d2051a643851568d3436be902a0d:mate-desktop/Pkgfile
