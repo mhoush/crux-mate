@@ -4,7 +4,7 @@
 # Depends on: marco mate-settings-daemon desktop-file-utils mate-menus librsvg xorg-libxscrnsaver
 
 name=mate-control-center
-version=1.24.0
+version=1.24.1
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
@@ -16,6 +16,4 @@ build() {
     --disable-update-mimedb
   make
   make DESTDIR=$PKG install
-
-  #rm -r $PKG/usr/share/locale
 }

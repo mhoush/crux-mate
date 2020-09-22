@@ -1,7 +1,0 @@
-#!/bin/sh
-
-getent group polkitd || /usr/sbin/groupadd -g 83 polkitd
-
-getent passwd polkitd || /usr/sbin/useradd -g polkitd -u 83 -d /var/empty -s /bin/false -c "PolicyKit User" polkitd
-
-/usr/bin/passwd -l polkitd

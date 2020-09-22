@@ -4,7 +4,7 @@
 # Depends on: dconf gtk gtk3 desktop-file-utils iso-codes
 
 name=mate-desktop
-version=1.24.0
+version=1.24.1
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 

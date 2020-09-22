@@ -19,8 +19,6 @@ build() {
   make
   make DESTDIR=$PKG install
 
-  #rm -r $PKG/usr/share/locale
-
   install -o root -g root -m 0755 $SRC/start-mate \
     $PKG/usr/bin/start-mate
 

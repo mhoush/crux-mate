@@ -1,5 +1,0 @@
-untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOSjuW87bsyGC2ykm6Fe2T2gaBaHVQpG4fgMU0LL4A6trZTGka7CcIyfWKkgye2HqTZ51/SB3whmbnXavkR6A2g8=
-SHA256 (Pkgfile) = 1fd60548ff5af91d153ce72121e203a1d4f92ae57cced3ca2a85d526c72a3a54
-SHA256 (.footprint) = dd6e0973b9c6d6eda014d944f1c693dc08a21cb148e9d849b319c2b9da083458
-SHA256 (polkit-0.116.tar.gz) = 88170c9e711e8db305a12fdb8234fac5706c61969b94e084d0f117d8ec5d34b1
