@@ -3,4 +3,4 @@
 # https://github.com/mhoush/crux-mate/
 
 ROOT_DIR=/usr/ports/mate
-URL=https://raw.githubusercontent.com/mhoush/crux-mate/master/
+URL=https://raw.githubusercontent.com/mhoush/crux-mate/main/
