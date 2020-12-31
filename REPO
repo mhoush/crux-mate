@@ -173,9 +173,9 @@ f:16bc325858ef7bcd5439dc0750690adf:mate-applets/post-install
 f:502ea46483b5de419b94d82b0877c7e4:mate-applets/.footprint
 f:a65bff75aef226a5875d23b6d3250b7f:mate-applets/Pkgfile
 f:9e44b40a1376cabce2a75e53a17f37bc:mate-applets/.signature
-f:d1271853c85b13693d8963dd0684b408:p5-xml-simple/.footprint
+f:a5960c0c4ba43b5f2f0194add33298c5:p5-xml-simple/.footprint
 f:01b5e1d2af6be03b2840bbd85f0d08cf:p5-xml-simple/Pkgfile
-f:b64ddd6befa2152692294b922d7ac575:p5-xml-simple/.signature
+f:d222110e58e9ac6b38d8218c408ab50f:p5-xml-simple/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:mate-system-monitor/post-install
 f:4f2677d2d77543d1a3103d2c68b2aa4d:mate-system-monitor/.footprint
 f:453e4878a3cd97323d1ce802a77552bb:mate-system-monitor/Pkgfile
