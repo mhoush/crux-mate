@@ -31,7 +31,6 @@ d:udisks2
 d:caja
 d:mate-control-center
 d:mate-indicator-applet
-d:libpeas
 d:mate-applets
 d:p5-xml-simple
 d:mate-system-monitor
@@ -170,10 +169,6 @@ f:f96e6792920155ae9027e6b5e7352293:mate-indicator-applet/post-install
 f:520b9f84b72926910674a314f0dd6957:mate-indicator-applet/.footprint
 f:7d8a72990701ed1bcb3b7eb9dbcaaf05:mate-indicator-applet/Pkgfile
 f:793d48cacddc0bcaccbbfccd19a82434:mate-indicator-applet/.signature
-f:f96e6792920155ae9027e6b5e7352293:libpeas/post-install
-f:e9368c722b27e8aa2b688e390cdff3a5:libpeas/.footprint
-f:fd1c344f8fee4c1ac40d8fc99228048c:libpeas/Pkgfile
-f:ddd02ce185e1e64c706fd287760dd50a:libpeas/.signature
 f:16bc325858ef7bcd5439dc0750690adf:mate-applets/post-install
 f:502ea46483b5de419b94d82b0877c7e4:mate-applets/.footprint
 f:a65bff75aef226a5875d23b6d3250b7f:mate-applets/Pkgfile
