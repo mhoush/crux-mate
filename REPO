@@ -65,9 +65,9 @@ f:8ab1a8aebf81c512aa5d551b60792167:mate-calc/post-install
 f:671ccb41e73a70a296db80194dd8fefb:mate-calc/.footprint
 f:adfdb7b03f2d9e2342b150cb08d086f4:mate-calc/Pkgfile
 f:aea33c34c6f2fb890cb2ae98306e2cc0:mate-calc/.signature
-f:c7960410726f92f17cc8be22ca58b621:libblockdev/.footprint
+f:9a7f90e1de61150ccbc4d30e3b52da1e:libblockdev/.footprint
 f:ea7f2b0e4550655547a029ffdee14401:libblockdev/Pkgfile
-f:b027e889c9a1324e5a236ee1f44cd659:libblockdev/.signature
+f:10134adc16b5cf6b501c6308bb2ad4cb:libblockdev/.signature
 f:80e269a981197c365e1b342d5a34e615:mate-common/.footprint
 f:8384517a9d99be7137f3970b06d68127:mate-common/Pkgfile
 f:b4a88cf5bdb70ba8dda0fa7c45082876:mate-common/.signature
