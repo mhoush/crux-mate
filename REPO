@@ -54,9 +54,9 @@ f:059b492beb4d3bff8358440b51be2ea2:mate-power-manager/.footprint
 f:553532888f744dfac5e834868ccab8e8:mate-power-manager/Pkgfile
 f:0f0d3ee980756721bf8890c4012d9f4c:mate-power-manager/.signature
 f:8ab1a8aebf81c512aa5d551b60792167:pluma/post-install
-f:34c7e2c2dbf086f1a12b281376011773:pluma/.footprint
+f:c71ac88e071f1b5a59def429dfa61a54:pluma/.footprint
 f:b65b105e81c2a7b85d7175e478ca0af6:pluma/Pkgfile
-f:e3f7d4fe80d02817324529200095db3c:pluma/.signature
+f:10f7086742ead8db20aa6a5868e652bc:pluma/.signature
 f:97db9991e547d2c9b28d773b71bbe98a:mate.pub
 f:39c5b42795eb4cf151d6ce8fd689cd50:libmatemixer/.footprint
 f:603840726f1a2ed4d339c107863b23e7:libmatemixer/Pkgfile
