@@ -4,7 +4,7 @@
 # Depends on: alsa-lib intltool glib
 
 name=libmatemixer
-version=1.24.1
+version=1.26.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 

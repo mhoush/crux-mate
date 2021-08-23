@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOaoWDBeqNRWun/K7xq7JCnB68knKSgdz3UjgmsxTp2x6k275Zq3s8lhwcnu6O+J305kpXlRRiOVmYldETzue5Qg=
-SHA256 (Pkgfile) = d48d988fb141fa8ef808bee197e0103eb7a1f0850ceef8d0a98b74def35fecdc
+RWTDGCtBFHpiOQCUR8WWyqHukiHUidbf7dyb7/hfXhPiNUFxBBeTuINCc1bfx2My/y1D8qSAsGaYWFywjKSY4BFfzLNDtvSytQA=
+SHA256 (Pkgfile) = 96639a4429fafe72411692f3115cc47d969d2940c3b497a67e28eb890d4b62aa
 SHA256 (.footprint) = c05643292b532b37fd51c5f367b16d5a4e7fbc267f144ded3d6eacbb0b9ee079
-SHA256 (marco-1.24.1.tar.xz) = a4bcafd92c418ebfc8fc9fed2450378465d8a6a2a16bc3a9262bb02c6f202b81
+SHA256 (marco-1.26.0.tar.xz) = f63c08cd8b07450ab3e33a04605c4f9e69522358884273b3cbcf30275eee5b05

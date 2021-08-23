@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOQ10pKPI8E6J5qQ1rrHH91HMyUUqG6MArEJy9XqtCa8+n4fv7qtL6TmiXRtQqrr8TGeYxim7Lt/p7iDnbFqmlwI=
-SHA256 (Pkgfile) = 48e7ead681f6b1b8cf4e5a19a34847f15c73dae99b0ca958efde6dfa4447d5dc
+RWTDGCtBFHpiOaVGjXGEU94RTK9zugCUV/U8zaQfzRTqpfqyNC9iySNaEzMMV1Owt+vG41lE9FUp+pa/Uplng4WSNi+JlKYdNQs=
+SHA256 (Pkgfile) = 9e98d0b7b76255f5eb55af897e5acc8ca00502662f118f7894cb861bcb794e83
 SHA256 (.footprint) = 4825c7990f5833a80777b79f0d2092c8a1da9bac7b69dc8b2c4743c36d25524e
-SHA256 (mate-sensors-applet-1.24.1.tar.xz) = 262c494b207e615656d8d8723946d11beb705fbf9f0166eb3dbb7a56877764d9
+SHA256 (mate-sensors-applet-1.26.0.tar.xz) = 4c437c3ff04488543e2cf0c4627fe265c48b4ad8f4946fd9de9845edc0c82968

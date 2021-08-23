@@ -4,7 +4,7 @@
 # Depends on: atril caja engrampa eom marco mate-applets mate-backgrounds mate-calc mate-control-center mate-desktop mate-icon-theme mate-icon-theme-faenza mate-indicator-applet mate-media mate-menus mate-notification-daemon mate-panel mate-power-manager mate-screensaver mate-sensors-applet mate-session-manager mate-settings-daemon mate-system-monitor mate-terminal mate-themes mozo pluma
 
 name=mate
-version=1.24
+version=1.26
 release=1
 source=()
 

@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOSKAFq8wYJWN5EIFjoqm+p5l6tY6VDSGKv1X+03vdRo5UuCHdM+1wD7vbNxz8zt9VyifvU3X617kv6FLlF/aPQc=
-SHA256 (Pkgfile) = ff387ffbb43e552c5e33d5d624e3281b939f54c0033de6dd0ecd8355bad4c562
+RWTDGCtBFHpiOfB+yV6525S4zWEOnaqJvfxnyDZAZCPlUbU6L5Kv8U8Tq//kgEwY6X73QK8zLH/EGg184+6GCfXw17lO1sUB+Qw=
+SHA256 (Pkgfile) = 0bee14fbc95327b4fb48bb024e2fafb68ce97520e9eaca84e7db0dff52f62f24
 SHA256 (.footprint) = 1334f3e8876ffee84c6a0f0139689c4eddc46cb8f969908ef9c978cd2fe38025
-SHA256 (mate-settings-daemon-1.24.1.tar.xz) = 4bf92e6f0ebaae1db3ace4a8d12fc5d40302abe0ab7d75b419e5961c47e63e58
+SHA256 (mate-settings-daemon-1.26.0.tar.xz) = b77aa017ff811a6fcae40bd45f18d8606eec87be21e3e6fa6d35c0fe14e66d41

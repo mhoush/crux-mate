@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOagISFpyslhtTLfMwv+SlCu4oHKRdmUE21MoHzfNAOPJYI0Hg28tVM6+MAlMW7E93EZ3bhzr3LX+d2sg4NYiaQk=
-SHA256 (Pkgfile) = 2512de83a786fea3c384d49133b7629b6a0d6c1d71d75f597878b6c452da2b4f
-SHA256 (.footprint) = d8d5cec77c5d97b0618554522f990881db6f3bf5fbd367272906a32aaae1d11f
-SHA256 (mate-notification-daemon-1.24.1.tar.xz) = 4bf0bbe39b4bc77ea0feb5d8331f6d1c820c9a8e1643e4aeceef96682bca7ff9
+RWTDGCtBFHpiOV68bzVGVtJXRbOVncFHSh8HxrgMWIvRYtni4wsZLzKw3vjeG1YCFdkFUS2zbsW6rZg8bTb6TK+DVsEilzZ03Q0=
+SHA256 (Pkgfile) = 4cf3054ec01e8ffcccf07888712cebdf21982af564add80cc8e9968c3602d0eb
+SHA256 (.footprint) = 9a8e1d8c331bb844a6c4f751f22c80ed366f7b4874c94b4ec2a98a475372806f
+SHA256 (mate-notification-daemon-1.26.0.tar.xz) = b23c6581f8f5916d6a16584edd91c2e4b6d0db7dd8e1eec5dd360acf2834b9ba

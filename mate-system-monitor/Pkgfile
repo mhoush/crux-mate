@@ -4,7 +4,7 @@
 # Depends on: libgtop gtkmm3 libwnck-gtk3 librsvg itstool desktop-file-utils polkit
 
 name=mate-system-monitor
-version=1.24.1
+version=1.26.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz \
   msm-cpu-colors.patch)

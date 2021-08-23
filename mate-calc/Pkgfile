@@ -4,12 +4,14 @@
 # Depends on: gtk3 itstool desktop-file-utils
 
 name=mate-calc
-version=1.24.1
+version=1.26.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
   cd $name-$version
+  # remove help/ja for now, build fails otherwise
+  rm -r help/ja
   ./configure --prefix=/usr \
     --disable-nls
   make

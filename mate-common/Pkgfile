@@ -3,7 +3,7 @@
 # Maintainer: Matt Housh, jaeger at crux dot ninja
 
 name=mate-common
-version=1.24.2
+version=1.26.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
