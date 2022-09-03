@@ -1,7 +1,7 @@
 # Description: GNOME keyring client library
 # URL: http://live.gnome.org/GnomeKeyring/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: dbus libgcrypt gobject-introspection
+# Depends on: dbus libgcrypt gobject-introspection intltool
 
 name=libgnome-keyring
 version=3.12.0
