@@ -129,8 +129,8 @@ f:6831883dd9892a12c7d5339f0502bc48:mate-system-monitor/.signature
 f:4f2677d2d77543d1a3103d2c68b2aa4d:mate-system-monitor/.footprint
 f:c53ff17539f04fc8d0ad637cb4ab4f4b:mate-system-monitor/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:mate-system-monitor/post-install
-f:0ad5f9571eaf41b3c686d7c442051e3b:pluma/.signature
-f:1f4cc1c83d0ebb1c504a2a966be759b4:pluma/.footprint
+f:52f8de0eb2ed05707de3872748213850:pluma/.signature
+f:5c8f9e5914f3e7990f3353f2778ebc04:pluma/.footprint
 f:c0e780f03a955453cc7cf71e14b4ecc7:pluma/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:pluma/post-install
 f:8982f115aa43efc99d70b08260be6f8e:libmatemixer/.signature
@@ -170,8 +170,8 @@ f:3eddac060b1a2bf5d45955f8321a9e31:mate-terminal/.signature
 f:419923fe2a79899da504ef8fb903a015:mate-terminal/.footprint
 f:08785bcdbee3f596581664f1c9228dee:mate-terminal/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:mate-terminal/post-install
-f:f570a7a2eba7260bc35e2727259e4e30:mozo/.signature
-f:e02c1559a4d83ec2ca53deb44bc44959:mozo/.footprint
+f:99a6adca07624d58aca385d48298dbf7:mozo/.signature
+f:d4c4e6583cc8861974bdafd0ab17b4bb:mozo/.footprint
 f:bff4fdaf3ba2dac43bee78bee6cb8dcc:mozo/Pkgfile
 f:e6bb92f40645c637b6bdfd3df85fbd8e:mozo/post-install
 f:5a11b04f56d470d4623684ebbd6b7044:mate-notification-daemon/.signature
