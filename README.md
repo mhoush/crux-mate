@@ -1,6 +1,6 @@
 # [MATE Desktop Environment](http://www.mate-desktop.org/) ports collection for [CRUX](https://crux.nu/) Linux #
 
-## The current release is MATE 1.26 for CRUX 3.6 (as of 23 Aug 2021). ##
+## The current release is MATE 1.26 for CRUX 3.7 (as of 03 Oct 2022). ##
 
 ## Quickstart ##
 
@@ -10,7 +10,7 @@ Download mate.httpup:
 curl -o /etc/ports/mate.httpup https://raw.githubusercontent.com/mhoush/crux-mate/main/mate.httpup
 ```
 
-Enable the 'contrib' ports collection as [described in the CRUX handbook](https://crux.nu/Main/Handbook3-6#ntoc46)
+Enable the 'contrib' ports collection as [described in the CRUX handbook](https://crux.nu/Main/Handbook3-7#ntoc60)
 
 Add 'prtdir /usr/ports/mate' to **/etc/prt-get.conf**, **before** 'contrib', 'core', 'opt', and 'xorg'.
 
