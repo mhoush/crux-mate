@@ -1,0 +1,7 @@
+# MATE ports - http://www.mate-desktop.org/
+#
+# https://github.com/mhoush/crux-mate/
+
+URL=https://github.com/mhoush/crux-mate/
+NAME=mate
+BRANCH=main

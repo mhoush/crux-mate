@@ -4,10 +4,16 @@
 
 ## Quickstart ##
 
-Download mate.httpup:
+Download mate.httpup OR mate.git (not both):
 
 ```
 curl -o /etc/ports/mate.httpup https://raw.githubusercontent.com/mhoush/crux-mate/main/mate.httpup
+```
+
+OR
+
+```
+curl -o /etc/ports/mate.git https://raw.githubusercontent.com/mhoush/crux-mate/main/mate.git
 ```
 
 Enable the 'contrib' ports collection as [described in the CRUX handbook](https://crux.nu/Main/Handbook3-7#ntoc60)
