@@ -4,7 +4,7 @@
 # Depends on: xorg-libxscrnsaver gtk3 mate-desktop dbus-glib mate-menus
 
 name=mate-screensaver
-version=1.26.0
+version=1.26.1
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz \
   $name.pam)
