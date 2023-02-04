@@ -10,8 +10,8 @@ source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.x
 
 build() {
   cd $name-$version
-  # remove mateweather/docs/sr for now, build fails otherwise
-  rm -r mateweather/docs/sr
+  # skip broken translations
+  rm -r mateweather/docs/sr */help/tr */docs/hy
   ./configure --prefix=/usr \
     --sysconfdir=/etc \
     --libexecdir=/usr/lib/$name \
