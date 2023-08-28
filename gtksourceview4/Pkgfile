@@ -1,0 +1,23 @@
+# Description: A text widget adding syntax highlighting
+# URL: https://www.gnome.org/
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: glade vala
+
+name=gtksourceview4
+version=4.8.4
+release=1
+source=(https://ftp.gnome.org/pub/gnome/sources/gtksourceview/${version:0:3}/gtksourceview-$version.tar.xz)
+
+build() {
+	meson setup gtksourceview-$version build \
+		--prefix=/usr \
+		--buildtype=plain \
+		--wrap-mode nodownload \
+		-D b_lto=true \
+		-D b_pie=true \
+		-D glade_catalog=true
+	meson compile -C build -j ${JOBS:-1}
+	DESTDIR=$PKG meson install -C build
+
+	rm -r $PKG/usr/share/locale
+}

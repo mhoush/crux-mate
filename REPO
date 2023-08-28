@@ -38,6 +38,7 @@ d:mate
 d:mozo
 d:pluma
 d:udisks2
+d:gtksourceview4
 f:ee4798635fcbfc0b9f271ca7808d2172:atril/.footprint
 f:c7bc527db912bf7436b12c37971095de:atril/.signature
 f:c9de34f88570ffeb13ffa5a4273497b2:atril/Pkgfile
@@ -88,10 +89,10 @@ f:d76bd8e4c485bd2856acfb73e8a345d6:marco/.footprint
 f:ef7a08833eb72b097e31fb673420a93e:marco/.signature
 f:2bd2ccdfcf287f09e0499555e04698a1:marco/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:marco/post-install
-f:16bc325858ef7bcd5439dc0750690adf:mate-applets/post-install
 f:03e1249299e0778d2a2048822f622140:mate-applets/.footprint
 f:5465754fab97a86bfe065471c6bbdf82:mate-applets/.signature
 f:02f6464eb3436f2e8269a1ff05c7a9c6:mate-applets/Pkgfile
+f:16bc325858ef7bcd5439dc0750690adf:mate-applets/post-install
 f:6baa6fd7ea169cf11960a5c95705f97e:mate-backgrounds/.footprint
 f:f1ac15c81a585e57563cc40af6c15f1c:mate-backgrounds/.signature
 f:ee628557b6818e4985ffba9f388ac1ea:mate-backgrounds/Pkgfile
@@ -175,6 +176,7 @@ f:9a9103c0d4dee925f3e58a2374dad06b:mate-themes/.footprint
 f:a566320214ff1b5e93011c5a28540422:mate-themes/.signature
 f:d0b23b0f2138ba79d26a834e6d7f8fd5:mate-themes/Pkgfile
 f:7a42e4afb19a9da9cc0b03d5a1b7c5d0:mate-themes/post-install
+f:97db9991e547d2c9b28d773b71bbe98a:mate.pub
 f:cafef614d49db1509e7a2dd958fbe24a:mate/.footprint
 f:efbfc37a9fd7c7896fd55094f16dc509:mate/.signature
 f:26350ce60e8dfd2038cfbddafce2b062:mate/Pkgfile
@@ -189,4 +191,6 @@ f:8ab1a8aebf81c512aa5d551b60792167:pluma/post-install
 f:99d3c33a943ea1aad09a88d9d97ddcd2:udisks2/.footprint
 f:8eeb25ded4108b75ba20c42c549a6706:udisks2/.signature
 f:672d7106133d35d2c2da579e5769fcd7:udisks2/Pkgfile
-f:97db9991e547d2c9b28d773b71bbe98a:mate.pub
+f:16096a7a3ed25731f3fec0a116825fcd:gtksourceview4/.footprint
+f:797d1626297280c40eed63192f608d59:gtksourceview4/Pkgfile
+f:de19f25b79dd570a018b65df4612498c:gtksourceview4/.signature
