@@ -4,12 +4,14 @@
 # Depends on: dbus-glib mate-menus libwnck-gtk3 librsvg libmateweather mate-desktop itstool
 
 name=mate-panel
-version=1.26.2
+version=1.26.3
 release=1
-source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
+source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz
+  gettext-0.22.patch)
 
 build() {
   cd $name-$version
+  patch -p1 -i $SRC/gettext-0.22.patch
   ./configure --prefix=/usr \
     --libexecdir=/usr/lib/$name \
     --disable-nls

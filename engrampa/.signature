@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOf2/jnwZ4i8AWW9PdxxEZrpEpoTdLY3WUPO9gXd6DC6fzaWSmJYTTfNx2rwcau6Weiq2vZtDiJtaeC9XsHr1xwA=
-SHA256 (Pkgfile) = 0effd482cd21300d4c5b0907c513f7c89f6744caffbbb077b997da9bd94b52a6
+RWTDGCtBFHpiOd+ls5AFwpELk+KN8EcsAqhzXp22xbLbMAgm4F9qEIy1/CHF3dZDvQnL7ywQQLujCEA1YSRduM8loQBEBLNQyQ8=
+SHA256 (Pkgfile) = 102c7ef2f85ea95ca87a78a38e336cb1f0624f85925e188fb744c6422626d307
 SHA256 (.footprint) = fa724ba11f7fb17a1ce2663a52d6cef06ebd058dd9579e504fc89961129f80f5
-SHA256 (engrampa-1.26.0.tar.xz) = 97cdb2c22c32315a38803d4147dfad9de7309e30ce8f37ac9f600709ad075ee3
+SHA256 (engrampa-1.26.1.tar.xz) = f0224107a7a4e9ea6309c9e78aa5faac802c4cf72a49ac283aa9e7ae1e8a6c4a

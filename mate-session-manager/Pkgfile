@@ -4,7 +4,7 @@
 # Depends on: dbus-glib gtk3 consolekit gtk desktop-file-utils
 
 name=mate-session-manager
-version=1.26.0
+version=1.26.1
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz \
   start-mate)
