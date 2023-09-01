@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOa0KfR1C2Wczs9kDUpgfg6chH06h/DzLmwi6UhdRGxXDCOVyidyoNeaGnsNFcwHSupRL67bQLrHfcDFWpJ/qQwk=
+SHA256 (Pkgfile) = 901490820bed12a769b51668e560e2c431aabf76bc673ae4553e066251bfc474
+SHA256 (.footprint) = 1bf350916d0bc9f93641e95ed6c1abefb51396698676d03c55d2c01fce7dfa78
+SHA256 (gtksourceview-3.24.11.tar.xz) = 691b074a37b2a307f7f48edc5b8c7afa7301709be56378ccf9cc9735909077fd

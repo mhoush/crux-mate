@@ -39,6 +39,7 @@ d:mozo
 d:pluma
 d:udisks2
 d:gtksourceview4
+d:gtksourceview3
 f:ee4798635fcbfc0b9f271ca7808d2172:atril/.footprint
 f:5cf8cd0f40405e8761e0077f90f1c50b:atril/.signature
 f:64ae9893e8084827a5be7a1367bc0b02:atril/Pkgfile
@@ -90,8 +91,8 @@ f:12b6953fdab087f5b5fb44f9a0781148:marco/.signature
 f:f0b0c48e80b946dfb92dd337b03ac5a7:marco/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:marco/post-install
 f:03e1249299e0778d2a2048822f622140:mate-applets/.footprint
-f:5465754fab97a86bfe065471c6bbdf82:mate-applets/.signature
-f:02f6464eb3436f2e8269a1ff05c7a9c6:mate-applets/Pkgfile
+f:8921f626a94e570f2cf6482bd30ebc27:mate-applets/.signature
+f:31568eee8fd1960e37699decfd33890a:mate-applets/Pkgfile
 f:16bc325858ef7bcd5439dc0750690adf:mate-applets/post-install
 f:6baa6fd7ea169cf11960a5c95705f97e:mate-backgrounds/.footprint
 f:f1ac15c81a585e57563cc40af6c15f1c:mate-backgrounds/.signature
@@ -195,3 +196,6 @@ f:672d7106133d35d2c2da579e5769fcd7:udisks2/Pkgfile
 f:16096a7a3ed25731f3fec0a116825fcd:gtksourceview4/.footprint
 f:797d1626297280c40eed63192f608d59:gtksourceview4/Pkgfile
 f:de19f25b79dd570a018b65df4612498c:gtksourceview4/.signature
+f:428f9c0ef9b973c734d856487a61bd17:gtksourceview3/.footprint
+f:6c2597ebf036bfa046f5a15a1a65f930:gtksourceview3/Pkgfile
+f:39c7632f039a194524fd84094541c29f:gtksourceview3/.signature
