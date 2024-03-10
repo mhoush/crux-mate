@@ -4,17 +4,19 @@
 # Depends on: gtk3 libsecret caja poppler itstool desktop-file-utils libsynctex
 
 name=atril
-version=1.26.1
+version=1.26.2
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
-  cd $name-$version
-  ./configure --prefix=/usr \
-    --libexecdir=/usr/lib/$name \
-    --disable-nls
-  make
-  make DESTDIR=$PKG install
+    cd $name-$version
+    ./configure --prefix=/usr \
+        --libexecdir=/usr/lib/$name \
+        --disable-nls
+    make
+    make DESTDIR=$PKG install
 
-  rm -r $PKG/usr/share/gtk-doc
+    rm -r $PKG/usr/share/gtk-doc
 }
+
+# vim: set ts=4 et:
