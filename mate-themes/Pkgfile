@@ -4,19 +4,20 @@
 # Depends on: gtk
 
 name=mate-themes
-version=3.22.20
+version=3.22.24
 release=1
 source=(http://pub.mate-desktop.org/releases/themes/${version:0:4}/$name-$version.tar.xz)
 
 build() {
-  cd $name-$version
-  ./configure --prefix=/usr \
-    --disable-nls
-  make
-  make DESTDIR=$PKG install
+    cd $name-$version
+    ./configure --prefix=/usr \
+        --disable-nls
+    make
+    make DESTDIR=$PKG install
 
-  rm -r $PKG/usr/share/locale
-  find $PKG \( -name 'AUTHORS' -o \
-    -name 'COPYING' -o -name 'README' \) \
-    -delete
+    find $PKG \( -name 'AUTHORS' -o \
+        -name 'COPYING' -o -name 'README' \) \
+        -delete
 }
+
+# vim: set ts=4 et:

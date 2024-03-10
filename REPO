@@ -128,10 +128,10 @@ f:24a5e174e1b121c7a6bc36d0e4c2784b:mate-control-center/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:mate-control-center/post-install
 f:59b07d9ea521c8888b69506769d87329:mate-control-center/.signature
 f:30dd5ca11ffc1af5c9421a1e6cfcedfb:mate-control-center/.footprint
-f:d0b23b0f2138ba79d26a834e6d7f8fd5:mate-themes/Pkgfile
+f:a3d40498e6786df87c3d204b1269258e:mate-themes/Pkgfile
 f:7a42e4afb19a9da9cc0b03d5a1b7c5d0:mate-themes/post-install
-f:a566320214ff1b5e93011c5a28540422:mate-themes/.signature
-f:9a9103c0d4dee925f3e58a2374dad06b:mate-themes/.footprint
+f:d560a19cf92feded39c29288f55721f4:mate-themes/.signature
+f:44c58e30010e98906c8e689e65bf2d4b:mate-themes/.footprint
 f:dc94ba3d088d5681c3f1b053e313babf:libatasmart/Pkgfile
 f:be9714464f578fc63d0d614bc9170f2a:libatasmart/.signature
 f:076c350230a7e161f1feab580ecbcb42:libatasmart/.footprint
