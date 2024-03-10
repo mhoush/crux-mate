@@ -115,9 +115,9 @@ f:419923fe2a79899da504ef8fb903a015:mate-terminal/.footprint
 f:797d1626297280c40eed63192f608d59:gtksourceview4/Pkgfile
 f:de19f25b79dd570a018b65df4612498c:gtksourceview4/.signature
 f:16096a7a3ed25731f3fec0a116825fcd:gtksourceview4/.footprint
-f:c53ff17539f04fc8d0ad637cb4ab4f4b:mate-system-monitor/Pkgfile
+f:77d942e77852f3a8dea095b11cb1bd95:mate-system-monitor/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:mate-system-monitor/post-install
-f:6831883dd9892a12c7d5339f0502bc48:mate-system-monitor/.signature
+f:ba1fb9458a1ca808affd8800c3713c2e:mate-system-monitor/.signature
 f:4f2677d2d77543d1a3103d2c68b2aa4d:mate-system-monitor/.footprint
 f:5aa08c488e574aa4c7faedda90b83040:mate-system-monitor/msm-cpu-colors.patch
 f:864274ec02e8627b7c3c60e998305830:mate-settings-daemon/Pkgfile
