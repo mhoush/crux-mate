@@ -98,8 +98,8 @@ f:d2028c99f1806a4788debb31de2a64c4:libmatekbd/Pkgfile
 f:627ed74e27650ad8b5f860f26a174def:libmatekbd/post-install
 f:d2e51ced1f7b12280f3da5e1e51a4e63:libmatekbd/.signature
 f:cd6379c59628f6f00419ec4f922d8d41:libmatekbd/.footprint
-f:306e58570be60b83d4853a0c38ac1b05:libmatemixer/Pkgfile
-f:8982f115aa43efc99d70b08260be6f8e:libmatemixer/.signature
+f:52271f1aeef8c5431c3be38fa34796e5:libmatemixer/Pkgfile
+f:e5ff0cd4b82a11c5f204264dff4c3753:libmatemixer/.signature
 f:39c5b42795eb4cf151d6ce8fd689cd50:libmatemixer/.footprint
 f:268a2820b5b3dea8aba5157ec44bb32b:atril/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:atril/post-install
