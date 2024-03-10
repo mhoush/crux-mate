@@ -4,19 +4,19 @@
 # Depends on: dbus-glib mate-menus libwnck-gtk3 librsvg libmateweather mate-desktop itstool
 
 name=mate-panel
-version=1.26.3
+version=1.26.4
 release=1
-source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz
-  gettext-0.22.patch)
+source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
-  cd $name-$version
-  patch -p1 -i $SRC/gettext-0.22.patch
-  ./configure --prefix=/usr \
-    --libexecdir=/usr/lib/$name \
-    --disable-nls
-  make
-  make DESTDIR=$PKG install
+    cd $name-$version
+    ./configure --prefix=/usr \
+        --libexecdir=/usr/lib/$name \
+        --disable-nls
+    make
+    make DESTDIR=$PKG install
 
-  rm -r $PKG/usr/share/gtk-doc
+    rm -r $PKG/usr/share/gtk-doc
 }
+
+# vim: set ts=4 et:

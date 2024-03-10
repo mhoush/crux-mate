@@ -1,6 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOajxIBDd6br4LuMoDumXmF4qcFGVeReKmpcXTpH79u/0SCvKjDkOdn4DkOrab9kFCuhh3FovlYyevcGiQcRRqAc=
-SHA256 (Pkgfile) = 473a5b6d022c1c11c6997f743ce78b3eb351b5aefb5cd02810a68929784cb364
-SHA256 (.footprint) = 83dfb62e733a02a1a0c38191c53a6e2692ba0fd52db6fbd6295f8bcdf2144564
-SHA256 (mate-panel-1.26.3.tar.xz) = f33f10d527450ba7e98cc70ab255ac481330aa9e66dbcc7c511b6baa171de029
-SHA256 (gettext-0.22.patch) = 3467c900c8c8cbfbbd853bf986b4d7c26ec3d04bbdc6e79a737ab94928b31ffd
+RWTDGCtBFHpiOXFI9dLU1HrRJjg7SzUwKigDY/ECJja9QKp1zOCXqKCoABzuNXiz+BOwle/ZKPDTDvDXI/irb1YOlm97j8g1OwE=
+SHA256 (Pkgfile) = eb18218ddabcef1f4d649523bd802e84e47e7f09cde0d6333446dbbd0d1957d5
+SHA256 (.footprint) = a567da55a5e32feed60f1bc006bba992c8986e05f6e3c0983571f444bcb1b7fb
+SHA256 (mate-panel-1.26.4.tar.xz) = 2070f9d515657e5ddcda0d87ef729713dba9cb7b2ad06223bd674a21cc6b3daf
