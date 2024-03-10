@@ -13,7 +13,6 @@ d:mate-backgrounds
 d:mate-common
 d:mate-notification-daemon
 d:gtksourceview3
-d:libayatana-indicator
 d:libmatekbd
 d:libmatemixer
 d:atril
@@ -35,9 +34,7 @@ d:mate-sensors-applet
 d:libsynctex
 d:caja
 d:mate-panel
-d:udisks2
 d:mate-polkit
-d:ayatana-ido
 d:pluma
 d:mate-screensaver
 f:bb50885e2e60005802fd778030f46a7c:mate-calc/Pkgfile
@@ -97,9 +94,6 @@ f:836135cd4f6e3cda70bf7462dc46aec7:mate-notification-daemon/.footprint
 f:6c2597ebf036bfa046f5a15a1a65f930:gtksourceview3/Pkgfile
 f:39c7632f039a194524fd84094541c29f:gtksourceview3/.signature
 f:428f9c0ef9b973c734d856487a61bd17:gtksourceview3/.footprint
-f:73238ecb4d28b154fc1d181365848f64:libayatana-indicator/Pkgfile
-f:5b9095cc9b1bd9f9a7b1534d013af7c9:libayatana-indicator/.signature
-f:8e03d197c24662a1673722efaccffa6e:libayatana-indicator/.footprint
 f:d2028c99f1806a4788debb31de2a64c4:libmatekbd/Pkgfile
 f:627ed74e27650ad8b5f860f26a174def:libmatekbd/post-install
 f:d2e51ced1f7b12280f3da5e1e51a4e63:libmatekbd/.signature
@@ -181,15 +175,9 @@ f:f842bb30f25d1658de5fee11d9be9b81:mate-panel/post-install
 f:de8a8b22ed27f20ee4e0765a2db30509:mate-panel/.signature
 f:75cf9e63eb47b487ddc1644a679f7b42:mate-panel/gettext-0.22.patch
 f:e0acb2f6e465f3b9d1ba90087b4fef58:mate-panel/.footprint
-f:672d7106133d35d2c2da579e5769fcd7:udisks2/Pkgfile
-f:8eeb25ded4108b75ba20c42c549a6706:udisks2/.signature
-f:99d3c33a943ea1aad09a88d9d97ddcd2:udisks2/.footprint
 f:7121c1820352a2eff59215684bba1636:mate-polkit/Pkgfile
 f:11e55d9760e82a7664544326f40a3d1c:mate-polkit/.signature
 f:34fabaea815f9bc34377c367d7247c53:mate-polkit/.footprint
-f:dde84445b2b3ab0fbffb26f008269775:ayatana-ido/Pkgfile
-f:1365124e56607d62d8f32e2e31ea61f4:ayatana-ido/.signature
-f:ba523621b2433d3420fa224dbaa2b165:ayatana-ido/.footprint
 f:cf41bee2fa2cac8dfe26934d4f610af1:pluma/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:pluma/post-install
 f:75bce4786c5e56ccb9bbfc0622a7b1d4:pluma/.signature
