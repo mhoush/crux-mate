@@ -68,9 +68,9 @@ f:f842bb30f25d1658de5fee11d9be9b81:eom/post-install
 f:8dc68e4d12760c01b95a0a48597fa6fc:eom/.signature
 f:8b32d726eef0681972ceec568ce3b5f2:eom/.footprint
 f:97db9991e547d2c9b28d773b71bbe98a:mate.pub
-f:f97e09c611c297badeb0fbf29dcaa994:mate-media/Pkgfile
+f:a8ef4312f84d9400bdfe547e92ab81da:mate-media/Pkgfile
 f:d3633885bdb1db84d29256e9542f9546:mate-media/post-install
-f:f035dd2c6f7ae42f2bc53f3f7d05e329:mate-media/.signature
+f:37abeb078d01a14e08a14d510b209eb4:mate-media/.signature
 f:d6def3a6abae9bde66fe907b605a73c3:mate-media/.footprint
 f:cf749971d7b6840c71da0287b29d27f2:mate-session-manager/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:mate-session-manager/post-install
