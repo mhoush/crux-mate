@@ -4,17 +4,19 @@
 # Depends on: mate-desktop glib gtk3 libnotify gvfs desktop-file-utils
 
 name=caja
-version=1.26.1
+version=1.26.3
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
-  cd $name-$version
-  ./configure --prefix=/usr \
-    --disable-nls \
-    --disable-update-mimedb
-  make
-  make DESTDIR=$PKG install
+    cd $name-$version
+    ./configure --prefix=/usr \
+        --disable-nls \
+        --disable-update-mimedb
+    make
+    make DESTDIR=$PKG install
 
-  rm -r $PKG/usr/share/gtk-doc
+    rm -r $PKG/usr/share/gtk-doc
 }
+
+# vim: set ts=4 et:

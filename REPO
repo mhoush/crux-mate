@@ -166,9 +166,9 @@ f:eab4df958f472bc814153bb3c31a734a:mate-sensors-applet/.footprint
 f:7e186839bf35121e102fd708c9d2e188:libsynctex/Pkgfile
 f:77be9768cf8014d3d321fa9557ff43d2:libsynctex/.signature
 f:f69d26489306e5b47d7bebe64e89dc2b:libsynctex/.footprint
-f:52916c79945426d0455042c472533bba:caja/Pkgfile
+f:9522e0ecb4c2cb3b0c04b77fbc67ed5e:caja/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:caja/post-install
-f:d181ec57d959bbcbb4866a839caaa48a:caja/.signature
+f:03195ff8e9bb8a1c1a96afe28842d19a:caja/.signature
 f:36879e8285bfba3a82bf0d05ac6962a7:caja/.footprint
 f:8952709b27e95be4bf094f466b2f74ad:mate-panel/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:mate-panel/post-install
