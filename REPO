@@ -56,9 +56,9 @@ f:10f4cdd38d55bf2fb307ecf7624f516b:gvfs/Pkgfile
 f:627ed74e27650ad8b5f860f26a174def:gvfs/post-install
 f:fa208e21670882fb42de7f55b626dd8e:gvfs/.signature
 f:1e5ccb70b473a44de3e539ed3f81e4ff:gvfs/.footprint
-f:c7374573e6e594048c17d539c8fbebd1:libmateweather/Pkgfile
+f:585ef5d1b9d4b6b529b498f9e2031c72:libmateweather/Pkgfile
 f:5d04f55a1f7c25393f566f8164c96191:libmateweather/post-install
-f:3b75f0ed5d616e3ea20222db589ec9c2:libmateweather/.signature
+f:5184efff7212399739a9b34d26f73786:libmateweather/.signature
 f:023fc41f95f40d233cc46ccae9150abd:libmateweather/.footprint
 f:26350ce60e8dfd2038cfbddafce2b062:mate/Pkgfile
 f:efbfc37a9fd7c7896fd55094f16dc509:mate/.signature
