@@ -14,7 +14,6 @@ drwxr-xr-x	root/root	etc/xrdb/
 drwxr-xr-x	root/root	usr/
 drwxr-xr-x	root/root	usr/include/
 drwxr-xr-x	root/root	usr/include/mate-settings-daemon/
--rw-r--r--	root/root	usr/include/mate-settings-daemon/mate-settings-client.h
 -rw-r--r--	root/root	usr/include/mate-settings-daemon/mate-settings-plugin.h
 drwxr-xr-x	root/root	usr/lib/
 drwxr-xr-x	root/root	usr/lib/mate-settings-daemon/

@@ -1,14 +1,18 @@
 # Description: The MATE window manager, a fork of metacity
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: libcanberra zenity desktop-file-utils
+# Depends on: libcanberra zenity desktop-file-utils mate-desktop libcanberra
 
 name=marco
-version=1.26.2
+version=1.28.1
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
+  if [ ! -f /usr/lib/pkgconfig/libcanberra-gtk3.pc ]; then
+		echo -e "\n\nlibcanberra-gtk3.pc not found, libcanberra needs to be rebuilt after gtk3 installation.\n\n"
+		exit 1
+  fi
   cd $name-$version
   ./configure --prefix=/usr \
     --disable-nls

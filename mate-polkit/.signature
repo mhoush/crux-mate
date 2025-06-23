@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiORoeps9/kOu2Z2i9VAC2Q28n8YOY6mpMMqXquXwgt2bJ1rATIHBkxrk4txhUSgC/HdZTsQj4+AIA3cONIK/YYwk=
-SHA256 (Pkgfile) = 50871ae8395e67ed660b5073abb45e6f2bacca753cbb11d90c29b6b17d57111c
+RWTDGCtBFHpiOUrUzrIkoyyFz/CuHc2/bKd3QfyK0qGU2qEhep61a77tJR7n9GTV+0RRVjnV/bUzBp0dsHT2ajBPDEGpazoCbgk=
+SHA256 (Pkgfile) = 6da3ea8831a99740fe1978ac52cf36d4028abe6242485b3a2eeddf6cd9ab6183
 SHA256 (.footprint) = 846b4753304a4e13d79590b8f92ad5ca9c64357a4e33e99a4108838008c79c7a
-SHA256 (mate-polkit-1.26.1.tar.xz) = f5b7b0b5dfc53302c40403245998eb9121af3f50e71666a09ab73bb254520357
+SHA256 (mate-polkit-1.28.1.tar.xz) = 350a1dd0a8ed6a2c9c183cff2a21f394299e968fcc6ae2e8c93c565dae604ae8

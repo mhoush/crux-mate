@@ -1,6 +1,6 @@
 # [MATE Desktop Environment](http://www.mate-desktop.org/) ports collection for [CRUX](https://crux.nu/) Linux #
 
-## The current release is MATE 1.26 for CRUX 3.7 (as of 03 Oct 2022). ##
+## The current release is MATE 1.28 for CRUX 3.8 (as of 23 Jun 2025). ##
 
 ## Quickstart ##
 

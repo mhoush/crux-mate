@@ -1,23 +1,39 @@
 # Description: A userspace virtual filesystem designed to work with the I/O abstractions of gio (glib)
 # URL: http://projects.gnome.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: glib gcr3 samba libgcrypt polkit docbook-xsl libgphoto2 udisks2 meson ninja libsoup
+# Depends on: glib gcr samba libgcrypt polkit docbook-xsl libgphoto2 udisks2 meson ninja libsoup libsoup3 avahi
 
 name=gvfs
-version=1.36.0
+version=1.57.2
 release=1
 source=(http://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.xz)
 
 build() {
-  cd $name-$version
-  sed -i -e '/gtkdocize/d' autogen.sh
-  NOCONFIGURE=1 ./autogen.sh
-  ./configure --prefix=/usr \
+  meson setup $name-$version build \
+    --prefix=/usr \
     --libexecdir=/usr/lib/$name \
-    --enable-udisks2 \
-    --disable-nls
-  make
-  make DESTDIR=$PKG install
+    --buildtype=plain \
+    --wrap-mode nodownload \
+    -D b_lto=true \
+    -D b_pie=true \
+    -D systemduserunitdir=no \
+    -D tmpfilesdir=no \
+    -D logind=false \
+    -D afc=false \
+    -D bluray=false \
+    -D cdda=false \
+    -D fuse=false \
+    -D goa=false \
+    -D google=false \
+    -D onedrive=false \
+    -D man=true \
+    -D mtp=false \
+    -D nfs=false
+
+  meson compile -C build
+  DESTDIR=$PKG meson install -C build
+
+  rm -r $PKG/usr/share/locale
 }
 
 # vim: set ts=2 et:

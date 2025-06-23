@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOUHaeNYRpgtjm+3jpmyearBDk8RPvuDt1KttzB2fWTFdgzNvCTA30HdPeLI4zAxaw9PwAFV2a7iMnlbAqLEbng8=
-SHA256 (Pkgfile) = ce7bf265b1463107b6a4f5433aa3ffda8d4134e96b83de726ba1769f3088157f
-SHA256 (.footprint) = 6855ba481d09bef6014294c8aa113cd4ba27d5d50bcc63c7bc131a3adfc3d90a
-SHA256 (libmatekbd-1.26.1.tar.xz) = 63938d91252945eeea88fd8374d1231bd83d02cd965c6bba17c185edb397bced
+RWTDGCtBFHpiOcTGPY/TpEC8zXXGcsZAExIy4qoWRhPGhTbqynVxexDP8PbvBwNz55QswMqKZjnoswA+u8JpfOGsZ/T7TRk5dQI=
+SHA256 (Pkgfile) = 2c3915aa03b679f9d9bee165c50545440ed52d9d7042ac2185540b35b2b53920
+SHA256 (.footprint) = 74f18a5c1d73c2ac54cb3ddd04c592f8dda9391b9e60baea993f0dc1353dd189
+SHA256 (libmatekbd-1.28.0.tar.xz) = 5d2e58483c2b23d33503d24c88f8b90a28cc0189d7e4001b3e273a604f6fe80e

@@ -4,7 +4,7 @@
 # Depends on: libgtop gtkmm3 libwnck-gtk3 librsvg itstool desktop-file-utils polkit
 
 name=mate-system-monitor
-version=1.26.3
+version=1.28.1
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz \
   msm-cpu-colors.patch)
@@ -14,7 +14,8 @@ build() {
   patch -d src -i $SRC/msm-cpu-colors.patch
   ./configure --prefix=/usr \
     --libexecdir=/usr/lib/$name \
-    --disable-nls
+    --disable-nls \
+    --disable-systemd
   make
   make DESTDIR=$PKG install
 }

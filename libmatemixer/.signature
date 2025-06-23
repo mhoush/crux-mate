@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOZ54VTf/M1gbLbtU5etGd/D3NRaROJU1iio9wpMISBTetySlS8HSvN1N+mP48znH4ZmH2PtHLGsKvYCQz29mGQo=
-SHA256 (Pkgfile) = 86602a0a10b20be640b06d28314ccf44c1663b7db73b85d6a9d4d6263dce7f77
+RWTDGCtBFHpiOXQDEXbvd+tFmJLKqYadJR40y3gC9iFX6bxPSVhZmRI+029929YhJO4EFOnw0wzR5QlVBeILp+yrotvUv05LdQA=
+SHA256 (Pkgfile) = da4c1b3c150a00b5cf2eed7d0c01beed6a69830c3a8768dc0032a266c6f37f38
 SHA256 (.footprint) = ece2041a12a480010004b733984f5f1df0d16beb70449caca6ae5ec2136896ca
-SHA256 (libmatemixer-1.26.1.tar.xz) = 4960f59a6b9faf82a01d4a4b8cc260b4868dd991efd4a9b17b5d0a15a1d3a1ae
+SHA256 (libmatemixer-1.28.0.tar.xz) = 5d73b922397f60688e3c9530eb532bce46c30e262db1b5352fa32c40d870a0c7

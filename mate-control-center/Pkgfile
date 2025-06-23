@@ -1,19 +1,22 @@
 # Description: MATE control center
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: marco mate-settings-daemon desktop-file-utils mate-menus librsvg xorg-libxscrnsaver
+# Depends on: marco mate-settings-daemon desktop-file-utils mate-menus librsvg xorg-libxscrnsaver udisks2 libgtop libayatana-appindicator
 
 name=mate-control-center
-version=1.26.1
+version=1.28.1
 release=1
-source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
+source=(https://github.com/mate-desktop/$name/archive/v${version}/$name-$version.tar.gz)
 
 build() {
   cd $name-$version
+  autoreconf -ifv
   sed -i -e '/update-desktop-database/d' font-viewer/Makefile.in
+  sed -i -e '/@YELP_HELP_RULES@/d' help/Makefile.in
   ./configure --prefix=/usr \
     --disable-nls \
-    --disable-update-mimedb
+    --disable-update-mimedb \
+    --disable-systemd
   make
   make DESTDIR=$PKG install
 }

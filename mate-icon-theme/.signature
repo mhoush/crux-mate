@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOemd3k7oL1AggA6tqC0C43f8AJRKnPyYJQi76uK1TuhNAuCg3EeRqqSWBIlZaqozK3h8/jpg4MC0jAh1n4AZqQ8=
-SHA256 (Pkgfile) = 16549e286957117efe95a5f9e401a2ab32ac1bc8edaf8ee8bde5d09b303177dc
+RWTDGCtBFHpiOciWv60GAf8iFQ8psCTLbdB0QyGBLZCQBXaSnI4Ezo4+kLJjGL4lVzpnglIlYL7WthztNNl72qfWdlcPy6KPBQU=
+SHA256 (Pkgfile) = b78ab6836ee35885f6e1e26e34d9d63abf869d1ee695169f181930350b7f326c
 SHA256 (.footprint) = 45d16096eaa921d9ec34d1a8ba28516ab8ec7b19f8b62ea51431917e2526da6a
-SHA256 (mate-icon-theme-1.26.0.tar.xz) = 41f50436d57f425e54fd9557541be77fb291e03aacd55f7991c042e84a290a5a
+SHA256 (mate-icon-theme-1.28.0.tar.xz) = 94d6079060ca5df74542921de4eea38b7d02d07561c919356d95de876f9a6d3a

@@ -4,7 +4,7 @@
 # Depends on: libxklavier libmatekbd dbus-glib dconf mate-desktop polkit libmatemixer nss libnotify
 
 name=mate-settings-daemon
-version=1.26.1
+version=1.28.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 

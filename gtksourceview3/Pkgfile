@@ -12,10 +12,6 @@ source=(https://ftp.gnome.org/pub/gnome/sources/gtksourceview/${version:0:4}/gtk
 build() {
   cd gtksourceview-$version
 
-  #if [ -n "$(pkginfo -i | grep '^glade ')" ]; then
-  #  local glade=--enable-glade-catalog
-  #fi
-
   ./configure \
     --prefix=/usr \
     --disable-nls \

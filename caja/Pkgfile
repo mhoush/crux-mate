@@ -4,7 +4,7 @@
 # Depends on: mate-desktop glib gtk3 libnotify gvfs desktop-file-utils
 
 name=caja
-version=1.26.3
+version=1.28.0
 release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 

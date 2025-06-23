@@ -4,7 +4,7 @@
 # Depends on: zziplib xorg-libx11
 
 name=libsynctex
-version=svn54456
+version=svn69778
 release=1
 source=(https://github.com/TeX-Live/texlive-source/archive/$version.tar.gz)
 
