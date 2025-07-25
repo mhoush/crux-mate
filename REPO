@@ -2,10 +2,8 @@ d:atril
 d:caja
 d:engrampa
 d:eom
-d:gtksourceview3
 d:gtksourceview4
 d:gvfs
-d:libatasmart
 d:libgtop
 d:libmatekbd
 d:libmatemixer
@@ -53,9 +51,6 @@ f:8b32d726eef0681972ceec568ce3b5f2:eom/.footprint
 f:91b5b51083145afe63357a2491710330:eom/.signature
 f:0d081383b3f427bdd3e8176f7e588c2f:eom/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:eom/post-install
-f:428f9c0ef9b973c734d856487a61bd17:gtksourceview3/.footprint
-f:a0d180ea2efb6630a42fe5730b62be91:gtksourceview3/.signature
-f:987e1f583ea314e698052748c7cf61f9:gtksourceview3/Pkgfile
 f:16096a7a3ed25731f3fec0a116825fcd:gtksourceview4/.footprint
 f:de19f25b79dd570a018b65df4612498c:gtksourceview4/.signature
 f:797d1626297280c40eed63192f608d59:gtksourceview4/Pkgfile
@@ -63,9 +58,6 @@ f:f0edb319c81bc7ec8bc8b75c126d5429:gvfs/.footprint
 f:3979cc07590e044ee576f5936c4bdb66:gvfs/.signature
 f:12b669678587c224a38a953784c3bcaf:gvfs/Pkgfile
 f:627ed74e27650ad8b5f860f26a174def:gvfs/post-install
-f:076c350230a7e161f1feab580ecbcb42:libatasmart/.footprint
-f:be9714464f578fc63d0d614bc9170f2a:libatasmart/.signature
-f:dc94ba3d088d5681c3f1b053e313babf:libatasmart/Pkgfile
 f:c65c2eec3a2097c719e1f5da395c0eea:libgtop/.footprint
 f:ea87ca335d35886e837600c8d6f6216a:libgtop/.signature
 f:9a652adb3c48575a13d0a12db6e35825:libgtop/Pkgfile
