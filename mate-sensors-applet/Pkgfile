@@ -5,11 +5,12 @@
 
 name=mate-sensors-applet
 version=1.28.0
-release=1
-source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
+release=2
+source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz mate-sensors-applet-glib.patch)
 
 build() {
   cd $name-$version
+  patch -p1 -i ${SRC}/mate-sensors-applet-glib.patch
   ./configure --prefix=/usr \
     --libexecdir=/usr/lib/$name \
     --disable-nls
