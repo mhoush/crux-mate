@@ -1,0 +1,22 @@
+# Description: A gobject-based plugin engine.
+# URL: https://wiki.gnome.org/Projects/Libpeas
+# Maintainer: Matt Housh, jaeger at crux dot ninja
+# Depends on: gtk3 python3-gobject vala
+
+name=libpeas
+version=1.36.0
+release=1
+source=(https://download.gnome.org/sources/$name/${version:0:4}/$name-$version.tar.xz)
+
+build() {
+  meson setup build $name-$version \
+    --prefix=/usr \
+    --buildtype=plain \
+    --wrap-mode nodownload \
+    -D b_lto=true \
+    -D b_pie=true
+  meson compile -C build -j ${JOBS:-1}
+  DESTDIR=$PKG meson install -C build
+
+  rm -r $PKG/usr/share/locale
+}

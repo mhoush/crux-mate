@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/mate.pub
+RWTDGCtBFHpiOeMIm2XqX4VDSRzHS3aknrwSm0BYFMSxmy0y0MbZPHAewaallqJafwWlDRuL4oyfCJf0DMQ/82arvPSjI6OIgQc=
+SHA256 (Pkgfile) = ff203b001e87f46136ee80d84802e83cb3402885e7617f82db2116eb4c34a032
+SHA256 (.footprint) = 4f266c9bf886634d1a3d5dc39ecfe0678599a545858fd5ecefec229e42aae89e
+SHA256 (libpeas-1.36.0.tar.xz) = 297cb9c2cccd8e8617623d1a3e8415b4530b8e5a893e3527bbfd1edd13237b4c

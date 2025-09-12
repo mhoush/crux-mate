@@ -35,6 +35,7 @@ d:mate-themes
 d:mate
 d:mozo
 d:pluma
+d:libpeas
 f:ab4314711566a21d637d60d02fd60b5b:atril/.footprint
 f:3e66f86c3283398f0b9091658c0d1bb1:atril/.signature
 f:4e2f9dbb89b47cde3e4c84569645c5b4:atril/Pkgfile
@@ -179,3 +180,6 @@ f:f3a557fe3aa68fe84687335bde32e19e:pluma/.footprint
 f:1ec0a30f29bffe41cc00cd5d0e307e7c:pluma/.signature
 f:c80cc17c63488a26e19c311c77ba1baf:pluma/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:pluma/post-install
+f:267e51ec7dd9eab5a7f273310ae3c64d:libpeas/.footprint
+f:d20fd8fd596394cf1e1faac3e3386c96:libpeas/.signature
+f:84ada1e46658ee831a4bf1adeca19142:libpeas/Pkgfile
