@@ -5,7 +5,7 @@
 
 name=mate-desktop
 version=1.28.2
-release=1
+release=2
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
@@ -16,4 +16,7 @@ build() {
   make DESTDIR=$PKG install
 
   rm -r $PKG/usr/share/gtk-doc
+
+  sed -i -e 's,OnlyShowIn=MATE;,#OnlyShowIn=MATE;,g' \
+    $PKG/usr/share/applications/mate-color-select.desktop
 }

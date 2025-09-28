@@ -100,8 +100,8 @@ f:19e9871140f1e3f1f6fc53e9ff8b02de:mate-control-center/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:mate-control-center/post-install
 f:5adfe839c947aaa8b2bc17cf514b41d3:mate-desktop/.footprint
 f:f842bb30f25d1658de5fee11d9be9b81:mate-desktop/post-install
-f:b3a0577ce0b8698da2e81c936af74529:mate-desktop/.signature
-f:e0639486a2d6e6eacce731aa3d0f2417:mate-desktop/Pkgfile
+f:c544c4ca19ceac64016e46b2172fd8d0:mate-desktop/.signature
+f:14d87e53469e1a23b10ed3148b5535cd:mate-desktop/Pkgfile
 f:e5b2289a38ed5cf73ac930330306d8e4:mate-icon-theme-faenza/.footprint
 f:1a766c66072dc6e8a5002af9531617ce:mate-icon-theme-faenza/.signature
 f:226434a7675cf48a9d212a4cbde20818:mate-icon-theme-faenza/Pkgfile
