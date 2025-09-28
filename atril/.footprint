@@ -74,11 +74,6 @@ drwxr-xr-x	root/root	usr/lib/atril/3/backends/
 -rw-r--r--	root/root	usr/lib/atril/3/backends/pdfdocument.atril-backend
 -rw-r--r--	root/root	usr/lib/atril/3/backends/tiffdocument.atril-backend
 -rwxr-xr-x	root/root	usr/lib/atril/atrild
-drwxr-xr-x	root/root	usr/lib/caja/
-drwxr-xr-x	root/root	usr/lib/caja/extensions-2.0/
--rw-r--r--	root/root	usr/lib/caja/extensions-2.0/libatril-properties-page.a
--rwxr-xr-x	root/root	usr/lib/caja/extensions-2.0/libatril-properties-page.la
--rwxr-xr-x	root/root	usr/lib/caja/extensions-2.0/libatril-properties-page.so
 -rw-r--r--	root/root	usr/lib/libatrildocument.a
 -rwxr-xr-x	root/root	usr/lib/libatrildocument.la
 lrwxrwxrwx	root/root	usr/lib/libatrildocument.so -> libatrildocument.so.3.0.0
@@ -155,9 +150,6 @@ drwxr-xr-x	root/root	usr/share/atril/icons/hicolor/scalable/actions/
 -rw-r--r--	root/root	usr/share/atril/icons/hicolor/scalable/actions/object-rotate-right.svg
 drwxr-xr-x	root/root	usr/share/atril/icons/hicolor/scalable/mimetypes/
 -rw-r--r--	root/root	usr/share/atril/icons/hicolor/scalable/mimetypes/x-office-presentation.svg
-drwxr-xr-x	root/root	usr/share/caja/
-drwxr-xr-x	root/root	usr/share/caja/extensions/
--rw-r--r--	root/root	usr/share/caja/extensions/libatril-properties-page.caja-extension
 drwxr-xr-x	root/root	usr/share/dbus-1/
 drwxr-xr-x	root/root	usr/share/dbus-1/services/
 -rw-r--r--	root/root	usr/share/dbus-1/services/org.mate.atril.Daemon.service

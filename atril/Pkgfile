@@ -1,16 +1,19 @@
 # Description: A document viewer for MATE
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: gtk3 libsecret caja poppler itstool desktop-file-utils libsynctex
+# Depends on: gtk3 libsecret poppler itstool desktop-file-utils libsynctex mate-desktop
+# Optional: caja
 
 name=atril
 version=1.28.1
-release=1
+release=2
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
+    prt-get isinst caja || EXTRA_OPTS="--disable-caja"
     cd $name-$version
-    ./configure --prefix=/usr \
+    ./configure $EXTRA_OPTS \
+        --prefix=/usr \
         --libexecdir=/usr/lib/$name \
         --disable-nls
     make
