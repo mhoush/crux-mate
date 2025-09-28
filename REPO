@@ -158,8 +158,8 @@ f:06567701be675f5297f20c6aa07c22f7:mate-settings-daemon/post-install
 f:4f2677d2d77543d1a3103d2c68b2aa4d:mate-system-monitor/.footprint
 f:5aa08c488e574aa4c7faedda90b83040:mate-system-monitor/msm-cpu-colors.patch
 f:8ab1a8aebf81c512aa5d551b60792167:mate-system-monitor/post-install
-f:2ae66d907962272945179c33abfe3ebe:mate-system-monitor/.signature
-f:2ceae0aac0ab049cd8c61700732c70c0:mate-system-monitor/Pkgfile
+f:a37a888b23d6cfdb3e5a24f5f73a1134:mate-system-monitor/.signature
+f:6bf1ccf23538cdf49ab941a1ceae18bc:mate-system-monitor/Pkgfile
 f:141c7f25c2305709e3e18a6063c58120:mate-terminal/.footprint
 f:5f346b4479e42ae2b702e4ca850d7ca5:mate-terminal/.signature
 f:350e06214d3d0811d231c4d126e87d99:mate-terminal/Pkgfile
