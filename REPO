@@ -8,6 +8,7 @@ d:libgtop
 d:libmatekbd
 d:libmatemixer
 d:libmateweather
+d:libpeas
 d:libsynctex
 d:marco
 d:mate-applets
@@ -35,11 +36,10 @@ d:mate-themes
 d:mate
 d:mozo
 d:pluma
-d:libpeas
-f:f842bb30f25d1658de5fee11d9be9b81:atril/post-install
 f:00538957f7e6bee5b471dd8cd906d072:atril/.footprint
-f:3a6fbdef1c68d2b025be2e0acb9cc731:atril/.signature
-f:5070181fdf8849f2943471f06977cc09:atril/Pkgfile
+f:067cc160995c82abbb49ef4785218c7f:atril/.signature
+f:865731850c7b3e257dff06cc6329999e:atril/Pkgfile
+f:f842bb30f25d1658de5fee11d9be9b81:atril/post-install
 f:237e56e2808efb6542d88e8f523bc66f:caja/.footprint
 f:d257c5ef8725cf8f3566c61bf14eee06:caja/.signature
 f:89f622982b18aff10c5d04c3d26ca919:caja/Pkgfile
@@ -73,6 +73,9 @@ f:023fc41f95f40d233cc46ccae9150abd:libmateweather/.footprint
 f:9e795ae59224027f83e67d522605fabf:libmateweather/.signature
 f:e458b54c2aabdeddbd0f3f01a482398d:libmateweather/Pkgfile
 f:5d04f55a1f7c25393f566f8164c96191:libmateweather/post-install
+f:267e51ec7dd9eab5a7f273310ae3c64d:libpeas/.footprint
+f:d20fd8fd596394cf1e1faac3e3386c96:libpeas/.signature
+f:84ada1e46658ee831a4bf1adeca19142:libpeas/Pkgfile
 f:254d472d4129589e3fb7be66f50ffaba:libsynctex/.footprint
 f:6852540a26eeb1e06fdd1a9c8c4ea4a5:libsynctex/.signature
 f:289e153faf5ba6890aecf5355d5dbd52:libsynctex/Pkgfile
@@ -88,8 +91,8 @@ f:6baa6fd7ea169cf11960a5c95705f97e:mate-backgrounds/.footprint
 f:00a68c4ade8743aff1731f95b2b3c62c:mate-backgrounds/.signature
 f:83bd3a8562006d680123881803118952:mate-backgrounds/Pkgfile
 f:8b71b38730f91035b4b4af95975c4f86:mate-calc/.footprint
-f:68cc2ed83a0816a77ef6f2b74e32e9da:mate-calc/.signature
-f:5aa0d260c77baa4fcda8ec4f14e89701:mate-calc/Pkgfile
+f:41f3aedd4dc4d31800c8f92a6686419e:mate-calc/.signature
+f:ce1ee8e6801abc152a40cf9e4a8eac44:mate-calc/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:mate-calc/post-install
 f:80e269a981197c365e1b342d5a34e615:mate-common/.footprint
 f:1bddafa41580a22cdf9eabf924101200:mate-common/.signature
@@ -99,9 +102,9 @@ f:5d21a4ef3063300f0c4428738533f2ae:mate-control-center/.signature
 f:19e9871140f1e3f1f6fc53e9ff8b02de:mate-control-center/Pkgfile
 f:f842bb30f25d1658de5fee11d9be9b81:mate-control-center/post-install
 f:5adfe839c947aaa8b2bc17cf514b41d3:mate-desktop/.footprint
-f:f842bb30f25d1658de5fee11d9be9b81:mate-desktop/post-install
 f:c544c4ca19ceac64016e46b2172fd8d0:mate-desktop/.signature
 f:14d87e53469e1a23b10ed3148b5535cd:mate-desktop/Pkgfile
+f:f842bb30f25d1658de5fee11d9be9b81:mate-desktop/post-install
 f:e5b2289a38ed5cf73ac930330306d8e4:mate-icon-theme-faenza/.footprint
 f:1a766c66072dc6e8a5002af9531617ce:mate-icon-theme-faenza/.signature
 f:226434a7675cf48a9d212a4cbde20818:mate-icon-theme-faenza/Pkgfile
@@ -115,9 +118,9 @@ f:fd45e22ea4be816a01834c58c41ef61c:mate-indicator-applet/.signature
 f:cce804796e9e1f8f38f80e3be8d1a30c:mate-indicator-applet/Pkgfile
 f:f96e6792920155ae9027e6b5e7352293:mate-indicator-applet/post-install
 f:d6def3a6abae9bde66fe907b605a73c3:mate-media/.footprint
-f:73271c4a6646ff6ddd67c733faed934f:mate-media/.signature
-f:a947f990b5c5fff5360c21ea311f88d5:mate-media/Pkgfile
+f:185638db3faa11bf5345b907e965884d:mate-media/.signature
 f:d3633885bdb1db84d29256e9542f9546:mate-media/post-install
+f:4b27c968c7dee9a825b2e4a9a056c507:mate-media/Pkgfile
 f:1d80a7a9cbf296d8947d861c929d34f3:mate-menus/.footprint
 f:aa5b6f8998019fa71c083d6ceca97bd4:mate-menus/.signature
 f:f6e081f22b8874c0609b782e54f06545:mate-menus/Pkgfile
@@ -144,8 +147,8 @@ f:8ab1a8aebf81c512aa5d551b60792167:mate-screensaver/post-install
 f:eab4df958f472bc814153bb3c31a734a:mate-sensors-applet/.footprint
 f:53127dea718b903d92eff0b371b973ef:mate-sensors-applet/.signature
 f:13950abeb25882cb8b1866d463d17f80:mate-sensors-applet/Pkgfile
-f:16bc325858ef7bcd5439dc0750690adf:mate-sensors-applet/post-install
 f:87a27a7a3f39a8defed65d16a8d4a872:mate-sensors-applet/mate-sensors-applet-glib.patch
+f:16bc325858ef7bcd5439dc0750690adf:mate-sensors-applet/post-install
 f:96e05d053cdd2ac25b2638d30578febe:mate-session-manager/.footprint
 f:43d1efa9cff305dbe05835f1f96b5a28:mate-session-manager/.signature
 f:90fa156965d9eb414a45e8ae5b2a13cd:mate-session-manager/Pkgfile
@@ -156,10 +159,10 @@ f:d6582f5b1cd10572ba48cdf45eba456c:mate-settings-daemon/.signature
 f:5c05f30bbbabd729b40cbbaa3efd1e54:mate-settings-daemon/Pkgfile
 f:06567701be675f5297f20c6aa07c22f7:mate-settings-daemon/post-install
 f:4f2677d2d77543d1a3103d2c68b2aa4d:mate-system-monitor/.footprint
-f:5aa08c488e574aa4c7faedda90b83040:mate-system-monitor/msm-cpu-colors.patch
-f:8ab1a8aebf81c512aa5d551b60792167:mate-system-monitor/post-install
 f:a37a888b23d6cfdb3e5a24f5f73a1134:mate-system-monitor/.signature
 f:6bf1ccf23538cdf49ab941a1ceae18bc:mate-system-monitor/Pkgfile
+f:5aa08c488e574aa4c7faedda90b83040:mate-system-monitor/msm-cpu-colors.patch
+f:8ab1a8aebf81c512aa5d551b60792167:mate-system-monitor/post-install
 f:141c7f25c2305709e3e18a6063c58120:mate-terminal/.footprint
 f:5f346b4479e42ae2b702e4ca850d7ca5:mate-terminal/.signature
 f:350e06214d3d0811d231c4d126e87d99:mate-terminal/Pkgfile
@@ -168,7 +171,6 @@ f:44c58e30010e98906c8e689e65bf2d4b:mate-themes/.footprint
 f:4dab7242d72bc0622612521b18675882:mate-themes/.signature
 f:a318f0310c451872c2ac80668df56f04:mate-themes/Pkgfile
 f:7a42e4afb19a9da9cc0b03d5a1b7c5d0:mate-themes/post-install
-f:97db9991e547d2c9b28d773b71bbe98a:mate.pub
 f:cafef614d49db1509e7a2dd958fbe24a:mate/.footprint
 f:2e3740fcdd5a87df367151cf1edae90b:mate/.signature
 f:9ab0537671d5c9c7a77821009c331a4d:mate/Pkgfile
@@ -180,6 +182,4 @@ f:f3a557fe3aa68fe84687335bde32e19e:pluma/.footprint
 f:1ec0a30f29bffe41cc00cd5d0e307e7c:pluma/.signature
 f:c80cc17c63488a26e19c311c77ba1baf:pluma/Pkgfile
 f:8ab1a8aebf81c512aa5d551b60792167:pluma/post-install
-f:267e51ec7dd9eab5a7f273310ae3c64d:libpeas/.footprint
-f:d20fd8fd596394cf1e1faac3e3386c96:libpeas/.signature
-f:84ada1e46658ee831a4bf1adeca19142:libpeas/Pkgfile
+f:97db9991e547d2c9b28d773b71bbe98a:mate.pub
