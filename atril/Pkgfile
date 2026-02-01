@@ -10,7 +10,13 @@ release=2
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
+    if [ ! -f /usr/lib/pkgconfig/poppler-glib.pc ]; then
+        echo -e "\n\e[1;31mERROR: poppler is missing glib support; ensure glib is installed and rebuild poppler.\e[0m\n"
+        exit 1
+    fi
+
     prt-get isinst caja || EXTRA_OPTS="--disable-caja"
+
     cd $name-$version
     ./configure $EXTRA_OPTS \
         --prefix=/usr \
