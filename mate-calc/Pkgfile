@@ -9,6 +9,11 @@ release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
+  if [ ! -f /usr/lib/python3.??/site-packages/libxml2.py ]; then
+    echo -e "\n\e[1;31mERROR: libxml2 is missing python support; ensure doxygen is installed and rebuild libxml2.\e[0m\n"
+    exit 1
+  fi
+
   cd $name-$version
   # remove help/ja for now, build fails otherwise
   rm -r help/ja
