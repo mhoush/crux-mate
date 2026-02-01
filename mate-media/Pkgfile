@@ -9,6 +9,11 @@ release=1
 source=(http://pub.mate-desktop.org/releases/${version:0:4}/$name-$version.tar.xz)
 
 build() {
+  if [ ! -f /usr/lib/pkgconfig/libcanberra-gtk3.pc ]; then
+    echo -e "\n\e[1;31mERROR: libcanberra is missing gtk3 support; ensure gtk3 is installed and rebuild libcanberra.\e[0m\n"
+    exit 1
+  fi
+
   cd $name-$version
   ./configure --prefix=/usr \
     --libexecdir=/usr/lib/$name \
