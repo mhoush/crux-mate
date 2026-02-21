@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOefKidX5gtNcdW7NuY6VNv0uf3F8QZUAqxc0tDhPxITk1rQs68O7X14tdVnig64GE8mxbNqhBqdxuz+G2pLIWwY=
-SHA256 (Pkgfile) = 153bd6f2cdaad4467ce96218ba2ac226e379b574410786f94a01c3c00bdf667d
+RWTDGCtBFHpiOQjsZqCXM1xh5QA1sy2CgxPutFmlXW2StZiCUo2LFI2+tGhRoQUaF2wqkwqDdUwwQWTyEgTaCtni7toK0C2sTg4=
+SHA256 (Pkgfile) = c406509cfd2fe366a26feb04fc25182e4f060e923807fd4de204065213c4f6b2
 SHA256 (.footprint) = 6bd3c7ab6ff49cbe95f9ce87feda99c264a6f7f2b14e16b83bd460da0bf50812
 SHA256 (pluma-1.28.0.tar.xz) = aa8adf9589345093a50e30b27ede4a78a2421d1727c27f465fc87c435965a1d4

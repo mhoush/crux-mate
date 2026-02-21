@@ -1,7 +1,7 @@
 # Description: Notification daemon for MATE
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: gtk3 dbus-glib libcanberra libwnck-gtk3 libnotify desktop-file-utils mate-panel
+# Depends on: libcanberra libnotify mate-panel
 
 name=mate-notification-daemon
 version=1.28.3

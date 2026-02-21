@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOc+fk1AmYQaEwHkxBxdPnRmGmuiitVTGtvMUFrk5pE+gp3h6jscbkqasQWeBWVqF9Z5jyLm6rp/3SYnhaW9e/A8=
-SHA256 (Pkgfile) = 59fae5d4df794ea47ba65cbff4638523f651e729353b26c71c5f573d6f7e2185
+RWTDGCtBFHpiObllcQQUZSwNY0gcO8sDPL7nUDxadQCdubYGjrd2CZ/CwAIT4JrBgRv+ga04XRhwUkMit7KC9pLfANgLSENj4gI=
+SHA256 (Pkgfile) = b3ff67eea124d8aba73c8178699de36c5d666a33af79130c0684f0731778a5b5
 SHA256 (.footprint) = 79e553f9dd5b8c92421b03ff4dd59c28131439645b106a8e97537fa330b467a8
 SHA256 (mate-system-monitor-1.28.1.tar.xz) = 42d663d6b90fb5361ebc13f6547983d6f1e2ac75dc2ae4f1cac6ea6329965a25
 SHA256 (msm-cpu-colors.patch) = 06a9c27e105c968d1cb88247e9953692b67704e847eb34e4a06fce9c5f8d50ea

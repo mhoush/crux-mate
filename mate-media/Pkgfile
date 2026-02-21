@@ -1,7 +1,7 @@
 # Description: Media tools for MATE
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: libmatemixer gtk3 libcanberra mate-desktop mate-panel
+# Depends on: libmatemixer libcanberra mate-panel
 
 name=mate-media
 version=1.28.1

@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOe0OYmuBJNd6Vc89Riz+str8iyQiynt8V3rzfYdh0aYeQPhfLbcn0fE31oucZuZ6bB3tiu4gv6jH2FN+Zj4JzQs=
-SHA256 (Pkgfile) = 2538aa6fddb510c09593c350426b53504ab278d8f4dd300affbae9bbb5fdb9ae
+RWTDGCtBFHpiOfb8x2LWHzoM/Nww5xwIjCqMHcezcf7khD2i2meduoT49IONq5/exwRAuY/e+gExEeJOQUnWzpMmcmKGEN/FOQE=
+SHA256 (Pkgfile) = bbf06ff9fdd545430bcd9f991424d5e6a211a7766c3deccfaa065f96e020a46e
 SHA256 (.footprint) = 7fc4b417534a6fb588f14e9026f2bc42597cb82a5a13ca7c4bff059ce3c7047b
 SHA256 (mate-terminal-1.28.1.tar.xz) = f135eb1a9e2ae22798ecb2dc1914fdb4cfd774e6bb65c0152be37cc6c9469e92

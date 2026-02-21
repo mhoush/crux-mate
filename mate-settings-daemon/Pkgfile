@@ -1,7 +1,7 @@
 # Description: A fork of gnome-settings-daemon for MATE
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: libxklavier libmatekbd dbus-glib dconf mate-desktop polkit libmatemixer nss libnotify
+# Depends on: libmatekbd dbus-glib mate-desktop polkit libmatemixer nss libnotify
 
 name=mate-settings-daemon
 version=1.28.0

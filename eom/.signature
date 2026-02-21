@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOVDd7p/wX1r5JI0uy0ITTExqQ/6fnJmjB7fPDTBKtcoUD/TiwkRTl+onyCqFRUaEvjz8sMyz3hyl0z1TfryG5wk=
-SHA256 (Pkgfile) = de7ac891ac877cc64d47bb14d16a885e8cbe5f179cff6ee841b0d254c31493cf
+RWTDGCtBFHpiOeU2ySRhcKSc1zPOjU1zfF3erNQ7pPuTGYftZhs45ve3V8ErJa1SqUIQtIDycBTqlfNy2JeK1yG92bN+GpC4wgc=
+SHA256 (Pkgfile) = 4e0001306fd2dceb1de1db553d05c17cc3e0c642054ef842274ed44cd844873b
 SHA256 (.footprint) = 12512f5e51fd6edf34f8c62e264c74f2d8e6e8b99da7412d1292b8f526e51732
 SHA256 (eom-1.28.0.tar.xz) = 9a01cab2995a1a8c7258c865eae5f182ed4730c44672afdc3a07e423edd53abc

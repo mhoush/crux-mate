@@ -1,7 +1,7 @@
 # Description: MATE session manager and configuration program
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: dbus-glib gtk3 consolekit gtk desktop-file-utils
+# Depends on: dbus-glib gtk3 consolekit gtk
 
 name=mate-session-manager
 version=1.28.0

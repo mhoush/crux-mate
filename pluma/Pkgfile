@@ -1,7 +1,7 @@
 # Description: A powerful text editor for MATE
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: enchant gtk3 gtksourceview4 libpeas iso-codes itstool desktop-file-utils
+# Depends on: enchant gtksourceview4 libpeas iso-codes
 
 name=pluma
 version=1.28.0

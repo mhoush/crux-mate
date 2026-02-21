@@ -1,7 +1,7 @@
 # Description: A document viewer for MATE
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: gtk3 libsecret poppler itstool desktop-file-utils libsynctex mate-desktop
+# Depends on: libsecret poppler libsynctex mate-desktop
 # Optional: caja
 
 name=atril

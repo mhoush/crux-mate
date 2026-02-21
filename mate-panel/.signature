@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/mate.pub
-RWTDGCtBFHpiOZZk+Dlt3hd4my3VUjbpbyuDogm1pAfFgP2BIEhRMdMvSj39Nq4sPkF4/Cn8nl3Jhm8SmlK6c5XPzMlqNbAJ5g0=
-SHA256 (Pkgfile) = 86a4b593e0f2c78d384d53552a6986a4e5f4b9cdab1dba130df007fde91fb3f1
+RWTDGCtBFHpiOUz50z+0mgtIUiyrur8yQZIzlRR35vW8wYfyzPsYTEZFfMP0KHTRdnLvjbsS+zU20T1imxacl/a3F29KDxZCfg4=
+SHA256 (Pkgfile) = 79f7ba7260341e4d337dd1e0e9eae1daa3edf3048b75f902ac37b2be5fa29ca9
 SHA256 (.footprint) = 7efe8afd994465a96c532e411eff9399fe3b50bf40e699534eb509b757280411
 SHA256 (mate-panel-1.28.4.tar.xz) = 02f09eb0314c2ac197b6f089950a571cdba39bfd03d6c3a0b8fd77252a968874

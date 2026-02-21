@@ -1,7 +1,7 @@
 # Description: An image viewer for MATE
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: libpeas itstool mate-desktop libexif desktop-file-utils
+# Depends on: libpeas mate-desktop libexif
 
 name=eom
 version=1.28.0

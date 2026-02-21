@@ -1,7 +1,7 @@
 # Description: A library with common API for MATE modules
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: dconf gtk gtk3 desktop-file-utils iso-codes
+# Depends on: dconf gtk gtk3 iso-codes
 
 name=mate-desktop
 version=1.28.2

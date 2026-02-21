@@ -1,7 +1,7 @@
 # Description: A file archiver for MATE
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: gtk3 caja itstool
+# Depends on: caja
 
 name=engrampa
 version=1.28.2

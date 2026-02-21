@@ -1,7 +1,7 @@
 # Description: MATE Desktop meta-port
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: atril caja engrampa eom marco mate-applets mate-backgrounds mate-calc mate-control-center mate-desktop mate-icon-theme mate-icon-theme-faenza mate-indicator-applet mate-media mate-menus mate-notification-daemon mate-panel mate-power-manager mate-screensaver mate-sensors-applet mate-session-manager mate-settings-daemon mate-system-monitor mate-terminal mate-themes mozo pluma
+# Depends on: atril engrampa eom mate-applets mate-backgrounds mate-calc mate-control-center mate-icon-theme mate-icon-theme-faenza mate-indicator-applet mate-media mate-notification-daemon mate-power-manager mate-screensaver mate-sensors-applet mate-session-manager mate-system-monitor mate-terminal mate-themes mozo pluma
 
 name=mate
 version=1.28

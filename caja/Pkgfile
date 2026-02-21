@@ -1,7 +1,7 @@
 # Description: The file manager for MATE
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: mate-desktop glib gtk3 libnotify gvfs desktop-file-utils
+# Depends on: mate-desktop libnotify gvfs
 
 name=caja
 version=1.28.0

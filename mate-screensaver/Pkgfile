@@ -1,7 +1,7 @@
 # Description: Screensaver and locker for MATE
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: xorg-libxscrnsaver gtk3 mate-desktop dbus-glib mate-menus
+# Depends on: xorg-libxscrnsaver mate-desktop dbus-glib mate-menus
 
 name=mate-screensaver
 version=1.28.0

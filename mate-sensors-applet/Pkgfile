@@ -1,7 +1,7 @@
 # Description: Display readings from hardware sensors in the MATE panel
 # URL: http://www.mate-desktop.org/
 # Maintainer: Matt Housh, jaeger at crux dot ninja
-# Depends on: lm_sensors gtk3 mate-panel libxslt
+# Depends on: lm_sensors mate-panel libxslt
 
 name=mate-sensors-applet
 version=1.28.0
